@@ -2,6 +2,10 @@
 
 含Emoji表情处理、中日韩字符判断、Unicode格式化表示等，可用于解决微信登录Emoji表情昵称乱码问题。
 
+```java
+str = UnicodeUtils.emojiEncode(false, str);
+```
+
 Emoji表情有很多种版本，其中包括Unified、DoCoMo、KDDI、SoftBank和Google，不同版本的Unicode代码并不一定相同。
 <pre>
 微信昵称中的Emoji表情截止2019.12.06已知支持三种版本：

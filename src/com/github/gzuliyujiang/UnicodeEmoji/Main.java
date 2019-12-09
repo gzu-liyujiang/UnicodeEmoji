@@ -120,12 +120,19 @@ class Main {
     }
 
     private static void decodeSBToEmoji() throws IOException {
-        File file = new File(System.getProperty("user.dir"), "softbank_decode.json");
+        File asCharacterFile = new File(System.getProperty("user.dir"), "softbank_decode.json");
+        File asUnicodeFile = new File(System.getProperty("user.dir"), "softbank_unicode.json");
+        File asMapFile = new File(System.getProperty("user.dir"), "softbank_map.txt");
         String json = IOUtils.readStringThrown(new File(System.getProperty("user.dir"), "emoji.json").getAbsolutePath(), "utf-8");
         Gson gson = new Gson().newBuilder().disableHtmlEscaping().create();
         List<Emoji> emojiList = gson.fromJson(json, new TypeToken<List<Emoji>>() {
         }.getType());
-        HashMap<String, String> map = new HashMap<>();
+        HashMap<String, String> characterMap = new HashMap<>();
+        HashMap<String, String> unicodeMap = new HashMap<>();
+        StringBuilder mapBuilder = new StringBuilder();
+        mapBuilder.append("private static final HashMap<String, String> SB_UNICODE = new HashMap<>();\n\n");
+        mapBuilder.append("public static String obtainUnicodeBySoftBank(String softbank) {\n");
+        mapBuilder.append("    if (SB_UNICODE.size() == 0) {\n");
         for (Emoji emoji : emojiList) {
             String softbank = emoji.getSoftbank();
             if (softbank != null && softbank.length() > 0) {
@@ -144,12 +151,25 @@ class Main {
                 byte[] unicodeBytes = baos.toByteArray();
                 String str = new String(unicodeBytes, Charset.forName("UTF-32BE"));
                 baos.close();
-                map.put(softbank, str);
+                String hexStr = UnicodeUtils.toUnicodeFormal(str);
+                mapBuilder.append("        SB_UNICODE.put(\"").append(softbank).append("\", \"").append(hexStr).append("\");\n");
+                characterMap.put(softbank, str);
+                unicodeMap.put(softbank, hexStr);
             }
         }
-        String content = new Gson().toJson(map);
-        IOUtils.writeStringThrown(file.getAbsolutePath(), content, "utf-8");
-        System.out.println("mapped: " + file);
+        mapBuilder.append("    }\n");
+        mapBuilder.append("    String ret = SB_UNICODE.get(softbank);\n");
+        mapBuilder.append("    if (ret == null) {\n");
+        mapBuilder.append("        ret = softbank;\n");
+        mapBuilder.append("    }\n");
+        mapBuilder.append("    return ret;\n");
+        mapBuilder.append("}\n");
+        IOUtils.writeStringThrown(asCharacterFile.getAbsolutePath(), new Gson().toJson(characterMap), "utf-8");
+        System.out.println("mapped as character: " + asCharacterFile);
+        IOUtils.writeStringThrown(asUnicodeFile.getAbsolutePath(), new Gson().toJson(unicodeMap), "utf-8");
+        System.out.println("mapped as unicode: " + asUnicodeFile);
+        IOUtils.writeStringThrown(asMapFile.getAbsolutePath(), mapBuilder.toString(), "utf-8");
+        System.out.println("mapped as map: " + asMapFile);
     }
 
 }
