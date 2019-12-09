@@ -18,6 +18,7 @@ import java.util.List;
  *
  * @author 大定府羡民
  */
+@SuppressWarnings("unused")
 class Main {
 
     public static void main(String[] args) throws Exception {
@@ -28,7 +29,8 @@ class Main {
         System.out.println("allUnicodeEncode=" + UnicodeUtils.toUnicodeFormal(str));
         //testEncoding();
         //downloadJson();
-        //mapSBToUnified();
+        mapSBToUnified();
+        decodeSBToEmoji();
     }
 
     /**
@@ -53,6 +55,8 @@ class Main {
         System.out.println("len=" + str.length());
         System.out.println("Default=" + str.getBytes().length + "" +
                 "  HEX=" + UnicodeUtils.bytesToHexString(str.getBytes()));
+        System.out.println("Unicode=" + str.getBytes(Charset.forName("UNICODE")).length + "" +
+                "  HEX=" + UnicodeUtils.bytesToHexString(str.getBytes(Charset.forName("UNICODE"))));
         System.out.println("US-ASCII=" + str.getBytes(StandardCharsets.US_ASCII).length + "" +
                 "  HEX=" + UnicodeUtils.bytesToHexString(str.getBytes(StandardCharsets.US_ASCII)));
         System.out.println("ISO-8859-1=" + str.getBytes(StandardCharsets.ISO_8859_1).length + "" +
@@ -84,7 +88,7 @@ class Main {
     }
 
     private static void mapSBToUnified() throws IOException {
-        File file = new File(System.getProperty("user.dir"), "softbank.json");
+        File file = new File(System.getProperty("user.dir"), "softbank_unified.json");
         String json = IOUtils.readStringThrown(new File(System.getProperty("user.dir"), "emoji.json").getAbsolutePath(), "utf-8");
         Gson gson = new Gson().newBuilder().disableHtmlEscaping().create();
         List<Emoji> emojiList = gson.fromJson(json, new TypeToken<List<Emoji>>() {
@@ -108,6 +112,39 @@ class Main {
                 byte[] unicodeBytes = baos.toByteArray();
                 map.put(softbank, UnicodeUtils.bytesToHexString(unicodeBytes));
                 baos.close();
+            }
+        }
+        String content = new Gson().toJson(map);
+        IOUtils.writeStringThrown(file.getAbsolutePath(), content, "utf-8");
+        System.out.println("mapped: " + file);
+    }
+
+    private static void decodeSBToEmoji() throws IOException {
+        File file = new File(System.getProperty("user.dir"), "softbank_decode.json");
+        String json = IOUtils.readStringThrown(new File(System.getProperty("user.dir"), "emoji.json").getAbsolutePath(), "utf-8");
+        Gson gson = new Gson().newBuilder().disableHtmlEscaping().create();
+        List<Emoji> emojiList = gson.fromJson(json, new TypeToken<List<Emoji>>() {
+        }.getType());
+        HashMap<String, String> map = new HashMap<>();
+        for (Emoji emoji : emojiList) {
+            String softbank = emoji.getSoftbank();
+            if (softbank != null && softbank.length() > 0) {
+                String unified = emoji.getUnified();
+                ByteArrayOutputStream baos = new ByteArrayOutputStream();
+                if (unified.contains("-")) {
+                    String[] us = unified.split("-");
+                    for (String u : us) {
+                        byte[] bytes = UnicodeUtils.singleHexStringToBytes(u);
+                        baos.write(bytes, 0, bytes.length);
+                    }
+                } else {
+                    byte[] bytes = UnicodeUtils.singleHexStringToBytes(unified);
+                    baos.write(bytes, 0, bytes.length);
+                }
+                byte[] unicodeBytes = baos.toByteArray();
+                String str = new String(unicodeBytes, Charset.forName("UTF-32BE"));
+                baos.close();
+                map.put(softbank, str);
             }
         }
         String content = new Gson().toJson(map);

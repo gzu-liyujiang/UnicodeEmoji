@@ -18,16 +18,16 @@ public class UnicodeUtils {
      * <pre>
      * 微信昵称中的Emoji表情截止2019.12.06已知支持三种版本：
      * 1、SoftBank版本（网上一般称之为SB Unicode），如😂为E412；
-     * 2、Unified版本，如😂为\uD83D\uDE02；
+     * 2、Unified版本，如😂为1F602；
      * 3、自定义表情版本，如😂为[笑脸]。
      * 😂(笑脸)的各种编码如下：
      * SoftBank：0000E412
-     * Unified：0001F602
+     * Unified：0001F602（U+1F602）
      * DoCoMo：0000E72A
      * KDDI：0000EB64
      * Google：000FE334
-     * UTF-8：F09F9882
-     * UTF-16BE：FEFFD83DDE02
+     * UTF-8：F09F9882（%F0%9F%98%82）
+     * UTF-16BE：FEFFD83DDE02（\uD83D\uDE02）
      * UTF-16LE：FFFE3DD802DE
      * UTF-32BE：0000FEFF0001F602
      * UTF-32LE：FFFE000002F60100
