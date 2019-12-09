@@ -1,0 +1,8544 @@
+[
+  {
+    "name": "HASH KEY",
+    "unified": "0023-FE0F-20E3",
+    "docomo": "E6E0",
+    "au": "EB84",
+    "softbank": "E210",
+    "google": "FE82C"
+  },
+  {
+    "unified": "002A-FE0F-20E3"
+  },
+  {
+    "name": "KEYCAP 0",
+    "unified": "0030-FE0F-20E3",
+    "docomo": "E6EB",
+    "au": "E5AC",
+    "softbank": "E225",
+    "google": "FE837"
+  },
+  {
+    "name": "KEYCAP 1",
+    "unified": "0031-FE0F-20E3",
+    "docomo": "E6E2",
+    "au": "E522",
+    "softbank": "E21C",
+    "google": "FE82E"
+  },
+  {
+    "name": "KEYCAP 2",
+    "unified": "0032-FE0F-20E3",
+    "docomo": "E6E3",
+    "au": "E523",
+    "softbank": "E21D",
+    "google": "FE82F"
+  },
+  {
+    "name": "KEYCAP 3",
+    "unified": "0033-FE0F-20E3",
+    "docomo": "E6E4",
+    "au": "E524",
+    "softbank": "E21E",
+    "google": "FE830"
+  },
+  {
+    "name": "KEYCAP 4",
+    "unified": "0034-FE0F-20E3",
+    "docomo": "E6E5",
+    "au": "E525",
+    "softbank": "E21F",
+    "google": "FE831"
+  },
+  {
+    "name": "KEYCAP 5",
+    "unified": "0035-FE0F-20E3",
+    "docomo": "E6E6",
+    "au": "E526",
+    "softbank": "E220",
+    "google": "FE832"
+  },
+  {
+    "name": "KEYCAP 6",
+    "unified": "0036-FE0F-20E3",
+    "docomo": "E6E7",
+    "au": "E527",
+    "softbank": "E221",
+    "google": "FE833"
+  },
+  {
+    "name": "KEYCAP 7",
+    "unified": "0037-FE0F-20E3",
+    "docomo": "E6E8",
+    "au": "E528",
+    "softbank": "E222",
+    "google": "FE834"
+  },
+  {
+    "name": "KEYCAP 8",
+    "unified": "0038-FE0F-20E3",
+    "docomo": "E6E9",
+    "au": "E529",
+    "softbank": "E223",
+    "google": "FE835"
+  },
+  {
+    "name": "KEYCAP 9",
+    "unified": "0039-FE0F-20E3",
+    "docomo": "E6EA",
+    "au": "E52A",
+    "softbank": "E224",
+    "google": "FE836"
+  },
+  {
+    "name": "COPYRIGHT SIGN",
+    "unified": "00A9-FE0F",
+    "docomo": "E731",
+    "au": "E558",
+    "softbank": "E24E",
+    "google": "FEB29"
+  },
+  {
+    "name": "REGISTERED SIGN",
+    "unified": "00AE-FE0F",
+    "docomo": "E736",
+    "au": "E559",
+    "softbank": "E24F",
+    "google": "FEB2D"
+  },
+  {
+    "name": "MAHJONG TILE RED DRAGON",
+    "unified": "1F004",
+    "au": "E5D1",
+    "softbank": "E12D",
+    "google": "FE80B"
+  },
+  {
+    "name": "PLAYING CARD BLACK JOKER",
+    "unified": "1F0CF",
+    "au": "EB6F",
+    "google": "FE812"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
+    "unified": "1F170-FE0F",
+    "au": "EB26",
+    "softbank": "E532",
+    "google": "FE50B"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
+    "unified": "1F171-FE0F",
+    "au": "EB27",
+    "softbank": "E533",
+    "google": "FE50C"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
+    "unified": "1F17E-FE0F",
+    "au": "EB28",
+    "softbank": "E535",
+    "google": "FE50E"
+  },
+  {
+    "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
+    "unified": "1F17F-FE0F",
+    "docomo": "E66C",
+    "au": "E4A6",
+    "softbank": "E14F",
+    "google": "FE7F6"
+  },
+  {
+    "name": "NEGATIVE SQUARED AB",
+    "unified": "1F18E",
+    "au": "EB29",
+    "softbank": "E534",
+    "google": "FE50D"
+  },
+  {
+    "name": "SQUARED CL",
+    "unified": "1F191",
+    "docomo": "E6DB",
+    "au": "E5AB",
+    "google": "FEB84"
+  },
+  {
+    "name": "SQUARED COOL",
+    "unified": "1F192",
+    "au": "EA85",
+    "softbank": "E214",
+    "google": "FEB38"
+  },
+  {
+    "name": "SQUARED FREE",
+    "unified": "1F193",
+    "docomo": "E6D7",
+    "au": "E578",
+    "google": "FEB21"
+  },
+  {
+    "name": "SQUARED ID",
+    "unified": "1F194",
+    "docomo": "E6D8",
+    "au": "EA88",
+    "softbank": "E229",
+    "google": "FEB81"
+  },
+  {
+    "name": "SQUARED NEW",
+    "unified": "1F195",
+    "docomo": "E6DD",
+    "au": "E5B5",
+    "softbank": "E212",
+    "google": "FEB36"
+  },
+  {
+    "name": "SQUARED NG",
+    "unified": "1F196",
+    "docomo": "E72F",
+    "google": "FEB28"
+  },
+  {
+    "name": "SQUARED OK",
+    "unified": "1F197",
+    "docomo": "E70B",
+    "au": "E5AD",
+    "softbank": "E24D",
+    "google": "FEB27"
+  },
+  {
+    "name": "SQUARED SOS",
+    "unified": "1F198",
+    "au": "E4E8",
+    "google": "FEB4F"
+  },
+  {
+    "name": "SQUARED UP WITH EXCLAMATION MARK",
+    "unified": "1F199",
+    "au": "E50F",
+    "softbank": "E213",
+    "google": "FEB37"
+  },
+  {
+    "name": "SQUARED VS",
+    "unified": "1F19A",
+    "au": "E5D2",
+    "softbank": "E12E",
+    "google": "FEB32"
+  },
+  {
+    "name": "Ascension Island Flag",
+    "unified": "1F1E6-1F1E8"
+  },
+  {
+    "name": "Andorra Flag",
+    "unified": "1F1E6-1F1E9"
+  },
+  {
+    "name": "United Arab Emirates Flag",
+    "unified": "1F1E6-1F1EA"
+  },
+  {
+    "name": "Afghanistan Flag",
+    "unified": "1F1E6-1F1EB"
+  },
+  {
+    "name": "Antigua \u0026 Barbuda Flag",
+    "unified": "1F1E6-1F1EC"
+  },
+  {
+    "name": "Anguilla Flag",
+    "unified": "1F1E6-1F1EE"
+  },
+  {
+    "name": "Albania Flag",
+    "unified": "1F1E6-1F1F1"
+  },
+  {
+    "name": "Armenia Flag",
+    "unified": "1F1E6-1F1F2"
+  },
+  {
+    "name": "Angola Flag",
+    "unified": "1F1E6-1F1F4"
+  },
+  {
+    "name": "Antarctica Flag",
+    "unified": "1F1E6-1F1F6"
+  },
+  {
+    "name": "Argentina Flag",
+    "unified": "1F1E6-1F1F7"
+  },
+  {
+    "name": "American Samoa Flag",
+    "unified": "1F1E6-1F1F8"
+  },
+  {
+    "name": "Austria Flag",
+    "unified": "1F1E6-1F1F9"
+  },
+  {
+    "name": "Australia Flag",
+    "unified": "1F1E6-1F1FA"
+  },
+  {
+    "name": "Aruba Flag",
+    "unified": "1F1E6-1F1FC"
+  },
+  {
+    "name": "Åland Islands Flag",
+    "unified": "1F1E6-1F1FD"
+  },
+  {
+    "name": "Azerbaijan Flag",
+    "unified": "1F1E6-1F1FF"
+  },
+  {
+    "name": "Bosnia \u0026 Herzegovina Flag",
+    "unified": "1F1E7-1F1E6"
+  },
+  {
+    "name": "Barbados Flag",
+    "unified": "1F1E7-1F1E7"
+  },
+  {
+    "name": "Bangladesh Flag",
+    "unified": "1F1E7-1F1E9"
+  },
+  {
+    "name": "Belgium Flag",
+    "unified": "1F1E7-1F1EA"
+  },
+  {
+    "name": "Burkina Faso Flag",
+    "unified": "1F1E7-1F1EB"
+  },
+  {
+    "name": "Bulgaria Flag",
+    "unified": "1F1E7-1F1EC"
+  },
+  {
+    "name": "Bahrain Flag",
+    "unified": "1F1E7-1F1ED"
+  },
+  {
+    "name": "Burundi Flag",
+    "unified": "1F1E7-1F1EE"
+  },
+  {
+    "name": "Benin Flag",
+    "unified": "1F1E7-1F1EF"
+  },
+  {
+    "name": "St. Barthélemy Flag",
+    "unified": "1F1E7-1F1F1"
+  },
+  {
+    "name": "Bermuda Flag",
+    "unified": "1F1E7-1F1F2"
+  },
+  {
+    "name": "Brunei Flag",
+    "unified": "1F1E7-1F1F3"
+  },
+  {
+    "name": "Bolivia Flag",
+    "unified": "1F1E7-1F1F4"
+  },
+  {
+    "name": "Caribbean Netherlands Flag",
+    "unified": "1F1E7-1F1F6"
+  },
+  {
+    "name": "Brazil Flag",
+    "unified": "1F1E7-1F1F7"
+  },
+  {
+    "name": "Bahamas Flag",
+    "unified": "1F1E7-1F1F8"
+  },
+  {
+    "name": "Bhutan Flag",
+    "unified": "1F1E7-1F1F9"
+  },
+  {
+    "name": "Bouvet Island Flag",
+    "unified": "1F1E7-1F1FB"
+  },
+  {
+    "name": "Botswana Flag",
+    "unified": "1F1E7-1F1FC"
+  },
+  {
+    "name": "Belarus Flag",
+    "unified": "1F1E7-1F1FE"
+  },
+  {
+    "name": "Belize Flag",
+    "unified": "1F1E7-1F1FF"
+  },
+  {
+    "name": "Canada Flag",
+    "unified": "1F1E8-1F1E6"
+  },
+  {
+    "name": "Cocos (Keeling) Islands Flag",
+    "unified": "1F1E8-1F1E8"
+  },
+  {
+    "name": "Congo - Kinshasa Flag",
+    "unified": "1F1E8-1F1E9"
+  },
+  {
+    "name": "Central African Republic Flag",
+    "unified": "1F1E8-1F1EB"
+  },
+  {
+    "name": "Congo - Brazzaville Flag",
+    "unified": "1F1E8-1F1EC"
+  },
+  {
+    "name": "Switzerland Flag",
+    "unified": "1F1E8-1F1ED"
+  },
+  {
+    "name": "Côte d’Ivoire Flag",
+    "unified": "1F1E8-1F1EE"
+  },
+  {
+    "name": "Cook Islands Flag",
+    "unified": "1F1E8-1F1F0"
+  },
+  {
+    "name": "Chile Flag",
+    "unified": "1F1E8-1F1F1"
+  },
+  {
+    "name": "Cameroon Flag",
+    "unified": "1F1E8-1F1F2"
+  },
+  {
+    "name": "China Flag",
+    "unified": "1F1E8-1F1F3",
+    "au": "EB11",
+    "softbank": "E513",
+    "google": "FE4ED"
+  },
+  {
+    "name": "Colombia Flag",
+    "unified": "1F1E8-1F1F4"
+  },
+  {
+    "name": "Clipperton Island Flag",
+    "unified": "1F1E8-1F1F5"
+  },
+  {
+    "name": "Costa Rica Flag",
+    "unified": "1F1E8-1F1F7"
+  },
+  {
+    "name": "Cuba Flag",
+    "unified": "1F1E8-1F1FA"
+  },
+  {
+    "name": "Cape Verde Flag",
+    "unified": "1F1E8-1F1FB"
+  },
+  {
+    "name": "Curaçao Flag",
+    "unified": "1F1E8-1F1FC"
+  },
+  {
+    "name": "Christmas Island Flag",
+    "unified": "1F1E8-1F1FD"
+  },
+  {
+    "name": "Cyprus Flag",
+    "unified": "1F1E8-1F1FE"
+  },
+  {
+    "name": "Czechia Flag",
+    "unified": "1F1E8-1F1FF"
+  },
+  {
+    "name": "Germany Flag",
+    "unified": "1F1E9-1F1EA",
+    "au": "EB0E",
+    "softbank": "E50E",
+    "google": "FE4E8"
+  },
+  {
+    "name": "Diego Garcia Flag",
+    "unified": "1F1E9-1F1EC"
+  },
+  {
+    "name": "Djibouti Flag",
+    "unified": "1F1E9-1F1EF"
+  },
+  {
+    "name": "Denmark Flag",
+    "unified": "1F1E9-1F1F0"
+  },
+  {
+    "name": "Dominica Flag",
+    "unified": "1F1E9-1F1F2"
+  },
+  {
+    "name": "Dominican Republic Flag",
+    "unified": "1F1E9-1F1F4"
+  },
+  {
+    "name": "Algeria Flag",
+    "unified": "1F1E9-1F1FF"
+  },
+  {
+    "name": "Ceuta \u0026 Melilla Flag",
+    "unified": "1F1EA-1F1E6"
+  },
+  {
+    "name": "Ecuador Flag",
+    "unified": "1F1EA-1F1E8"
+  },
+  {
+    "name": "Estonia Flag",
+    "unified": "1F1EA-1F1EA"
+  },
+  {
+    "name": "Egypt Flag",
+    "unified": "1F1EA-1F1EC"
+  },
+  {
+    "name": "Western Sahara Flag",
+    "unified": "1F1EA-1F1ED"
+  },
+  {
+    "name": "Eritrea Flag",
+    "unified": "1F1EA-1F1F7"
+  },
+  {
+    "name": "Spain Flag",
+    "unified": "1F1EA-1F1F8",
+    "au": "E5D5",
+    "softbank": "E511",
+    "google": "FE4EB"
+  },
+  {
+    "name": "Ethiopia Flag",
+    "unified": "1F1EA-1F1F9"
+  },
+  {
+    "name": "European Union Flag",
+    "unified": "1F1EA-1F1FA"
+  },
+  {
+    "name": "Finland Flag",
+    "unified": "1F1EB-1F1EE"
+  },
+  {
+    "name": "Fiji Flag",
+    "unified": "1F1EB-1F1EF"
+  },
+  {
+    "name": "Falkland Islands Flag",
+    "unified": "1F1EB-1F1F0"
+  },
+  {
+    "name": "Micronesia Flag",
+    "unified": "1F1EB-1F1F2"
+  },
+  {
+    "name": "Faroe Islands Flag",
+    "unified": "1F1EB-1F1F4"
+  },
+  {
+    "name": "France Flag",
+    "unified": "1F1EB-1F1F7",
+    "au": "EAFA",
+    "softbank": "E50D",
+    "google": "FE4E7"
+  },
+  {
+    "name": "Gabon Flag",
+    "unified": "1F1EC-1F1E6"
+  },
+  {
+    "name": "United Kingdom Flag",
+    "unified": "1F1EC-1F1E7",
+    "au": "EB10",
+    "softbank": "E510",
+    "google": "FE4EA"
+  },
+  {
+    "name": "Grenada Flag",
+    "unified": "1F1EC-1F1E9"
+  },
+  {
+    "name": "Georgia Flag",
+    "unified": "1F1EC-1F1EA"
+  },
+  {
+    "name": "French Guiana Flag",
+    "unified": "1F1EC-1F1EB"
+  },
+  {
+    "name": "Guernsey Flag",
+    "unified": "1F1EC-1F1EC"
+  },
+  {
+    "name": "Ghana Flag",
+    "unified": "1F1EC-1F1ED"
+  },
+  {
+    "name": "Gibraltar Flag",
+    "unified": "1F1EC-1F1EE"
+  },
+  {
+    "name": "Greenland Flag",
+    "unified": "1F1EC-1F1F1"
+  },
+  {
+    "name": "Gambia Flag",
+    "unified": "1F1EC-1F1F2"
+  },
+  {
+    "name": "Guinea Flag",
+    "unified": "1F1EC-1F1F3"
+  },
+  {
+    "name": "Guadeloupe Flag",
+    "unified": "1F1EC-1F1F5"
+  },
+  {
+    "name": "Equatorial Guinea Flag",
+    "unified": "1F1EC-1F1F6"
+  },
+  {
+    "name": "Greece Flag",
+    "unified": "1F1EC-1F1F7"
+  },
+  {
+    "name": "South Georgia \u0026 South Sandwich Islands Flag",
+    "unified": "1F1EC-1F1F8"
+  },
+  {
+    "name": "Guatemala Flag",
+    "unified": "1F1EC-1F1F9"
+  },
+  {
+    "name": "Guam Flag",
+    "unified": "1F1EC-1F1FA"
+  },
+  {
+    "name": "Guinea-Bissau Flag",
+    "unified": "1F1EC-1F1FC"
+  },
+  {
+    "name": "Guyana Flag",
+    "unified": "1F1EC-1F1FE"
+  },
+  {
+    "name": "Hong Kong SAR China Flag",
+    "unified": "1F1ED-1F1F0"
+  },
+  {
+    "name": "Heard \u0026 McDonald Islands Flag",
+    "unified": "1F1ED-1F1F2"
+  },
+  {
+    "name": "Honduras Flag",
+    "unified": "1F1ED-1F1F3"
+  },
+  {
+    "name": "Croatia Flag",
+    "unified": "1F1ED-1F1F7"
+  },
+  {
+    "name": "Haiti Flag",
+    "unified": "1F1ED-1F1F9"
+  },
+  {
+    "name": "Hungary Flag",
+    "unified": "1F1ED-1F1FA"
+  },
+  {
+    "name": "Canary Islands Flag",
+    "unified": "1F1EE-1F1E8"
+  },
+  {
+    "name": "Indonesia Flag",
+    "unified": "1F1EE-1F1E9"
+  },
+  {
+    "name": "Ireland Flag",
+    "unified": "1F1EE-1F1EA"
+  },
+  {
+    "name": "Israel Flag",
+    "unified": "1F1EE-1F1F1"
+  },
+  {
+    "name": "Isle of Man Flag",
+    "unified": "1F1EE-1F1F2"
+  },
+  {
+    "name": "India Flag",
+    "unified": "1F1EE-1F1F3"
+  },
+  {
+    "name": "British Indian Ocean Territory Flag",
+    "unified": "1F1EE-1F1F4"
+  },
+  {
+    "name": "Iraq Flag",
+    "unified": "1F1EE-1F1F6"
+  },
+  {
+    "name": "Iran Flag",
+    "unified": "1F1EE-1F1F7"
+  },
+  {
+    "name": "Iceland Flag",
+    "unified": "1F1EE-1F1F8"
+  },
+  {
+    "name": "Italy Flag",
+    "unified": "1F1EE-1F1F9",
+    "au": "EB0F",
+    "softbank": "E50F",
+    "google": "FE4E9"
+  },
+  {
+    "name": "Jersey Flag",
+    "unified": "1F1EF-1F1EA"
+  },
+  {
+    "name": "Jamaica Flag",
+    "unified": "1F1EF-1F1F2"
+  },
+  {
+    "name": "Jordan Flag",
+    "unified": "1F1EF-1F1F4"
+  },
+  {
+    "name": "Japan Flag",
+    "unified": "1F1EF-1F1F5",
+    "au": "E4CC",
+    "softbank": "E50B",
+    "google": "FE4E5"
+  },
+  {
+    "name": "Kenya Flag",
+    "unified": "1F1F0-1F1EA"
+  },
+  {
+    "name": "Kyrgyzstan Flag",
+    "unified": "1F1F0-1F1EC"
+  },
+  {
+    "name": "Cambodia Flag",
+    "unified": "1F1F0-1F1ED"
+  },
+  {
+    "name": "Kiribati Flag",
+    "unified": "1F1F0-1F1EE"
+  },
+  {
+    "name": "Comoros Flag",
+    "unified": "1F1F0-1F1F2"
+  },
+  {
+    "name": "St. Kitts \u0026 Nevis Flag",
+    "unified": "1F1F0-1F1F3"
+  },
+  {
+    "name": "North Korea Flag",
+    "unified": "1F1F0-1F1F5"
+  },
+  {
+    "name": "South Korea Flag",
+    "unified": "1F1F0-1F1F7",
+    "au": "EB12",
+    "softbank": "E514",
+    "google": "FE4EE"
+  },
+  {
+    "name": "Kuwait Flag",
+    "unified": "1F1F0-1F1FC"
+  },
+  {
+    "name": "Cayman Islands Flag",
+    "unified": "1F1F0-1F1FE"
+  },
+  {
+    "name": "Kazakhstan Flag",
+    "unified": "1F1F0-1F1FF"
+  },
+  {
+    "name": "Laos Flag",
+    "unified": "1F1F1-1F1E6"
+  },
+  {
+    "name": "Lebanon Flag",
+    "unified": "1F1F1-1F1E7"
+  },
+  {
+    "name": "St. Lucia Flag",
+    "unified": "1F1F1-1F1E8"
+  },
+  {
+    "name": "Liechtenstein Flag",
+    "unified": "1F1F1-1F1EE"
+  },
+  {
+    "name": "Sri Lanka Flag",
+    "unified": "1F1F1-1F1F0"
+  },
+  {
+    "name": "Liberia Flag",
+    "unified": "1F1F1-1F1F7"
+  },
+  {
+    "name": "Lesotho Flag",
+    "unified": "1F1F1-1F1F8"
+  },
+  {
+    "name": "Lithuania Flag",
+    "unified": "1F1F1-1F1F9"
+  },
+  {
+    "name": "Luxembourg Flag",
+    "unified": "1F1F1-1F1FA"
+  },
+  {
+    "name": "Latvia Flag",
+    "unified": "1F1F1-1F1FB"
+  },
+  {
+    "name": "Libya Flag",
+    "unified": "1F1F1-1F1FE"
+  },
+  {
+    "name": "Morocco Flag",
+    "unified": "1F1F2-1F1E6"
+  },
+  {
+    "name": "Monaco Flag",
+    "unified": "1F1F2-1F1E8"
+  },
+  {
+    "name": "Moldova Flag",
+    "unified": "1F1F2-1F1E9"
+  },
+  {
+    "name": "Montenegro Flag",
+    "unified": "1F1F2-1F1EA"
+  },
+  {
+    "name": "St. Martin Flag",
+    "unified": "1F1F2-1F1EB"
+  },
+  {
+    "name": "Madagascar Flag",
+    "unified": "1F1F2-1F1EC"
+  },
+  {
+    "name": "Marshall Islands Flag",
+    "unified": "1F1F2-1F1ED"
+  },
+  {
+    "name": "Macedonia Flag",
+    "unified": "1F1F2-1F1F0"
+  },
+  {
+    "name": "Mali Flag",
+    "unified": "1F1F2-1F1F1"
+  },
+  {
+    "name": "Myanmar (Burma) Flag",
+    "unified": "1F1F2-1F1F2"
+  },
+  {
+    "name": "Mongolia Flag",
+    "unified": "1F1F2-1F1F3"
+  },
+  {
+    "name": "Macau SAR China Flag",
+    "unified": "1F1F2-1F1F4"
+  },
+  {
+    "name": "Northern Mariana Islands Flag",
+    "unified": "1F1F2-1F1F5"
+  },
+  {
+    "name": "Martinique Flag",
+    "unified": "1F1F2-1F1F6"
+  },
+  {
+    "name": "Mauritania Flag",
+    "unified": "1F1F2-1F1F7"
+  },
+  {
+    "name": "Montserrat Flag",
+    "unified": "1F1F2-1F1F8"
+  },
+  {
+    "name": "Malta Flag",
+    "unified": "1F1F2-1F1F9"
+  },
+  {
+    "name": "Mauritius Flag",
+    "unified": "1F1F2-1F1FA"
+  },
+  {
+    "name": "Maldives Flag",
+    "unified": "1F1F2-1F1FB"
+  },
+  {
+    "name": "Malawi Flag",
+    "unified": "1F1F2-1F1FC"
+  },
+  {
+    "name": "Mexico Flag",
+    "unified": "1F1F2-1F1FD"
+  },
+  {
+    "name": "Malaysia Flag",
+    "unified": "1F1F2-1F1FE"
+  },
+  {
+    "name": "Mozambique Flag",
+    "unified": "1F1F2-1F1FF"
+  },
+  {
+    "name": "Namibia Flag",
+    "unified": "1F1F3-1F1E6"
+  },
+  {
+    "name": "New Caledonia Flag",
+    "unified": "1F1F3-1F1E8"
+  },
+  {
+    "name": "Niger Flag",
+    "unified": "1F1F3-1F1EA"
+  },
+  {
+    "name": "Norfolk Island Flag",
+    "unified": "1F1F3-1F1EB"
+  },
+  {
+    "name": "Nigeria Flag",
+    "unified": "1F1F3-1F1EC"
+  },
+  {
+    "name": "Nicaragua Flag",
+    "unified": "1F1F3-1F1EE"
+  },
+  {
+    "name": "Netherlands Flag",
+    "unified": "1F1F3-1F1F1"
+  },
+  {
+    "name": "Norway Flag",
+    "unified": "1F1F3-1F1F4"
+  },
+  {
+    "name": "Nepal Flag",
+    "unified": "1F1F3-1F1F5"
+  },
+  {
+    "name": "Nauru Flag",
+    "unified": "1F1F3-1F1F7"
+  },
+  {
+    "name": "Niue Flag",
+    "unified": "1F1F3-1F1FA"
+  },
+  {
+    "name": "New Zealand Flag",
+    "unified": "1F1F3-1F1FF"
+  },
+  {
+    "name": "Oman Flag",
+    "unified": "1F1F4-1F1F2"
+  },
+  {
+    "name": "Panama Flag",
+    "unified": "1F1F5-1F1E6"
+  },
+  {
+    "name": "Peru Flag",
+    "unified": "1F1F5-1F1EA"
+  },
+  {
+    "name": "French Polynesia Flag",
+    "unified": "1F1F5-1F1EB"
+  },
+  {
+    "name": "Papua New Guinea Flag",
+    "unified": "1F1F5-1F1EC"
+  },
+  {
+    "name": "Philippines Flag",
+    "unified": "1F1F5-1F1ED"
+  },
+  {
+    "name": "Pakistan Flag",
+    "unified": "1F1F5-1F1F0"
+  },
+  {
+    "name": "Poland Flag",
+    "unified": "1F1F5-1F1F1"
+  },
+  {
+    "name": "St. Pierre \u0026 Miquelon Flag",
+    "unified": "1F1F5-1F1F2"
+  },
+  {
+    "name": "Pitcairn Islands Flag",
+    "unified": "1F1F5-1F1F3"
+  },
+  {
+    "name": "Puerto Rico Flag",
+    "unified": "1F1F5-1F1F7"
+  },
+  {
+    "name": "Palestinian Territories Flag",
+    "unified": "1F1F5-1F1F8"
+  },
+  {
+    "name": "Portugal Flag",
+    "unified": "1F1F5-1F1F9"
+  },
+  {
+    "name": "Palau Flag",
+    "unified": "1F1F5-1F1FC"
+  },
+  {
+    "name": "Paraguay Flag",
+    "unified": "1F1F5-1F1FE"
+  },
+  {
+    "name": "Qatar Flag",
+    "unified": "1F1F6-1F1E6"
+  },
+  {
+    "name": "Réunion Flag",
+    "unified": "1F1F7-1F1EA"
+  },
+  {
+    "name": "Romania Flag",
+    "unified": "1F1F7-1F1F4"
+  },
+  {
+    "name": "Serbia Flag",
+    "unified": "1F1F7-1F1F8"
+  },
+  {
+    "name": "Russia Flag",
+    "unified": "1F1F7-1F1FA",
+    "au": "E5D6",
+    "softbank": "E512",
+    "google": "FE4EC"
+  },
+  {
+    "name": "Rwanda Flag",
+    "unified": "1F1F7-1F1FC"
+  },
+  {
+    "name": "Saudi Arabia Flag",
+    "unified": "1F1F8-1F1E6"
+  },
+  {
+    "name": "Solomon Islands Flag",
+    "unified": "1F1F8-1F1E7"
+  },
+  {
+    "name": "Seychelles Flag",
+    "unified": "1F1F8-1F1E8"
+  },
+  {
+    "name": "Sudan Flag",
+    "unified": "1F1F8-1F1E9"
+  },
+  {
+    "name": "Sweden Flag",
+    "unified": "1F1F8-1F1EA"
+  },
+  {
+    "name": "Singapore Flag",
+    "unified": "1F1F8-1F1EC"
+  },
+  {
+    "name": "St. Helena Flag",
+    "unified": "1F1F8-1F1ED"
+  },
+  {
+    "name": "Slovenia Flag",
+    "unified": "1F1F8-1F1EE"
+  },
+  {
+    "name": "Svalbard \u0026 Jan Mayen Flag",
+    "unified": "1F1F8-1F1EF"
+  },
+  {
+    "name": "Slovakia Flag",
+    "unified": "1F1F8-1F1F0"
+  },
+  {
+    "name": "Sierra Leone Flag",
+    "unified": "1F1F8-1F1F1"
+  },
+  {
+    "name": "San Marino Flag",
+    "unified": "1F1F8-1F1F2"
+  },
+  {
+    "name": "Senegal Flag",
+    "unified": "1F1F8-1F1F3"
+  },
+  {
+    "name": "Somalia Flag",
+    "unified": "1F1F8-1F1F4"
+  },
+  {
+    "name": "Suriname Flag",
+    "unified": "1F1F8-1F1F7"
+  },
+  {
+    "name": "South Sudan Flag",
+    "unified": "1F1F8-1F1F8"
+  },
+  {
+    "name": "São Tomé \u0026 Príncipe Flag",
+    "unified": "1F1F8-1F1F9"
+  },
+  {
+    "name": "El Salvador Flag",
+    "unified": "1F1F8-1F1FB"
+  },
+  {
+    "name": "Sint Maarten Flag",
+    "unified": "1F1F8-1F1FD"
+  },
+  {
+    "name": "Syria Flag",
+    "unified": "1F1F8-1F1FE"
+  },
+  {
+    "name": "Swaziland Flag",
+    "unified": "1F1F8-1F1FF"
+  },
+  {
+    "name": "Tristan da Cunha Flag",
+    "unified": "1F1F9-1F1E6"
+  },
+  {
+    "name": "Turks \u0026 Caicos Islands Flag",
+    "unified": "1F1F9-1F1E8"
+  },
+  {
+    "name": "Chad Flag",
+    "unified": "1F1F9-1F1E9"
+  },
+  {
+    "name": "French Southern Territories Flag",
+    "unified": "1F1F9-1F1EB"
+  },
+  {
+    "name": "Togo Flag",
+    "unified": "1F1F9-1F1EC"
+  },
+  {
+    "name": "Thailand Flag",
+    "unified": "1F1F9-1F1ED"
+  },
+  {
+    "name": "Tajikistan Flag",
+    "unified": "1F1F9-1F1EF"
+  },
+  {
+    "name": "Tokelau Flag",
+    "unified": "1F1F9-1F1F0"
+  },
+  {
+    "name": "Timor-Leste Flag",
+    "unified": "1F1F9-1F1F1"
+  },
+  {
+    "name": "Turkmenistan Flag",
+    "unified": "1F1F9-1F1F2"
+  },
+  {
+    "name": "Tunisia Flag",
+    "unified": "1F1F9-1F1F3"
+  },
+  {
+    "name": "Tonga Flag",
+    "unified": "1F1F9-1F1F4"
+  },
+  {
+    "name": "Turkey Flag",
+    "unified": "1F1F9-1F1F7"
+  },
+  {
+    "name": "Trinidad \u0026 Tobago Flag",
+    "unified": "1F1F9-1F1F9"
+  },
+  {
+    "name": "Tuvalu Flag",
+    "unified": "1F1F9-1F1FB"
+  },
+  {
+    "name": "Taiwan Flag",
+    "unified": "1F1F9-1F1FC"
+  },
+  {
+    "name": "Tanzania Flag",
+    "unified": "1F1F9-1F1FF"
+  },
+  {
+    "name": "Ukraine Flag",
+    "unified": "1F1FA-1F1E6"
+  },
+  {
+    "name": "Uganda Flag",
+    "unified": "1F1FA-1F1EC"
+  },
+  {
+    "name": "U.S. Outlying Islands Flag",
+    "unified": "1F1FA-1F1F2"
+  },
+  {
+    "name": "United Nations Flag",
+    "unified": "1F1FA-1F1F3"
+  },
+  {
+    "name": "United States Flag",
+    "unified": "1F1FA-1F1F8",
+    "au": "E573",
+    "softbank": "E50C",
+    "google": "FE4E6"
+  },
+  {
+    "name": "Uruguay Flag",
+    "unified": "1F1FA-1F1FE"
+  },
+  {
+    "name": "Uzbekistan Flag",
+    "unified": "1F1FA-1F1FF"
+  },
+  {
+    "name": "Vatican City Flag",
+    "unified": "1F1FB-1F1E6"
+  },
+  {
+    "name": "St. Vincent \u0026 Grenadines Flag",
+    "unified": "1F1FB-1F1E8"
+  },
+  {
+    "name": "Venezuela Flag",
+    "unified": "1F1FB-1F1EA"
+  },
+  {
+    "name": "British Virgin Islands Flag",
+    "unified": "1F1FB-1F1EC"
+  },
+  {
+    "name": "U.S. Virgin Islands Flag",
+    "unified": "1F1FB-1F1EE"
+  },
+  {
+    "name": "Vietnam Flag",
+    "unified": "1F1FB-1F1F3"
+  },
+  {
+    "name": "Vanuatu Flag",
+    "unified": "1F1FB-1F1FA"
+  },
+  {
+    "name": "Wallis \u0026 Futuna Flag",
+    "unified": "1F1FC-1F1EB"
+  },
+  {
+    "name": "Samoa Flag",
+    "unified": "1F1FC-1F1F8"
+  },
+  {
+    "name": "Kosovo Flag",
+    "unified": "1F1FD-1F1F0"
+  },
+  {
+    "name": "Yemen Flag",
+    "unified": "1F1FE-1F1EA"
+  },
+  {
+    "name": "Mayotte Flag",
+    "unified": "1F1FE-1F1F9"
+  },
+  {
+    "name": "South Africa Flag",
+    "unified": "1F1FF-1F1E6"
+  },
+  {
+    "name": "Zambia Flag",
+    "unified": "1F1FF-1F1F2"
+  },
+  {
+    "name": "Zimbabwe Flag",
+    "unified": "1F1FF-1F1FC"
+  },
+  {
+    "name": "SQUARED KATAKANA KOKO",
+    "unified": "1F201",
+    "softbank": "E203",
+    "google": "FEB24"
+  },
+  {
+    "name": "SQUARED KATAKANA SA",
+    "unified": "1F202-FE0F",
+    "au": "EA87",
+    "softbank": "E228",
+    "google": "FEB3F"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
+    "unified": "1F21A",
+    "softbank": "E216",
+    "google": "FEB3A"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
+    "unified": "1F22F",
+    "au": "EA8B",
+    "softbank": "E22C",
+    "google": "FEB40"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
+    "unified": "1F232",
+    "docomo": "E738",
+    "google": "FEB2E"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
+    "unified": "1F233",
+    "docomo": "E739",
+    "au": "EA8A",
+    "softbank": "E22B",
+    "google": "FEB2F"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
+    "unified": "1F234",
+    "docomo": "E73A",
+    "google": "FEB30"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
+    "unified": "1F235",
+    "docomo": "E73B",
+    "au": "EA89",
+    "softbank": "E22A",
+    "google": "FEB31"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
+    "unified": "1F236",
+    "softbank": "E215",
+    "google": "FEB39"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
+    "unified": "1F237-FE0F",
+    "softbank": "E217",
+    "google": "FEB3B"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
+    "unified": "1F238",
+    "softbank": "E218",
+    "google": "FEB3C"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
+    "unified": "1F239",
+    "au": "EA86",
+    "softbank": "E227",
+    "google": "FEB3E"
+  },
+  {
+    "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
+    "unified": "1F23A",
+    "au": "EA8C",
+    "softbank": "E22D",
+    "google": "FEB41"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH ADVANTAGE",
+    "unified": "1F250",
+    "au": "E4F7",
+    "softbank": "E226",
+    "google": "FEB3D"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH ACCEPT",
+    "unified": "1F251",
+    "au": "EB01",
+    "google": "FEB50"
+  },
+  {
+    "name": "CYCLONE",
+    "unified": "1F300",
+    "docomo": "E643",
+    "au": "E469",
+    "softbank": "E443",
+    "google": "FE005"
+  },
+  {
+    "name": "FOGGY",
+    "unified": "1F301",
+    "docomo": "E644",
+    "au": "E598",
+    "google": "FE006"
+  },
+  {
+    "name": "CLOSED UMBRELLA",
+    "unified": "1F302",
+    "docomo": "E645",
+    "au": "EAE8",
+    "softbank": "E43C",
+    "google": "FE007"
+  },
+  {
+    "name": "NIGHT WITH STARS",
+    "unified": "1F303",
+    "docomo": "E6B3",
+    "au": "EAF1",
+    "softbank": "E44B",
+    "google": "FE008"
+  },
+  {
+    "name": "SUNRISE OVER MOUNTAINS",
+    "unified": "1F304",
+    "docomo": "E63E",
+    "au": "EAF4",
+    "softbank": "E04D",
+    "google": "FE009"
+  },
+  {
+    "name": "SUNRISE",
+    "unified": "1F305",
+    "docomo": "E63E",
+    "au": "EAF4",
+    "softbank": "E449",
+    "google": "FE00A"
+  },
+  {
+    "name": "CITYSCAPE AT DUSK",
+    "unified": "1F306",
+    "au": "E5DA",
+    "softbank": "E146",
+    "google": "FE00B"
+  },
+  {
+    "name": "SUNSET OVER BUILDINGS",
+    "unified": "1F307",
+    "docomo": "E63E",
+    "au": "E5DA",
+    "softbank": "E44A",
+    "google": "FE00C"
+  },
+  {
+    "name": "RAINBOW",
+    "unified": "1F308",
+    "au": "EAF2",
+    "softbank": "E44C",
+    "google": "FE00D"
+  },
+  {
+    "name": "BRIDGE AT NIGHT",
+    "unified": "1F309",
+    "docomo": "E6B3",
+    "au": "E4BF",
+    "google": "FE010"
+  },
+  {
+    "name": "WATER WAVE",
+    "unified": "1F30A",
+    "docomo": "E73F",
+    "au": "EB7C",
+    "softbank": "E43E",
+    "google": "FE038"
+  },
+  {
+    "name": "VOLCANO",
+    "unified": "1F30B",
+    "au": "EB53",
+    "google": "FE03A"
+  },
+  {
+    "name": "MILKY WAY",
+    "unified": "1F30C",
+    "docomo": "E6B3",
+    "au": "EB5F",
+    "google": "FE03B"
+  },
+  {
+    "name": "EARTH GLOBE EUROPE-AFRICA",
+    "unified": "1F30D"
+  },
+  {
+    "name": "EARTH GLOBE AMERICAS",
+    "unified": "1F30E"
+  },
+  {
+    "name": "EARTH GLOBE ASIA-AUSTRALIA",
+    "unified": "1F30F",
+    "au": "E5B3",
+    "google": "FE039"
+  },
+  {
+    "name": "GLOBE WITH MERIDIANS",
+    "unified": "1F310"
+  },
+  {
+    "name": "NEW MOON SYMBOL",
+    "unified": "1F311",
+    "docomo": "E69C",
+    "au": "E5A8",
+    "google": "FE011"
+  },
+  {
+    "name": "WAXING CRESCENT MOON SYMBOL",
+    "unified": "1F312"
+  },
+  {
+    "name": "FIRST QUARTER MOON SYMBOL",
+    "unified": "1F313",
+    "docomo": "E69E",
+    "au": "E5AA",
+    "google": "FE013"
+  },
+  {
+    "name": "WAXING GIBBOUS MOON SYMBOL",
+    "unified": "1F314",
+    "docomo": "E69D",
+    "au": "E5A9",
+    "google": "FE012"
+  },
+  {
+    "name": "FULL MOON SYMBOL",
+    "unified": "1F315",
+    "docomo": "E6A0",
+    "google": "FE015"
+  },
+  {
+    "name": "WANING GIBBOUS MOON SYMBOL",
+    "unified": "1F316"
+  },
+  {
+    "name": "LAST QUARTER MOON SYMBOL",
+    "unified": "1F317"
+  },
+  {
+    "name": "WANING CRESCENT MOON SYMBOL",
+    "unified": "1F318"
+  },
+  {
+    "name": "CRESCENT MOON",
+    "unified": "1F319",
+    "docomo": "E69F",
+    "au": "E486",
+    "softbank": "E04C",
+    "google": "FE014"
+  },
+  {
+    "name": "NEW MOON WITH FACE",
+    "unified": "1F31A"
+  },
+  {
+    "name": "FIRST QUARTER MOON WITH FACE",
+    "unified": "1F31B",
+    "docomo": "E69E",
+    "au": "E489",
+    "google": "FE016"
+  },
+  {
+    "name": "LAST QUARTER MOON WITH FACE",
+    "unified": "1F31C"
+  },
+  {
+    "name": "FULL MOON WITH FACE",
+    "unified": "1F31D"
+  },
+  {
+    "name": "SUN WITH FACE",
+    "unified": "1F31E"
+  },
+  {
+    "name": "GLOWING STAR",
+    "unified": "1F31F",
+    "au": "E48B",
+    "softbank": "E335",
+    "google": "FEB69"
+  },
+  {
+    "name": "SHOOTING STAR",
+    "unified": "1F320",
+    "au": "E468",
+    "google": "FEB6A"
+  },
+  {
+    "unified": "1F321-FE0F"
+  },
+  {
+    "unified": "1F324-FE0F"
+  },
+  {
+    "unified": "1F325-FE0F"
+  },
+  {
+    "unified": "1F326-FE0F"
+  },
+  {
+    "unified": "1F327-FE0F"
+  },
+  {
+    "unified": "1F328-FE0F"
+  },
+  {
+    "unified": "1F329-FE0F"
+  },
+  {
+    "unified": "1F32A-FE0F"
+  },
+  {
+    "unified": "1F32B-FE0F"
+  },
+  {
+    "unified": "1F32C-FE0F"
+  },
+  {
+    "name": "HOT DOG",
+    "unified": "1F32D"
+  },
+  {
+    "name": "TACO",
+    "unified": "1F32E"
+  },
+  {
+    "name": "BURRITO",
+    "unified": "1F32F"
+  },
+  {
+    "name": "CHESTNUT",
+    "unified": "1F330",
+    "au": "EB38",
+    "google": "FE04C"
+  },
+  {
+    "name": "SEEDLING",
+    "unified": "1F331",
+    "docomo": "E746",
+    "au": "EB7D",
+    "google": "FE03E"
+  },
+  {
+    "name": "EVERGREEN TREE",
+    "unified": "1F332"
+  },
+  {
+    "name": "DECIDUOUS TREE",
+    "unified": "1F333"
+  },
+  {
+    "name": "PALM TREE",
+    "unified": "1F334",
+    "au": "E4E2",
+    "softbank": "E307",
+    "google": "FE047"
+  },
+  {
+    "name": "CACTUS",
+    "unified": "1F335",
+    "au": "EA96",
+    "softbank": "E308",
+    "google": "FE048"
+  },
+  {
+    "unified": "1F336-FE0F"
+  },
+  {
+    "name": "TULIP",
+    "unified": "1F337",
+    "docomo": "E743",
+    "au": "E4E4",
+    "softbank": "E304",
+    "google": "FE03D"
+  },
+  {
+    "name": "CHERRY BLOSSOM",
+    "unified": "1F338",
+    "docomo": "E748",
+    "au": "E4CA",
+    "softbank": "E030",
+    "google": "FE040"
+  },
+  {
+    "name": "ROSE",
+    "unified": "1F339",
+    "au": "E5BA",
+    "softbank": "E032",
+    "google": "FE041"
+  },
+  {
+    "name": "HIBISCUS",
+    "unified": "1F33A",
+    "au": "EA94",
+    "softbank": "E303",
+    "google": "FE045"
+  },
+  {
+    "name": "SUNFLOWER",
+    "unified": "1F33B",
+    "au": "E4E3",
+    "softbank": "E305",
+    "google": "FE046"
+  },
+  {
+    "name": "BLOSSOM",
+    "unified": "1F33C",
+    "au": "EB49",
+    "google": "FE04D"
+  },
+  {
+    "name": "EAR OF MAIZE",
+    "unified": "1F33D",
+    "au": "EB36",
+    "google": "FE04A"
+  },
+  {
+    "name": "EAR OF RICE",
+    "unified": "1F33E",
+    "softbank": "E444",
+    "google": "FE049"
+  },
+  {
+    "name": "HERB",
+    "unified": "1F33F",
+    "docomo": "E741",
+    "au": "EB82",
+    "google": "FE04E"
+  },
+  {
+    "name": "FOUR LEAF CLOVER",
+    "unified": "1F340",
+    "docomo": "E741",
+    "au": "E513",
+    "softbank": "E110",
+    "google": "FE03C"
+  },
+  {
+    "name": "MAPLE LEAF",
+    "unified": "1F341",
+    "docomo": "E747",
+    "au": "E4CE",
+    "softbank": "E118",
+    "google": "FE03F"
+  },
+  {
+    "name": "FALLEN LEAF",
+    "unified": "1F342",
+    "docomo": "E747",
+    "au": "E5CD",
+    "softbank": "E119",
+    "google": "FE042"
+  },
+  {
+    "name": "LEAF FLUTTERING IN WIND",
+    "unified": "1F343",
+    "au": "E5CD",
+    "softbank": "E447",
+    "google": "FE043"
+  },
+  {
+    "name": "MUSHROOM",
+    "unified": "1F344",
+    "au": "EB37",
+    "google": "FE04B"
+  },
+  {
+    "name": "TOMATO",
+    "unified": "1F345",
+    "au": "EABB",
+    "softbank": "E349",
+    "google": "FE055"
+  },
+  {
+    "name": "AUBERGINE",
+    "unified": "1F346",
+    "au": "EABC",
+    "softbank": "E34A",
+    "google": "FE056"
+  },
+  {
+    "name": "GRAPES",
+    "unified": "1F347",
+    "au": "EB34",
+    "google": "FE059"
+  },
+  {
+    "name": "MELON",
+    "unified": "1F348",
+    "au": "EB32",
+    "google": "FE057"
+  },
+  {
+    "name": "WATERMELON",
+    "unified": "1F349",
+    "au": "E4CD",
+    "softbank": "E348",
+    "google": "FE054"
+  },
+  {
+    "name": "TANGERINE",
+    "unified": "1F34A",
+    "au": "EABA",
+    "softbank": "E346",
+    "google": "FE052"
+  },
+  {
+    "name": "LEMON",
+    "unified": "1F34B"
+  },
+  {
+    "name": "BANANA",
+    "unified": "1F34C",
+    "docomo": "E744",
+    "au": "EB35",
+    "google": "FE050"
+  },
+  {
+    "name": "PINEAPPLE",
+    "unified": "1F34D",
+    "au": "EB33",
+    "google": "FE058"
+  },
+  {
+    "name": "RED APPLE",
+    "unified": "1F34E",
+    "docomo": "E745",
+    "au": "EAB9",
+    "softbank": "E345",
+    "google": "FE051"
+  },
+  {
+    "name": "GREEN APPLE",
+    "unified": "1F34F",
+    "docomo": "E745",
+    "au": "EB5A",
+    "google": "FE05B"
+  },
+  {
+    "name": "PEAR",
+    "unified": "1F350"
+  },
+  {
+    "name": "PEACH",
+    "unified": "1F351",
+    "au": "EB39",
+    "google": "FE05A"
+  },
+  {
+    "name": "CHERRIES",
+    "unified": "1F352",
+    "docomo": "E742",
+    "au": "E4D2",
+    "google": "FE04F"
+  },
+  {
+    "name": "STRAWBERRY",
+    "unified": "1F353",
+    "au": "E4D4",
+    "softbank": "E347",
+    "google": "FE053"
+  },
+  {
+    "name": "HAMBURGER",
+    "unified": "1F354",
+    "docomo": "E673",
+    "au": "E4D6",
+    "softbank": "E120",
+    "google": "FE960"
+  },
+  {
+    "name": "SLICE OF PIZZA",
+    "unified": "1F355",
+    "au": "EB3B",
+    "google": "FE975"
+  },
+  {
+    "name": "MEAT ON BONE",
+    "unified": "1F356",
+    "au": "E4C4",
+    "google": "FE972"
+  },
+  {
+    "name": "POULTRY LEG",
+    "unified": "1F357",
+    "au": "EB3C",
+    "google": "FE976"
+  },
+  {
+    "name": "RICE CRACKER",
+    "unified": "1F358",
+    "au": "EAB3",
+    "softbank": "E33D",
+    "google": "FE969"
+  },
+  {
+    "name": "RICE BALL",
+    "unified": "1F359",
+    "docomo": "E749",
+    "au": "E4D5",
+    "softbank": "E342",
+    "google": "FE961"
+  },
+  {
+    "name": "COOKED RICE",
+    "unified": "1F35A",
+    "docomo": "E74C",
+    "au": "EAB4",
+    "softbank": "E33E",
+    "google": "FE96A"
+  },
+  {
+    "name": "CURRY AND RICE",
+    "unified": "1F35B",
+    "au": "EAB6",
+    "softbank": "E341",
+    "google": "FE96C"
+  },
+  {
+    "name": "STEAMING BOWL",
+    "unified": "1F35C",
+    "docomo": "E74C",
+    "au": "E5B4",
+    "softbank": "E340",
+    "google": "FE963"
+  },
+  {
+    "name": "SPAGHETTI",
+    "unified": "1F35D",
+    "au": "EAB5",
+    "softbank": "E33F",
+    "google": "FE96B"
+  },
+  {
+    "name": "BREAD",
+    "unified": "1F35E",
+    "docomo": "E74D",
+    "au": "EAAF",
+    "softbank": "E339",
+    "google": "FE964"
+  },
+  {
+    "name": "FRENCH FRIES",
+    "unified": "1F35F",
+    "au": "EAB1",
+    "softbank": "E33B",
+    "google": "FE967"
+  },
+  {
+    "name": "ROASTED SWEET POTATO",
+    "unified": "1F360",
+    "au": "EB3A",
+    "google": "FE974"
+  },
+  {
+    "name": "DANGO",
+    "unified": "1F361",
+    "au": "EAB2",
+    "softbank": "E33C",
+    "google": "FE968"
+  },
+  {
+    "name": "ODEN",
+    "unified": "1F362",
+    "au": "EAB7",
+    "softbank": "E343",
+    "google": "FE96D"
+  },
+  {
+    "name": "SUSHI",
+    "unified": "1F363",
+    "au": "EAB8",
+    "softbank": "E344",
+    "google": "FE96E"
+  },
+  {
+    "name": "FRIED SHRIMP",
+    "unified": "1F364",
+    "au": "EB70",
+    "google": "FE97F"
+  },
+  {
+    "name": "FISH CAKE WITH SWIRL DESIGN",
+    "unified": "1F365",
+    "docomo": "E643",
+    "au": "E4ED",
+    "google": "FE973"
+  },
+  {
+    "name": "SOFT ICE CREAM",
+    "unified": "1F366",
+    "au": "EAB0",
+    "softbank": "E33A",
+    "google": "FE966"
+  },
+  {
+    "name": "SHAVED ICE",
+    "unified": "1F367",
+    "au": "EAEA",
+    "softbank": "E43F",
+    "google": "FE971"
+  },
+  {
+    "name": "ICE CREAM",
+    "unified": "1F368",
+    "au": "EB4A",
+    "google": "FE977"
+  },
+  {
+    "name": "DOUGHNUT",
+    "unified": "1F369",
+    "au": "EB4B",
+    "google": "FE978"
+  },
+  {
+    "name": "COOKIE",
+    "unified": "1F36A",
+    "au": "EB4C",
+    "google": "FE979"
+  },
+  {
+    "name": "CHOCOLATE BAR",
+    "unified": "1F36B",
+    "au": "EB4D",
+    "google": "FE97A"
+  },
+  {
+    "name": "CANDY",
+    "unified": "1F36C",
+    "au": "EB4E",
+    "google": "FE97B"
+  },
+  {
+    "name": "LOLLIPOP",
+    "unified": "1F36D",
+    "au": "EB4F",
+    "google": "FE97C"
+  },
+  {
+    "name": "CUSTARD",
+    "unified": "1F36E",
+    "au": "EB56",
+    "google": "FE97D"
+  },
+  {
+    "name": "HONEY POT",
+    "unified": "1F36F",
+    "au": "EB59",
+    "google": "FE97E"
+  },
+  {
+    "name": "SHORTCAKE",
+    "unified": "1F370",
+    "docomo": "E74A",
+    "au": "E4D0",
+    "softbank": "E046",
+    "google": "FE962"
+  },
+  {
+    "name": "BENTO BOX",
+    "unified": "1F371",
+    "au": "EABD",
+    "softbank": "E34C",
+    "google": "FE96F"
+  },
+  {
+    "name": "POT OF FOOD",
+    "unified": "1F372",
+    "au": "EABE",
+    "softbank": "E34D",
+    "google": "FE970"
+  },
+  {
+    "name": "COOKING",
+    "unified": "1F373",
+    "au": "E4D1",
+    "softbank": "E147",
+    "google": "FE965"
+  },
+  {
+    "name": "FORK AND KNIFE",
+    "unified": "1F374",
+    "docomo": "E66F",
+    "au": "E4AC",
+    "softbank": "E043",
+    "google": "FE980"
+  },
+  {
+    "name": "TEACUP WITHOUT HANDLE",
+    "unified": "1F375",
+    "docomo": "E71E",
+    "au": "EAAE",
+    "softbank": "E338",
+    "google": "FE984"
+  },
+  {
+    "name": "SAKE BOTTLE AND CUP",
+    "unified": "1F376",
+    "docomo": "E74B",
+    "au": "EA97",
+    "softbank": "E30B",
+    "google": "FE985"
+  },
+  {
+    "name": "WINE GLASS",
+    "unified": "1F377",
+    "docomo": "E756",
+    "au": "E4C1",
+    "google": "FE986"
+  },
+  {
+    "name": "COCKTAIL GLASS",
+    "unified": "1F378",
+    "docomo": "E671",
+    "au": "E4C2",
+    "softbank": "E044",
+    "google": "FE982"
+  },
+  {
+    "name": "TROPICAL DRINK",
+    "unified": "1F379",
+    "docomo": "E671",
+    "au": "EB3E",
+    "google": "FE988"
+  },
+  {
+    "name": "BEER MUG",
+    "unified": "1F37A",
+    "docomo": "E672",
+    "au": "E4C3",
+    "softbank": "E047",
+    "google": "FE983"
+  },
+  {
+    "name": "CLINKING BEER MUGS",
+    "unified": "1F37B",
+    "docomo": "E672",
+    "au": "EA98",
+    "softbank": "E30C",
+    "google": "FE987"
+  },
+  {
+    "name": "BABY BOTTLE",
+    "unified": "1F37C"
+  },
+  {
+    "unified": "1F37D-FE0F"
+  },
+  {
+    "name": "BOTTLE WITH POPPING CORK",
+    "unified": "1F37E"
+  },
+  {
+    "name": "POPCORN",
+    "unified": "1F37F"
+  },
+  {
+    "name": "RIBBON",
+    "unified": "1F380",
+    "docomo": "E684",
+    "au": "E59F",
+    "softbank": "E314",
+    "google": "FE50F"
+  },
+  {
+    "name": "WRAPPED PRESENT",
+    "unified": "1F381",
+    "docomo": "E685",
+    "au": "E4CF",
+    "softbank": "E112",
+    "google": "FE510"
+  },
+  {
+    "name": "BIRTHDAY CAKE",
+    "unified": "1F382",
+    "docomo": "E686",
+    "au": "E5A0",
+    "softbank": "E34B",
+    "google": "FE511"
+  },
+  {
+    "name": "JACK-O-LANTERN",
+    "unified": "1F383",
+    "au": "EAEE",
+    "softbank": "E445",
+    "google": "FE51F"
+  },
+  {
+    "name": "CHRISTMAS TREE",
+    "unified": "1F384",
+    "docomo": "E6A4",
+    "au": "E4C9",
+    "softbank": "E033",
+    "google": "FE512"
+  },
+  {
+    "name": "FATHER CHRISTMAS",
+    "unified": "1F385",
+    "au": "EAF0",
+    "softbank": "E448",
+    "google": "FE513"
+  },
+  {
+    "name": "FIREWORKS",
+    "unified": "1F386",
+    "au": "E5CC",
+    "softbank": "E117",
+    "google": "FE515"
+  },
+  {
+    "name": "FIREWORK SPARKLER",
+    "unified": "1F387",
+    "au": "EAEB",
+    "softbank": "E440",
+    "google": "FE51D"
+  },
+  {
+    "name": "BALLOON",
+    "unified": "1F388",
+    "au": "EA9B",
+    "softbank": "E310",
+    "google": "FE516"
+  },
+  {
+    "name": "PARTY POPPER",
+    "unified": "1F389",
+    "au": "EA9C",
+    "softbank": "E312",
+    "google": "FE517"
+  },
+  {
+    "name": "CONFETTI BALL",
+    "unified": "1F38A",
+    "au": "E46F",
+    "google": "FE520"
+  },
+  {
+    "name": "TANABATA TREE",
+    "unified": "1F38B",
+    "au": "EB3D",
+    "google": "FE521"
+  },
+  {
+    "name": "CROSSED FLAGS",
+    "unified": "1F38C",
+    "au": "E5D9",
+    "softbank": "E143",
+    "google": "FE514"
+  },
+  {
+    "name": "PINE DECORATION",
+    "unified": "1F38D",
+    "au": "EAE3",
+    "softbank": "E436",
+    "google": "FE518"
+  },
+  {
+    "name": "JAPANESE DOLLS",
+    "unified": "1F38E",
+    "au": "EAE4",
+    "softbank": "E438",
+    "google": "FE519"
+  },
+  {
+    "name": "CARP STREAMER",
+    "unified": "1F38F",
+    "au": "EAE7",
+    "softbank": "E43B",
+    "google": "FE51C"
+  },
+  {
+    "name": "WIND CHIME",
+    "unified": "1F390",
+    "au": "EAED",
+    "softbank": "E442",
+    "google": "FE51E"
+  },
+  {
+    "name": "MOON VIEWING CEREMONY",
+    "unified": "1F391",
+    "au": "EAEF",
+    "softbank": "E446",
+    "google": "FE017"
+  },
+  {
+    "name": "SCHOOL SATCHEL",
+    "unified": "1F392",
+    "au": "EAE6",
+    "softbank": "E43A",
+    "google": "FE51B"
+  },
+  {
+    "name": "GRADUATION CAP",
+    "unified": "1F393",
+    "au": "EAE5",
+    "softbank": "E439",
+    "google": "FE51A"
+  },
+  {
+    "unified": "1F396-FE0F"
+  },
+  {
+    "unified": "1F397-FE0F"
+  },
+  {
+    "unified": "1F399-FE0F"
+  },
+  {
+    "unified": "1F39A-FE0F"
+  },
+  {
+    "unified": "1F39B-FE0F"
+  },
+  {
+    "unified": "1F39E-FE0F"
+  },
+  {
+    "unified": "1F39F-FE0F"
+  },
+  {
+    "name": "CAROUSEL HORSE",
+    "unified": "1F3A0",
+    "docomo": "E679",
+    "google": "FE7FC"
+  },
+  {
+    "name": "FERRIS WHEEL",
+    "unified": "1F3A1",
+    "au": "E46D",
+    "softbank": "E124",
+    "google": "FE7FD"
+  },
+  {
+    "name": "ROLLER COASTER",
+    "unified": "1F3A2",
+    "au": "EAE2",
+    "softbank": "E433",
+    "google": "FE7FE"
+  },
+  {
+    "name": "FISHING POLE AND FISH",
+    "unified": "1F3A3",
+    "docomo": "E751",
+    "au": "EB42",
+    "google": "FE7FF"
+  },
+  {
+    "name": "MICROPHONE",
+    "unified": "1F3A4",
+    "docomo": "E676",
+    "au": "E503",
+    "softbank": "E03C",
+    "google": "FE800"
+  },
+  {
+    "name": "MOVIE CAMERA",
+    "unified": "1F3A5",
+    "docomo": "E677",
+    "au": "E517",
+    "softbank": "E03D",
+    "google": "FE801"
+  },
+  {
+    "name": "CINEMA",
+    "unified": "1F3A6",
+    "docomo": "E677",
+    "au": "E517",
+    "softbank": "E507",
+    "google": "FE802"
+  },
+  {
+    "name": "HEADPHONE",
+    "unified": "1F3A7",
+    "docomo": "E67A",
+    "au": "E508",
+    "softbank": "E30A",
+    "google": "FE803"
+  },
+  {
+    "name": "ARTIST PALETTE",
+    "unified": "1F3A8",
+    "docomo": "E67B",
+    "au": "E59C",
+    "softbank": "E502",
+    "google": "FE804"
+  },
+  {
+    "name": "TOP HAT",
+    "unified": "1F3A9",
+    "docomo": "E67C",
+    "au": "EAF5",
+    "softbank": "E503",
+    "google": "FE805"
+  },
+  {
+    "name": "CIRCUS TENT",
+    "unified": "1F3AA",
+    "docomo": "E67D",
+    "au": "E59E",
+    "google": "FE806"
+  },
+  {
+    "name": "TICKET",
+    "unified": "1F3AB",
+    "docomo": "E67E",
+    "au": "E49E",
+    "softbank": "E125",
+    "google": "FE807"
+  },
+  {
+    "name": "CLAPPER BOARD",
+    "unified": "1F3AC",
+    "docomo": "E6AC",
+    "au": "E4BE",
+    "softbank": "E324",
+    "google": "FE808"
+  },
+  {
+    "name": "PERFORMING ARTS",
+    "unified": "1F3AD",
+    "au": "E59D",
+    "google": "FE809"
+  },
+  {
+    "name": "VIDEO GAME",
+    "unified": "1F3AE",
+    "docomo": "E68B",
+    "au": "E4C6",
+    "google": "FE80A"
+  },
+  {
+    "name": "DIRECT HIT",
+    "unified": "1F3AF",
+    "au": "E4C5",
+    "softbank": "E130",
+    "google": "FE80C"
+  },
+  {
+    "name": "SLOT MACHINE",
+    "unified": "1F3B0",
+    "au": "E46E",
+    "softbank": "E133",
+    "google": "FE80D"
+  },
+  {
+    "name": "BILLIARDS",
+    "unified": "1F3B1",
+    "au": "EADD",
+    "softbank": "E42C",
+    "google": "FE80E"
+  },
+  {
+    "name": "GAME DIE",
+    "unified": "1F3B2",
+    "au": "E4C8",
+    "google": "FE80F"
+  },
+  {
+    "name": "BOWLING",
+    "unified": "1F3B3",
+    "au": "EB43",
+    "google": "FE810"
+  },
+  {
+    "name": "FLOWER PLAYING CARDS",
+    "unified": "1F3B4",
+    "au": "EB6E",
+    "google": "FE811"
+  },
+  {
+    "name": "MUSICAL NOTE",
+    "unified": "1F3B5",
+    "docomo": "E6F6",
+    "au": "E5BE",
+    "softbank": "E03E",
+    "google": "FE813"
+  },
+  {
+    "name": "MULTIPLE MUSICAL NOTES",
+    "unified": "1F3B6",
+    "docomo": "E6FF",
+    "au": "E505",
+    "softbank": "E326",
+    "google": "FE814"
+  },
+  {
+    "name": "SAXOPHONE",
+    "unified": "1F3B7",
+    "softbank": "E040",
+    "google": "FE815"
+  },
+  {
+    "name": "GUITAR",
+    "unified": "1F3B8",
+    "au": "E506",
+    "softbank": "E041",
+    "google": "FE816"
+  },
+  {
+    "name": "MUSICAL KEYBOARD",
+    "unified": "1F3B9",
+    "au": "EB40",
+    "google": "FE817"
+  },
+  {
+    "name": "TRUMPET",
+    "unified": "1F3BA",
+    "au": "EADC",
+    "softbank": "E042",
+    "google": "FE818"
+  },
+  {
+    "name": "VIOLIN",
+    "unified": "1F3BB",
+    "au": "E507",
+    "google": "FE819"
+  },
+  {
+    "name": "MUSICAL SCORE",
+    "unified": "1F3BC",
+    "docomo": "E6FF",
+    "au": "EACC",
+    "google": "FE81A"
+  },
+  {
+    "name": "RUNNING SHIRT WITH SASH",
+    "unified": "1F3BD",
+    "docomo": "E652",
+    "google": "FE7D0"
+  },
+  {
+    "name": "TENNIS RACQUET AND BALL",
+    "unified": "1F3BE",
+    "docomo": "E655",
+    "au": "E4B7",
+    "softbank": "E015",
+    "google": "FE7D3"
+  },
+  {
+    "name": "SKI AND SKI BOOT",
+    "unified": "1F3BF",
+    "docomo": "E657",
+    "au": "EAAC",
+    "softbank": "E013",
+    "google": "FE7D5"
+  },
+  {
+    "name": "BASKETBALL AND HOOP",
+    "unified": "1F3C0",
+    "docomo": "E658",
+    "au": "E59A",
+    "softbank": "E42A",
+    "google": "FE7D6"
+  },
+  {
+    "name": "CHEQUERED FLAG",
+    "unified": "1F3C1",
+    "docomo": "E659",
+    "au": "E4B9",
+    "softbank": "E132",
+    "google": "FE7D7"
+  },
+  {
+    "name": "SNOWBOARDER",
+    "unified": "1F3C2",
+    "docomo": "E712",
+    "au": "E4B8",
+    "google": "FE7D8"
+  },
+  {
+    "unified": "1F3C3-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F3C3-200D-2642-FE0F"
+  },
+  {
+    "name": "RUNNER",
+    "unified": "1F3C3",
+    "docomo": "E733",
+    "au": "E46B",
+    "softbank": "E115",
+    "google": "FE7D9"
+  },
+  {
+    "unified": "1F3C4-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F3C4-200D-2642-FE0F"
+  },
+  {
+    "name": "SURFER",
+    "unified": "1F3C4",
+    "docomo": "E712",
+    "au": "EB41",
+    "softbank": "E017",
+    "google": "FE7DA"
+  },
+  {
+    "name": "SPORTS MEDAL",
+    "unified": "1F3C5"
+  },
+  {
+    "name": "TROPHY",
+    "unified": "1F3C6",
+    "au": "E5D3",
+    "softbank": "E131",
+    "google": "FE7DB"
+  },
+  {
+    "name": "HORSE RACING",
+    "unified": "1F3C7"
+  },
+  {
+    "name": "AMERICAN FOOTBALL",
+    "unified": "1F3C8",
+    "au": "E4BB",
+    "softbank": "E42B",
+    "google": "FE7DD"
+  },
+  {
+    "name": "RUGBY FOOTBALL",
+    "unified": "1F3C9"
+  },
+  {
+    "unified": "1F3CA-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F3CA-200D-2642-FE0F"
+  },
+  {
+    "name": "SWIMMER",
+    "unified": "1F3CA",
+    "au": "EADE",
+    "softbank": "E42D",
+    "google": "FE7DE"
+  },
+  {
+    "unified": "1F3CB-FE0F-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F3CB-FE0F-200D-2642-FE0F"
+  },
+  {
+    "unified": "1F3CB-FE0F"
+  },
+  {
+    "unified": "1F3CC-FE0F-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F3CC-FE0F-200D-2642-FE0F"
+  },
+  {
+    "unified": "1F3CC-FE0F"
+  },
+  {
+    "unified": "1F3CD-FE0F"
+  },
+  {
+    "unified": "1F3CE-FE0F"
+  },
+  {
+    "name": "CRICKET BAT AND BALL",
+    "unified": "1F3CF"
+  },
+  {
+    "name": "VOLLEYBALL",
+    "unified": "1F3D0"
+  },
+  {
+    "name": "FIELD HOCKEY STICK AND BALL",
+    "unified": "1F3D1"
+  },
+  {
+    "name": "ICE HOCKEY STICK AND PUCK",
+    "unified": "1F3D2"
+  },
+  {
+    "name": "TABLE TENNIS PADDLE AND BALL",
+    "unified": "1F3D3"
+  },
+  {
+    "unified": "1F3D4-FE0F"
+  },
+  {
+    "unified": "1F3D5-FE0F"
+  },
+  {
+    "unified": "1F3D6-FE0F"
+  },
+  {
+    "unified": "1F3D7-FE0F"
+  },
+  {
+    "unified": "1F3D8-FE0F"
+  },
+  {
+    "unified": "1F3D9-FE0F"
+  },
+  {
+    "unified": "1F3DA-FE0F"
+  },
+  {
+    "unified": "1F3DB-FE0F"
+  },
+  {
+    "unified": "1F3DC-FE0F"
+  },
+  {
+    "unified": "1F3DD-FE0F"
+  },
+  {
+    "unified": "1F3DE-FE0F"
+  },
+  {
+    "unified": "1F3DF-FE0F"
+  },
+  {
+    "name": "HOUSE BUILDING",
+    "unified": "1F3E0",
+    "docomo": "E663",
+    "au": "E4AB",
+    "softbank": "E036",
+    "google": "FE4B0"
+  },
+  {
+    "name": "HOUSE WITH GARDEN",
+    "unified": "1F3E1",
+    "docomo": "E663",
+    "au": "EB09",
+    "google": "FE4B1"
+  },
+  {
+    "name": "OFFICE BUILDING",
+    "unified": "1F3E2",
+    "docomo": "E664",
+    "au": "E4AD",
+    "softbank": "E038",
+    "google": "FE4B2"
+  },
+  {
+    "name": "JAPANESE POST OFFICE",
+    "unified": "1F3E3",
+    "docomo": "E665",
+    "au": "E5DE",
+    "softbank": "E153",
+    "google": "FE4B3"
+  },
+  {
+    "name": "EUROPEAN POST OFFICE",
+    "unified": "1F3E4"
+  },
+  {
+    "name": "HOSPITAL",
+    "unified": "1F3E5",
+    "docomo": "E666",
+    "au": "E5DF",
+    "softbank": "E155",
+    "google": "FE4B4"
+  },
+  {
+    "name": "BANK",
+    "unified": "1F3E6",
+    "docomo": "E667",
+    "au": "E4AA",
+    "softbank": "E14D",
+    "google": "FE4B5"
+  },
+  {
+    "name": "AUTOMATED TELLER MACHINE",
+    "unified": "1F3E7",
+    "docomo": "E668",
+    "au": "E4A3",
+    "softbank": "E154",
+    "google": "FE4B6"
+  },
+  {
+    "name": "HOTEL",
+    "unified": "1F3E8",
+    "docomo": "E669",
+    "au": "EA81",
+    "softbank": "E158",
+    "google": "FE4B7"
+  },
+  {
+    "name": "LOVE HOTEL",
+    "unified": "1F3E9",
+    "docomo": "E669-E6EF",
+    "au": "EAF3",
+    "softbank": "E501",
+    "google": "FE4B8"
+  },
+  {
+    "name": "CONVENIENCE STORE",
+    "unified": "1F3EA",
+    "docomo": "E66A",
+    "au": "E4A4",
+    "softbank": "E156",
+    "google": "FE4B9"
+  },
+  {
+    "name": "SCHOOL",
+    "unified": "1F3EB",
+    "docomo": "E73E",
+    "au": "EA80",
+    "softbank": "E157",
+    "google": "FE4BA"
+  },
+  {
+    "name": "DEPARTMENT STORE",
+    "unified": "1F3EC",
+    "au": "EAF6",
+    "softbank": "E504",
+    "google": "FE4BD"
+  },
+  {
+    "name": "FACTORY",
+    "unified": "1F3ED",
+    "au": "EAF9",
+    "softbank": "E508",
+    "google": "FE4C0"
+  },
+  {
+    "name": "IZAKAYA LANTERN",
+    "unified": "1F3EE",
+    "docomo": "E74B",
+    "au": "E4BD",
+    "google": "FE4C2"
+  },
+  {
+    "name": "JAPANESE CASTLE",
+    "unified": "1F3EF",
+    "au": "EAF7",
+    "softbank": "E505",
+    "google": "FE4BE"
+  },
+  {
+    "name": "EUROPEAN CASTLE",
+    "unified": "1F3F0",
+    "au": "EAF8",
+    "softbank": "E506",
+    "google": "FE4BF"
+  },
+  {
+    "unified": "1F3F3-FE0F-200D-1F308"
+  },
+  {
+    "unified": "1F3F3-FE0F"
+  },
+  {
+    "unified": "1F3F4-200D-2620-FE0F"
+  },
+  {
+    "name": "England Flag",
+    "unified": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F"
+  },
+  {
+    "name": "Scotland Flag",
+    "unified": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F"
+  },
+  {
+    "name": "Wales Flag",
+    "unified": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F"
+  },
+  {
+    "name": "WAVING BLACK FLAG",
+    "unified": "1F3F4"
+  },
+  {
+    "unified": "1F3F5-FE0F"
+  },
+  {
+    "unified": "1F3F7-FE0F"
+  },
+  {
+    "name": "BADMINTON RACQUET AND SHUTTLECOCK",
+    "unified": "1F3F8"
+  },
+  {
+    "name": "BOW AND ARROW",
+    "unified": "1F3F9"
+  },
+  {
+    "name": "AMPHORA",
+    "unified": "1F3FA"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "unified": "1F3FB"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "unified": "1F3FC"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "unified": "1F3FD"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "unified": "1F3FE"
+  },
+  {
+    "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "unified": "1F3FF"
+  },
+  {
+    "name": "RAT",
+    "unified": "1F400"
+  },
+  {
+    "name": "MOUSE",
+    "unified": "1F401"
+  },
+  {
+    "name": "OX",
+    "unified": "1F402"
+  },
+  {
+    "name": "WATER BUFFALO",
+    "unified": "1F403"
+  },
+  {
+    "name": "COW",
+    "unified": "1F404"
+  },
+  {
+    "name": "TIGER",
+    "unified": "1F405"
+  },
+  {
+    "name": "LEOPARD",
+    "unified": "1F406"
+  },
+  {
+    "name": "RABBIT",
+    "unified": "1F407"
+  },
+  {
+    "name": "CAT",
+    "unified": "1F408"
+  },
+  {
+    "name": "DRAGON",
+    "unified": "1F409"
+  },
+  {
+    "name": "CROCODILE",
+    "unified": "1F40A"
+  },
+  {
+    "name": "WHALE",
+    "unified": "1F40B"
+  },
+  {
+    "name": "SNAIL",
+    "unified": "1F40C",
+    "docomo": "E74E",
+    "au": "EB7E",
+    "google": "FE1B9"
+  },
+  {
+    "name": "SNAKE",
+    "unified": "1F40D",
+    "au": "EB22",
+    "softbank": "E52D",
+    "google": "FE1D3"
+  },
+  {
+    "name": "HORSE",
+    "unified": "1F40E",
+    "docomo": "E754",
+    "au": "E4D8",
+    "softbank": "E134",
+    "google": "FE7DC"
+  },
+  {
+    "name": "RAM",
+    "unified": "1F40F"
+  },
+  {
+    "name": "GOAT",
+    "unified": "1F410"
+  },
+  {
+    "name": "SHEEP",
+    "unified": "1F411",
+    "au": "E48F",
+    "softbank": "E529",
+    "google": "FE1CF"
+  },
+  {
+    "name": "MONKEY",
+    "unified": "1F412",
+    "au": "E4D9",
+    "softbank": "E528",
+    "google": "FE1CE"
+  },
+  {
+    "name": "ROOSTER",
+    "unified": "1F413"
+  },
+  {
+    "name": "CHICKEN",
+    "unified": "1F414",
+    "au": "EB23",
+    "softbank": "E52E",
+    "google": "FE1D4"
+  },
+  {
+    "name": "DOG",
+    "unified": "1F415"
+  },
+  {
+    "name": "PIG",
+    "unified": "1F416"
+  },
+  {
+    "name": "BOAR",
+    "unified": "1F417",
+    "au": "EB24",
+    "softbank": "E52F",
+    "google": "FE1D5"
+  },
+  {
+    "name": "ELEPHANT",
+    "unified": "1F418",
+    "au": "EB1F",
+    "softbank": "E526",
+    "google": "FE1CC"
+  },
+  {
+    "name": "OCTOPUS",
+    "unified": "1F419",
+    "au": "E5C7",
+    "softbank": "E10A",
+    "google": "FE1C5"
+  },
+  {
+    "name": "SPIRAL SHELL",
+    "unified": "1F41A",
+    "au": "EAEC",
+    "softbank": "E441",
+    "google": "FE1C6"
+  },
+  {
+    "name": "BUG",
+    "unified": "1F41B",
+    "au": "EB1E",
+    "softbank": "E525",
+    "google": "FE1CB"
+  },
+  {
+    "name": "ANT",
+    "unified": "1F41C",
+    "au": "E4DD",
+    "google": "FE1DA"
+  },
+  {
+    "name": "HONEYBEE",
+    "unified": "1F41D",
+    "au": "EB57",
+    "google": "FE1E1"
+  },
+  {
+    "name": "LADY BEETLE",
+    "unified": "1F41E",
+    "au": "EB58",
+    "google": "FE1E2"
+  },
+  {
+    "name": "FISH",
+    "unified": "1F41F",
+    "docomo": "E751",
+    "au": "E49A",
+    "softbank": "E019",
+    "google": "FE1BD"
+  },
+  {
+    "name": "TROPICAL FISH",
+    "unified": "1F420",
+    "docomo": "E751",
+    "au": "EB1D",
+    "softbank": "E522",
+    "google": "FE1C9"
+  },
+  {
+    "name": "BLOWFISH",
+    "unified": "1F421",
+    "docomo": "E751",
+    "au": "E4D3",
+    "google": "FE1D9"
+  },
+  {
+    "name": "TURTLE",
+    "unified": "1F422",
+    "au": "E5D4",
+    "google": "FE1DC"
+  },
+  {
+    "name": "HATCHING CHICK",
+    "unified": "1F423",
+    "docomo": "E74F",
+    "au": "E5DB",
+    "google": "FE1DD"
+  },
+  {
+    "name": "BABY CHICK",
+    "unified": "1F424",
+    "docomo": "E74F",
+    "au": "E4E0",
+    "softbank": "E523",
+    "google": "FE1BA"
+  },
+  {
+    "name": "FRONT-FACING BABY CHICK",
+    "unified": "1F425",
+    "docomo": "E74F",
+    "au": "EB76",
+    "google": "FE1BB"
+  },
+  {
+    "name": "BIRD",
+    "unified": "1F426",
+    "docomo": "E74F",
+    "au": "E4E0",
+    "softbank": "E521",
+    "google": "FE1C8"
+  },
+  {
+    "name": "PENGUIN",
+    "unified": "1F427",
+    "docomo": "E750",
+    "au": "E4DC",
+    "softbank": "E055",
+    "google": "FE1BC"
+  },
+  {
+    "name": "KOALA",
+    "unified": "1F428",
+    "au": "EB20",
+    "softbank": "E527",
+    "google": "FE1CD"
+  },
+  {
+    "name": "POODLE",
+    "unified": "1F429",
+    "docomo": "E6A1",
+    "au": "E4DF",
+    "google": "FE1D8"
+  },
+  {
+    "name": "DROMEDARY CAMEL",
+    "unified": "1F42A"
+  },
+  {
+    "name": "BACTRIAN CAMEL",
+    "unified": "1F42B",
+    "au": "EB25",
+    "softbank": "E530",
+    "google": "FE1D6"
+  },
+  {
+    "name": "DOLPHIN",
+    "unified": "1F42C",
+    "au": "EB1B",
+    "softbank": "E520",
+    "google": "FE1C7"
+  },
+  {
+    "name": "MOUSE FACE",
+    "unified": "1F42D",
+    "au": "E5C2",
+    "softbank": "E053",
+    "google": "FE1C2"
+  },
+  {
+    "name": "COW FACE",
+    "unified": "1F42E",
+    "au": "EB21",
+    "softbank": "E52B",
+    "google": "FE1D1"
+  },
+  {
+    "name": "TIGER FACE",
+    "unified": "1F42F",
+    "au": "E5C0",
+    "softbank": "E050",
+    "google": "FE1C0"
+  },
+  {
+    "name": "RABBIT FACE",
+    "unified": "1F430",
+    "au": "E4D7",
+    "softbank": "E52C",
+    "google": "FE1D2"
+  },
+  {
+    "name": "CAT FACE",
+    "unified": "1F431",
+    "docomo": "E6A2",
+    "au": "E4DB",
+    "softbank": "E04F",
+    "google": "FE1B8"
+  },
+  {
+    "name": "DRAGON FACE",
+    "unified": "1F432",
+    "au": "EB3F",
+    "google": "FE1DE"
+  },
+  {
+    "name": "SPOUTING WHALE",
+    "unified": "1F433",
+    "au": "E470",
+    "softbank": "E054",
+    "google": "FE1C3"
+  },
+  {
+    "name": "HORSE FACE",
+    "unified": "1F434",
+    "docomo": "E754",
+    "au": "E4D8",
+    "softbank": "E01A",
+    "google": "FE1BE"
+  },
+  {
+    "name": "MONKEY FACE",
+    "unified": "1F435",
+    "au": "E4D9",
+    "softbank": "E109",
+    "google": "FE1C4"
+  },
+  {
+    "name": "DOG FACE",
+    "unified": "1F436",
+    "docomo": "E6A1",
+    "au": "E4E1",
+    "softbank": "E052",
+    "google": "FE1B7"
+  },
+  {
+    "name": "PIG FACE",
+    "unified": "1F437",
+    "docomo": "E755",
+    "au": "E4DE",
+    "softbank": "E10B",
+    "google": "FE1BF"
+  },
+  {
+    "name": "FROG FACE",
+    "unified": "1F438",
+    "au": "E4DA",
+    "softbank": "E531",
+    "google": "FE1D7"
+  },
+  {
+    "name": "HAMSTER FACE",
+    "unified": "1F439",
+    "softbank": "E524",
+    "google": "FE1CA"
+  },
+  {
+    "name": "WOLF FACE",
+    "unified": "1F43A",
+    "docomo": "E6A1",
+    "au": "E4E1",
+    "softbank": "E52A",
+    "google": "FE1D0"
+  },
+  {
+    "name": "BEAR FACE",
+    "unified": "1F43B",
+    "au": "E5C1",
+    "softbank": "E051",
+    "google": "FE1C1"
+  },
+  {
+    "name": "PANDA FACE",
+    "unified": "1F43C",
+    "au": "EB46",
+    "google": "FE1DF"
+  },
+  {
+    "name": "PIG NOSE",
+    "unified": "1F43D",
+    "docomo": "E755",
+    "au": "EB48",
+    "google": "FE1E0"
+  },
+  {
+    "name": "PAW PRINTS",
+    "unified": "1F43E",
+    "docomo": "E698",
+    "au": "E4EE",
+    "google": "FE1DB"
+  },
+  {
+    "unified": "1F43F-FE0F"
+  },
+  {
+    "name": "EYES",
+    "unified": "1F440",
+    "docomo": "E691",
+    "au": "E5A4",
+    "softbank": "E419",
+    "google": "FE190"
+  },
+  {
+    "unified": "1F441-FE0F-200D-1F5E8-FE0F"
+  },
+  {
+    "unified": "1F441-FE0F"
+  },
+  {
+    "name": "EAR",
+    "unified": "1F442",
+    "docomo": "E692",
+    "au": "E5A5",
+    "softbank": "E41B",
+    "google": "FE191"
+  },
+  {
+    "name": "NOSE",
+    "unified": "1F443",
+    "au": "EAD0",
+    "softbank": "E41A",
+    "google": "FE192"
+  },
+  {
+    "name": "MOUTH",
+    "unified": "1F444",
+    "docomo": "E6F9",
+    "au": "EAD1",
+    "softbank": "E41C",
+    "google": "FE193"
+  },
+  {
+    "name": "TONGUE",
+    "unified": "1F445",
+    "docomo": "E728",
+    "au": "EB47",
+    "google": "FE194"
+  },
+  {
+    "name": "WHITE UP POINTING BACKHAND INDEX",
+    "unified": "1F446",
+    "au": "EA8D",
+    "softbank": "E22E",
+    "google": "FEB99"
+  },
+  {
+    "name": "WHITE DOWN POINTING BACKHAND INDEX",
+    "unified": "1F447",
+    "au": "EA8E",
+    "softbank": "E22F",
+    "google": "FEB9A"
+  },
+  {
+    "name": "WHITE LEFT POINTING BACKHAND INDEX",
+    "unified": "1F448",
+    "au": "E4FF",
+    "softbank": "E230",
+    "google": "FEB9B"
+  },
+  {
+    "name": "WHITE RIGHT POINTING BACKHAND INDEX",
+    "unified": "1F449",
+    "au": "E500",
+    "softbank": "E231",
+    "google": "FEB9C"
+  },
+  {
+    "name": "FISTED HAND SIGN",
+    "unified": "1F44A",
+    "docomo": "E6FD",
+    "au": "E4F3",
+    "softbank": "E00D",
+    "google": "FEB96"
+  },
+  {
+    "name": "WAVING HAND SIGN",
+    "unified": "1F44B",
+    "docomo": "E695",
+    "au": "EAD6",
+    "softbank": "E41E",
+    "google": "FEB9D"
+  },
+  {
+    "name": "OK HAND SIGN",
+    "unified": "1F44C",
+    "docomo": "E70B",
+    "au": "EAD4",
+    "softbank": "E420",
+    "google": "FEB9F"
+  },
+  {
+    "name": "THUMBS UP SIGN",
+    "unified": "1F44D",
+    "docomo": "E727",
+    "au": "E4F9",
+    "softbank": "E00E",
+    "google": "FEB97"
+  },
+  {
+    "name": "THUMBS DOWN SIGN",
+    "unified": "1F44E",
+    "docomo": "E700",
+    "au": "EAD5",
+    "softbank": "E421",
+    "google": "FEBA0"
+  },
+  {
+    "name": "CLAPPING HANDS SIGN",
+    "unified": "1F44F",
+    "au": "EAD3",
+    "softbank": "E41F",
+    "google": "FEB9E"
+  },
+  {
+    "name": "OPEN HANDS SIGN",
+    "unified": "1F450",
+    "docomo": "E695",
+    "au": "EAD6",
+    "softbank": "E422",
+    "google": "FEBA1"
+  },
+  {
+    "name": "CROWN",
+    "unified": "1F451",
+    "docomo": "E71A",
+    "au": "E5C9",
+    "softbank": "E10E",
+    "google": "FE4D1"
+  },
+  {
+    "name": "WOMANS HAT",
+    "unified": "1F452",
+    "au": "EA9E",
+    "softbank": "E318",
+    "google": "FE4D4"
+  },
+  {
+    "name": "EYEGLASSES",
+    "unified": "1F453",
+    "docomo": "E69A",
+    "au": "E4FE",
+    "google": "FE4CE"
+  },
+  {
+    "name": "NECKTIE",
+    "unified": "1F454",
+    "au": "EA93",
+    "softbank": "E302",
+    "google": "FE4D3"
+  },
+  {
+    "name": "T-SHIRT",
+    "unified": "1F455",
+    "docomo": "E70E",
+    "au": "E5B6",
+    "softbank": "E006",
+    "google": "FE4CF"
+  },
+  {
+    "name": "JEANS",
+    "unified": "1F456",
+    "docomo": "E711",
+    "au": "EB77",
+    "google": "FE4D0"
+  },
+  {
+    "name": "DRESS",
+    "unified": "1F457",
+    "au": "EB6B",
+    "softbank": "E319",
+    "google": "FE4D5"
+  },
+  {
+    "name": "KIMONO",
+    "unified": "1F458",
+    "au": "EAA3",
+    "softbank": "E321",
+    "google": "FE4D9"
+  },
+  {
+    "name": "BIKINI",
+    "unified": "1F459",
+    "au": "EAA4",
+    "softbank": "E322",
+    "google": "FE4DA"
+  },
+  {
+    "name": "WOMANS CLOTHES",
+    "unified": "1F45A",
+    "docomo": "E70E",
+    "au": "E50D",
+    "google": "FE4DB"
+  },
+  {
+    "name": "PURSE",
+    "unified": "1F45B",
+    "docomo": "E70F",
+    "au": "E504",
+    "google": "FE4DC"
+  },
+  {
+    "name": "HANDBAG",
+    "unified": "1F45C",
+    "docomo": "E682",
+    "au": "E49C",
+    "softbank": "E323",
+    "google": "FE4F0"
+  },
+  {
+    "name": "POUCH",
+    "unified": "1F45D",
+    "docomo": "E6AD",
+    "google": "FE4F1"
+  },
+  {
+    "name": "MANS SHOE",
+    "unified": "1F45E",
+    "docomo": "E699",
+    "au": "E5B7",
+    "google": "FE4CC"
+  },
+  {
+    "name": "ATHLETIC SHOE",
+    "unified": "1F45F",
+    "docomo": "E699",
+    "au": "EB2B",
+    "softbank": "E007",
+    "google": "FE4CD"
+  },
+  {
+    "name": "HIGH-HEELED SHOE",
+    "unified": "1F460",
+    "docomo": "E674",
+    "au": "E51A",
+    "softbank": "E13E",
+    "google": "FE4D6"
+  },
+  {
+    "name": "WOMANS SANDAL",
+    "unified": "1F461",
+    "docomo": "E674",
+    "au": "E51A",
+    "softbank": "E31A",
+    "google": "FE4D7"
+  },
+  {
+    "name": "WOMANS BOOTS",
+    "unified": "1F462",
+    "au": "EA9F",
+    "softbank": "E31B",
+    "google": "FE4D8"
+  },
+  {
+    "name": "FOOTPRINTS",
+    "unified": "1F463",
+    "docomo": "E698",
+    "au": "EB2A",
+    "softbank": "E536",
+    "google": "FE553"
+  },
+  {
+    "name": "BUST IN SILHOUETTE",
+    "unified": "1F464",
+    "docomo": "E6B1",
+    "google": "FE19A"
+  },
+  {
+    "name": "BUSTS IN SILHOUETTE",
+    "unified": "1F465"
+  },
+  {
+    "name": "BOY",
+    "unified": "1F466",
+    "docomo": "E6F0",
+    "au": "E4FC",
+    "softbank": "E001",
+    "google": "FE19B"
+  },
+  {
+    "name": "GIRL",
+    "unified": "1F467",
+    "docomo": "E6F0",
+    "au": "E4FA",
+    "softbank": "E002",
+    "google": "FE19C"
+  },
+  {
+    "unified": "1F468-200D-1F33E"
+  },
+  {
+    "unified": "1F468-200D-1F373"
+  },
+  {
+    "unified": "1F468-200D-1F393"
+  },
+  {
+    "unified": "1F468-200D-1F3A4"
+  },
+  {
+    "unified": "1F468-200D-1F3A8"
+  },
+  {
+    "unified": "1F468-200D-1F3EB"
+  },
+  {
+    "unified": "1F468-200D-1F3ED"
+  },
+  {
+    "unified": "1F468-200D-1F466-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F467-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F467-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F468-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F468-200D-1F466-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F468-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F468-200D-1F467-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F468-200D-1F467-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F469-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F469-200D-1F466-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F469-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F469-200D-1F467-200D-1F466"
+  },
+  {
+    "unified": "1F468-200D-1F469-200D-1F467-200D-1F467"
+  },
+  {
+    "unified": "1F468-200D-1F4BB"
+  },
+  {
+    "unified": "1F468-200D-1F4BC"
+  },
+  {
+    "unified": "1F468-200D-1F527"
+  },
+  {
+    "unified": "1F468-200D-1F52C"
+  },
+  {
+    "unified": "1F468-200D-1F680"
+  },
+  {
+    "unified": "1F468-200D-1F692"
+  },
+  {
+    "unified": "1F468-200D-1F9B0"
+  },
+  {
+    "unified": "1F468-200D-1F9B1"
+  },
+  {
+    "unified": "1F468-200D-1F9B2"
+  },
+  {
+    "unified": "1F468-200D-1F9B3"
+  },
+  {
+    "unified": "1F468-200D-2695-FE0F"
+  },
+  {
+    "unified": "1F468-200D-2696-FE0F"
+  },
+  {
+    "unified": "1F468-200D-2708-FE0F"
+  },
+  {
+    "unified": "1F468-200D-2764-FE0F-200D-1F468"
+  },
+  {
+    "unified": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468"
+  },
+  {
+    "name": "MAN",
+    "unified": "1F468",
+    "docomo": "E6F0",
+    "au": "E4FC",
+    "softbank": "E004",
+    "google": "FE19D"
+  },
+  {
+    "unified": "1F469-200D-1F33E"
+  },
+  {
+    "unified": "1F469-200D-1F373"
+  },
+  {
+    "unified": "1F469-200D-1F393"
+  },
+  {
+    "unified": "1F469-200D-1F3A4"
+  },
+  {
+    "unified": "1F469-200D-1F3A8"
+  },
+  {
+    "unified": "1F469-200D-1F3EB"
+  },
+  {
+    "unified": "1F469-200D-1F3ED"
+  },
+  {
+    "unified": "1F469-200D-1F466-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F467-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F467-200D-1F467"
+  },
+  {
+    "unified": "1F469-200D-1F467"
+  },
+  {
+    "unified": "1F469-200D-1F469-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F469-200D-1F466-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F469-200D-1F467"
+  },
+  {
+    "unified": "1F469-200D-1F469-200D-1F467-200D-1F466"
+  },
+  {
+    "unified": "1F469-200D-1F469-200D-1F467-200D-1F467"
+  },
+  {
+    "unified": "1F469-200D-1F4BB"
+  },
+  {
+    "unified": "1F469-200D-1F4BC"
+  },
+  {
+    "unified": "1F469-200D-1F527"
+  },
+  {
+    "unified": "1F469-200D-1F52C"
+  },
+  {
+    "unified": "1F469-200D-1F680"
+  },
+  {
+    "unified": "1F469-200D-1F692"
+  },
+  {
+    "unified": "1F469-200D-1F9B0"
+  },
+  {
+    "unified": "1F469-200D-1F9B1"
+  },
+  {
+    "unified": "1F469-200D-1F9B2"
+  },
+  {
+    "unified": "1F469-200D-1F9B3"
+  },
+  {
+    "unified": "1F469-200D-2695-FE0F"
+  },
+  {
+    "unified": "1F469-200D-2696-FE0F"
+  },
+  {
+    "unified": "1F469-200D-2708-FE0F"
+  },
+  {
+    "unified": "1F469-200D-2764-FE0F-200D-1F468"
+  },
+  {
+    "unified": "1F469-200D-2764-FE0F-200D-1F469"
+  },
+  {
+    "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468"
+  },
+  {
+    "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469"
+  },
+  {
+    "name": "WOMAN",
+    "unified": "1F469",
+    "docomo": "E6F0",
+    "au": "E4FA",
+    "softbank": "E005",
+    "google": "FE19E"
+  },
+  {
+    "name": "FAMILY",
+    "unified": "1F46A",
+    "au": "E501",
+    "google": "FE19F"
+  },
+  {
+    "name": "MAN AND WOMAN HOLDING HANDS",
+    "unified": "1F46B",
+    "softbank": "E428",
+    "google": "FE1A0"
+  },
+  {
+    "name": "TWO MEN HOLDING HANDS",
+    "unified": "1F46C"
+  },
+  {
+    "name": "TWO WOMEN HOLDING HANDS",
+    "unified": "1F46D"
+  },
+  {
+    "unified": "1F46E-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F46E-200D-2642-FE0F"
+  },
+  {
+    "name": "POLICE OFFICER",
+    "unified": "1F46E",
+    "au": "E5DD",
+    "softbank": "E152",
+    "google": "FE1A1"
+  },
+  {
+    "unified": "1F46F-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F46F-200D-2642-FE0F"
+  },
+  {
+    "name": "WOMAN WITH BUNNY EARS",
+    "unified": "1F46F",
+    "au": "EADB",
+    "softbank": "E429",
+    "google": "FE1A2"
+  },
+  {
+    "name": "BRIDE WITH VEIL",
+    "unified": "1F470",
+    "au": "EAE9",
+    "google": "FE1A3"
+  },
+  {
+    "unified": "1F471-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F471-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON WITH BLOND HAIR",
+    "unified": "1F471",
+    "au": "EB13",
+    "softbank": "E515",
+    "google": "FE1A4"
+  },
+  {
+    "name": "MAN WITH GUA PI MAO",
+    "unified": "1F472",
+    "au": "EB14",
+    "softbank": "E516",
+    "google": "FE1A5"
+  },
+  {
+    "unified": "1F473-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F473-200D-2642-FE0F"
+  },
+  {
+    "name": "MAN WITH TURBAN",
+    "unified": "1F473",
+    "au": "EB15",
+    "softbank": "E517",
+    "google": "FE1A6"
+  },
+  {
+    "name": "OLDER MAN",
+    "unified": "1F474",
+    "au": "EB16",
+    "softbank": "E518",
+    "google": "FE1A7"
+  },
+  {
+    "name": "OLDER WOMAN",
+    "unified": "1F475",
+    "au": "EB17",
+    "softbank": "E519",
+    "google": "FE1A8"
+  },
+  {
+    "name": "BABY",
+    "unified": "1F476",
+    "au": "EB18",
+    "softbank": "E51A",
+    "google": "FE1A9"
+  },
+  {
+    "unified": "1F477-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F477-200D-2642-FE0F"
+  },
+  {
+    "name": "CONSTRUCTION WORKER",
+    "unified": "1F477",
+    "au": "EB19",
+    "softbank": "E51B",
+    "google": "FE1AA"
+  },
+  {
+    "name": "PRINCESS",
+    "unified": "1F478",
+    "au": "EB1A",
+    "softbank": "E51C",
+    "google": "FE1AB"
+  },
+  {
+    "name": "JAPANESE OGRE",
+    "unified": "1F479",
+    "au": "EB44",
+    "google": "FE1AC"
+  },
+  {
+    "name": "JAPANESE GOBLIN",
+    "unified": "1F47A",
+    "au": "EB45",
+    "google": "FE1AD"
+  },
+  {
+    "name": "GHOST",
+    "unified": "1F47B",
+    "au": "E4CB",
+    "softbank": "E11B",
+    "google": "FE1AE"
+  },
+  {
+    "name": "BABY ANGEL",
+    "unified": "1F47C",
+    "au": "E5BF",
+    "softbank": "E04E",
+    "google": "FE1AF"
+  },
+  {
+    "name": "EXTRATERRESTRIAL ALIEN",
+    "unified": "1F47D",
+    "au": "E50E",
+    "softbank": "E10C",
+    "google": "FE1B0"
+  },
+  {
+    "name": "ALIEN MONSTER",
+    "unified": "1F47E",
+    "au": "E4EC",
+    "softbank": "E12B",
+    "google": "FE1B1"
+  },
+  {
+    "name": "IMP",
+    "unified": "1F47F",
+    "au": "E4EF",
+    "softbank": "E11A",
+    "google": "FE1B2"
+  },
+  {
+    "name": "SKULL",
+    "unified": "1F480",
+    "au": "E4F8",
+    "softbank": "E11C",
+    "google": "FE1B3"
+  },
+  {
+    "unified": "1F481-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F481-200D-2642-FE0F"
+  },
+  {
+    "name": "INFORMATION DESK PERSON",
+    "unified": "1F481",
+    "softbank": "E253",
+    "google": "FE1B4"
+  },
+  {
+    "unified": "1F482-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F482-200D-2642-FE0F"
+  },
+  {
+    "name": "GUARDSMAN",
+    "unified": "1F482",
+    "softbank": "E51E",
+    "google": "FE1B5"
+  },
+  {
+    "name": "DANCER",
+    "unified": "1F483",
+    "au": "EB1C",
+    "softbank": "E51F",
+    "google": "FE1B6"
+  },
+  {
+    "name": "LIPSTICK",
+    "unified": "1F484",
+    "docomo": "E710",
+    "au": "E509",
+    "softbank": "E31C",
+    "google": "FE195"
+  },
+  {
+    "name": "NAIL POLISH",
+    "unified": "1F485",
+    "au": "EAA0",
+    "softbank": "E31D",
+    "google": "FE196"
+  },
+  {
+    "unified": "1F486-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F486-200D-2642-FE0F"
+  },
+  {
+    "name": "FACE MASSAGE",
+    "unified": "1F486",
+    "au": "E50B",
+    "softbank": "E31E",
+    "google": "FE197"
+  },
+  {
+    "unified": "1F487-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F487-200D-2642-FE0F"
+  },
+  {
+    "name": "HAIRCUT",
+    "unified": "1F487",
+    "docomo": "E675",
+    "au": "EAA1",
+    "softbank": "E31F",
+    "google": "FE198"
+  },
+  {
+    "name": "BARBER POLE",
+    "unified": "1F488",
+    "au": "EAA2",
+    "softbank": "E320",
+    "google": "FE199"
+  },
+  {
+    "name": "SYRINGE",
+    "unified": "1F489",
+    "au": "E510",
+    "softbank": "E13B",
+    "google": "FE509"
+  },
+  {
+    "name": "PILL",
+    "unified": "1F48A",
+    "au": "EA9A",
+    "softbank": "E30F",
+    "google": "FE50A"
+  },
+  {
+    "name": "KISS MARK",
+    "unified": "1F48B",
+    "docomo": "E6F9",
+    "au": "E4EB",
+    "softbank": "E003",
+    "google": "FE823"
+  },
+  {
+    "name": "LOVE LETTER",
+    "unified": "1F48C",
+    "docomo": "E717",
+    "au": "EB78",
+    "google": "FE824"
+  },
+  {
+    "name": "RING",
+    "unified": "1F48D",
+    "docomo": "E71B",
+    "au": "E514",
+    "softbank": "E034",
+    "google": "FE825"
+  },
+  {
+    "name": "GEM STONE",
+    "unified": "1F48E",
+    "docomo": "E71B",
+    "au": "E514",
+    "softbank": "E035",
+    "google": "FE826"
+  },
+  {
+    "name": "KISS",
+    "unified": "1F48F",
+    "docomo": "E6F9",
+    "au": "E5CA",
+    "softbank": "E111",
+    "google": "FE827"
+  },
+  {
+    "name": "BOUQUET",
+    "unified": "1F490",
+    "au": "EA95",
+    "softbank": "E306",
+    "google": "FE828"
+  },
+  {
+    "name": "COUPLE WITH HEART",
+    "unified": "1F491",
+    "docomo": "E6ED",
+    "au": "EADA",
+    "softbank": "E425",
+    "google": "FE829"
+  },
+  {
+    "name": "WEDDING",
+    "unified": "1F492",
+    "au": "E5BB",
+    "softbank": "E43D",
+    "google": "FE82A"
+  },
+  {
+    "name": "BEATING HEART",
+    "unified": "1F493",
+    "docomo": "E6ED",
+    "au": "EB75",
+    "softbank": "E327",
+    "google": "FEB0D"
+  },
+  {
+    "name": "BROKEN HEART",
+    "unified": "1F494",
+    "docomo": "E6EE",
+    "au": "E477",
+    "softbank": "E023",
+    "google": "FEB0E"
+  },
+  {
+    "name": "TWO HEARTS",
+    "unified": "1F495",
+    "docomo": "E6EF",
+    "au": "E478",
+    "google": "FEB0F"
+  },
+  {
+    "name": "SPARKLING HEART",
+    "unified": "1F496",
+    "docomo": "E6EC",
+    "au": "EAA6",
+    "google": "FEB10"
+  },
+  {
+    "name": "GROWING HEART",
+    "unified": "1F497",
+    "docomo": "E6ED",
+    "au": "EB75",
+    "softbank": "E328",
+    "google": "FEB11"
+  },
+  {
+    "name": "HEART WITH ARROW",
+    "unified": "1F498",
+    "docomo": "E6EC",
+    "au": "E4EA",
+    "softbank": "E329",
+    "google": "FEB12"
+  },
+  {
+    "name": "BLUE HEART",
+    "unified": "1F499",
+    "docomo": "E6EC",
+    "au": "EAA7",
+    "softbank": "E32A",
+    "google": "FEB13"
+  },
+  {
+    "name": "GREEN HEART",
+    "unified": "1F49A",
+    "docomo": "E6EC",
+    "au": "EAA8",
+    "softbank": "E32B",
+    "google": "FEB14"
+  },
+  {
+    "name": "YELLOW HEART",
+    "unified": "1F49B",
+    "docomo": "E6EC",
+    "au": "EAA9",
+    "softbank": "E32C",
+    "google": "FEB15"
+  },
+  {
+    "name": "PURPLE HEART",
+    "unified": "1F49C",
+    "docomo": "E6EC",
+    "au": "EAAA",
+    "softbank": "E32D",
+    "google": "FEB16"
+  },
+  {
+    "name": "HEART WITH RIBBON",
+    "unified": "1F49D",
+    "docomo": "E6EC",
+    "au": "EB54",
+    "softbank": "E437",
+    "google": "FEB17"
+  },
+  {
+    "name": "REVOLVING HEARTS",
+    "unified": "1F49E",
+    "docomo": "E6ED",
+    "au": "E5AF",
+    "google": "FEB18"
+  },
+  {
+    "name": "HEART DECORATION",
+    "unified": "1F49F",
+    "docomo": "E6F8",
+    "au": "E595",
+    "softbank": "E204",
+    "google": "FEB19"
+  },
+  {
+    "name": "DIAMOND SHAPE WITH A DOT INSIDE",
+    "unified": "1F4A0",
+    "docomo": "E6F8",
+    "google": "FEB55"
+  },
+  {
+    "name": "ELECTRIC LIGHT BULB",
+    "unified": "1F4A1",
+    "docomo": "E6FB",
+    "au": "E476",
+    "softbank": "E10F",
+    "google": "FEB56"
+  },
+  {
+    "name": "ANGER SYMBOL",
+    "unified": "1F4A2",
+    "docomo": "E6FC",
+    "au": "E4E5",
+    "softbank": "E334",
+    "google": "FEB57"
+  },
+  {
+    "name": "BOMB",
+    "unified": "1F4A3",
+    "docomo": "E6FE",
+    "au": "E47A",
+    "softbank": "E311",
+    "google": "FEB58"
+  },
+  {
+    "name": "SLEEPING SYMBOL",
+    "unified": "1F4A4",
+    "docomo": "E701",
+    "au": "E475",
+    "softbank": "E13C",
+    "google": "FEB59"
+  },
+  {
+    "name": "COLLISION SYMBOL",
+    "unified": "1F4A5",
+    "docomo": "E705",
+    "au": "E5B0",
+    "google": "FEB5A"
+  },
+  {
+    "name": "SPLASHING SWEAT SYMBOL",
+    "unified": "1F4A6",
+    "docomo": "E706",
+    "au": "E5B1",
+    "softbank": "E331",
+    "google": "FEB5B"
+  },
+  {
+    "name": "DROPLET",
+    "unified": "1F4A7",
+    "docomo": "E707",
+    "au": "E4E6",
+    "google": "FEB5C"
+  },
+  {
+    "name": "DASH SYMBOL",
+    "unified": "1F4A8",
+    "docomo": "E708",
+    "au": "E4F4",
+    "softbank": "E330",
+    "google": "FEB5D"
+  },
+  {
+    "name": "PILE OF POO",
+    "unified": "1F4A9",
+    "au": "E4F5",
+    "softbank": "E05A",
+    "google": "FE4F4"
+  },
+  {
+    "name": "FLEXED BICEPS",
+    "unified": "1F4AA",
+    "au": "E4E9",
+    "softbank": "E14C",
+    "google": "FEB5E"
+  },
+  {
+    "name": "DIZZY SYMBOL",
+    "unified": "1F4AB",
+    "au": "EB5C",
+    "google": "FEB5F"
+  },
+  {
+    "name": "SPEECH BALLOON",
+    "unified": "1F4AC",
+    "au": "E4FD",
+    "google": "FE532"
+  },
+  {
+    "name": "THOUGHT BALLOON",
+    "unified": "1F4AD"
+  },
+  {
+    "name": "WHITE FLOWER",
+    "unified": "1F4AE",
+    "au": "E4F0",
+    "google": "FEB7A"
+  },
+  {
+    "name": "HUNDRED POINTS SYMBOL",
+    "unified": "1F4AF",
+    "au": "E4F2",
+    "google": "FEB7B"
+  },
+  {
+    "name": "MONEY BAG",
+    "unified": "1F4B0",
+    "docomo": "E715",
+    "au": "E4C7",
+    "softbank": "E12F",
+    "google": "FE4DD"
+  },
+  {
+    "name": "CURRENCY EXCHANGE",
+    "unified": "1F4B1",
+    "softbank": "E149",
+    "google": "FE4DE"
+  },
+  {
+    "name": "HEAVY DOLLAR SIGN",
+    "unified": "1F4B2",
+    "docomo": "E715",
+    "au": "E579",
+    "google": "FE4E0"
+  },
+  {
+    "name": "CREDIT CARD",
+    "unified": "1F4B3",
+    "au": "E57C",
+    "google": "FE4E1"
+  },
+  {
+    "name": "BANKNOTE WITH YEN SIGN",
+    "unified": "1F4B4",
+    "docomo": "E6D6",
+    "au": "E57D",
+    "google": "FE4E2"
+  },
+  {
+    "name": "BANKNOTE WITH DOLLAR SIGN",
+    "unified": "1F4B5",
+    "docomo": "E715",
+    "au": "E585",
+    "google": "FE4E3"
+  },
+  {
+    "name": "BANKNOTE WITH EURO SIGN",
+    "unified": "1F4B6"
+  },
+  {
+    "name": "BANKNOTE WITH POUND SIGN",
+    "unified": "1F4B7"
+  },
+  {
+    "name": "MONEY WITH WINGS",
+    "unified": "1F4B8",
+    "au": "EB5B",
+    "google": "FE4E4"
+  },
+  {
+    "name": "CHART WITH UPWARDS TREND AND YEN SIGN",
+    "unified": "1F4B9",
+    "au": "E5DC",
+    "softbank": "E14A",
+    "google": "FE4DF"
+  },
+  {
+    "name": "SEAT",
+    "unified": "1F4BA",
+    "docomo": "E6B2",
+    "softbank": "E11F",
+    "google": "FE537"
+  },
+  {
+    "name": "PERSONAL COMPUTER",
+    "unified": "1F4BB",
+    "docomo": "E716",
+    "au": "E5B8",
+    "softbank": "E00C",
+    "google": "FE538"
+  },
+  {
+    "name": "BRIEFCASE",
+    "unified": "1F4BC",
+    "docomo": "E682",
+    "au": "E5CE",
+    "softbank": "E11E",
+    "google": "FE53B"
+  },
+  {
+    "name": "MINIDISC",
+    "unified": "1F4BD",
+    "au": "E582",
+    "softbank": "E316",
+    "google": "FE53C"
+  },
+  {
+    "name": "FLOPPY DISK",
+    "unified": "1F4BE",
+    "au": "E562",
+    "google": "FE53D"
+  },
+  {
+    "name": "OPTICAL DISC",
+    "unified": "1F4BF",
+    "docomo": "E68C",
+    "au": "E50C",
+    "softbank": "E126",
+    "google": "FE81D"
+  },
+  {
+    "name": "DVD",
+    "unified": "1F4C0",
+    "docomo": "E68C",
+    "au": "E50C",
+    "softbank": "E127",
+    "google": "FE81E"
+  },
+  {
+    "name": "FILE FOLDER",
+    "unified": "1F4C1",
+    "au": "E58F",
+    "google": "FE543"
+  },
+  {
+    "name": "OPEN FILE FOLDER",
+    "unified": "1F4C2",
+    "au": "E590",
+    "google": "FE544"
+  },
+  {
+    "name": "PAGE WITH CURL",
+    "unified": "1F4C3",
+    "docomo": "E689",
+    "au": "E561",
+    "google": "FE540"
+  },
+  {
+    "name": "PAGE FACING UP",
+    "unified": "1F4C4",
+    "docomo": "E689",
+    "au": "E569",
+    "google": "FE541"
+  },
+  {
+    "name": "CALENDAR",
+    "unified": "1F4C5",
+    "au": "E563",
+    "google": "FE542"
+  },
+  {
+    "name": "TEAR-OFF CALENDAR",
+    "unified": "1F4C6",
+    "au": "E56A",
+    "google": "FE549"
+  },
+  {
+    "name": "CARD INDEX",
+    "unified": "1F4C7",
+    "docomo": "E683",
+    "au": "E56C",
+    "google": "FE54D"
+  },
+  {
+    "name": "CHART WITH UPWARDS TREND",
+    "unified": "1F4C8",
+    "au": "E575",
+    "google": "FE54B"
+  },
+  {
+    "name": "CHART WITH DOWNWARDS TREND",
+    "unified": "1F4C9",
+    "au": "E576",
+    "google": "FE54C"
+  },
+  {
+    "name": "BAR CHART",
+    "unified": "1F4CA",
+    "au": "E574",
+    "google": "FE54A"
+  },
+  {
+    "name": "CLIPBOARD",
+    "unified": "1F4CB",
+    "docomo": "E689",
+    "au": "E564",
+    "google": "FE548"
+  },
+  {
+    "name": "PUSHPIN",
+    "unified": "1F4CC",
+    "au": "E56D",
+    "google": "FE54E"
+  },
+  {
+    "name": "ROUND PUSHPIN",
+    "unified": "1F4CD",
+    "au": "E560",
+    "google": "FE53F"
+  },
+  {
+    "name": "PAPERCLIP",
+    "unified": "1F4CE",
+    "docomo": "E730",
+    "au": "E4A0",
+    "google": "FE53A"
+  },
+  {
+    "name": "STRAIGHT RULER",
+    "unified": "1F4CF",
+    "au": "E570",
+    "google": "FE550"
+  },
+  {
+    "name": "TRIANGULAR RULER",
+    "unified": "1F4D0",
+    "au": "E4A2",
+    "google": "FE551"
+  },
+  {
+    "name": "BOOKMARK TABS",
+    "unified": "1F4D1",
+    "docomo": "E689",
+    "au": "EB0B",
+    "google": "FE552"
+  },
+  {
+    "name": "LEDGER",
+    "unified": "1F4D2",
+    "docomo": "E683",
+    "au": "E56E",
+    "google": "FE54F"
+  },
+  {
+    "name": "NOTEBOOK",
+    "unified": "1F4D3",
+    "docomo": "E683",
+    "au": "E56B",
+    "google": "FE545"
+  },
+  {
+    "name": "NOTEBOOK WITH DECORATIVE COVER",
+    "unified": "1F4D4",
+    "docomo": "E683",
+    "au": "E49D",
+    "google": "FE547"
+  },
+  {
+    "name": "CLOSED BOOK",
+    "unified": "1F4D5",
+    "docomo": "E683",
+    "au": "E568",
+    "google": "FE502"
+  },
+  {
+    "name": "OPEN BOOK",
+    "unified": "1F4D6",
+    "docomo": "E683",
+    "au": "E49F",
+    "softbank": "E148",
+    "google": "FE546"
+  },
+  {
+    "name": "GREEN BOOK",
+    "unified": "1F4D7",
+    "docomo": "E683",
+    "au": "E565",
+    "google": "FE4FF"
+  },
+  {
+    "name": "BLUE BOOK",
+    "unified": "1F4D8",
+    "docomo": "E683",
+    "au": "E566",
+    "google": "FE500"
+  },
+  {
+    "name": "ORANGE BOOK",
+    "unified": "1F4D9",
+    "docomo": "E683",
+    "au": "E567",
+    "google": "FE501"
+  },
+  {
+    "name": "BOOKS",
+    "unified": "1F4DA",
+    "docomo": "E683",
+    "au": "E56F",
+    "google": "FE503"
+  },
+  {
+    "name": "NAME BADGE",
+    "unified": "1F4DB",
+    "au": "E51D",
+    "google": "FE504"
+  },
+  {
+    "name": "SCROLL",
+    "unified": "1F4DC",
+    "docomo": "E70A",
+    "au": "E55F",
+    "google": "FE4FD"
+  },
+  {
+    "name": "MEMO",
+    "unified": "1F4DD",
+    "docomo": "E689",
+    "au": "EA92",
+    "softbank": "E301",
+    "google": "FE527"
+  },
+  {
+    "name": "TELEPHONE RECEIVER",
+    "unified": "1F4DE",
+    "docomo": "E687",
+    "au": "E51E",
+    "google": "FE524"
+  },
+  {
+    "name": "PAGER",
+    "unified": "1F4DF",
+    "docomo": "E65A",
+    "au": "E59B",
+    "google": "FE522"
+  },
+  {
+    "name": "FAX MACHINE",
+    "unified": "1F4E0",
+    "docomo": "E6D0",
+    "au": "E520",
+    "softbank": "E00B",
+    "google": "FE528"
+  },
+  {
+    "name": "SATELLITE ANTENNA",
+    "unified": "1F4E1",
+    "au": "E4A8",
+    "softbank": "E14B",
+    "google": "FE531"
+  },
+  {
+    "name": "PUBLIC ADDRESS LOUDSPEAKER",
+    "unified": "1F4E2",
+    "au": "E511",
+    "softbank": "E142",
+    "google": "FE52F"
+  },
+  {
+    "name": "CHEERING MEGAPHONE",
+    "unified": "1F4E3",
+    "au": "E511",
+    "softbank": "E317",
+    "google": "FE530"
+  },
+  {
+    "name": "OUTBOX TRAY",
+    "unified": "1F4E4",
+    "au": "E592",
+    "google": "FE533"
+  },
+  {
+    "name": "INBOX TRAY",
+    "unified": "1F4E5",
+    "au": "E593",
+    "google": "FE534"
+  },
+  {
+    "name": "PACKAGE",
+    "unified": "1F4E6",
+    "docomo": "E685",
+    "au": "E51F",
+    "google": "FE535"
+  },
+  {
+    "name": "E-MAIL SYMBOL",
+    "unified": "1F4E7",
+    "docomo": "E6D3",
+    "au": "EB71",
+    "google": "FEB92"
+  },
+  {
+    "name": "INCOMING ENVELOPE",
+    "unified": "1F4E8",
+    "docomo": "E6CF",
+    "au": "E591",
+    "google": "FE52A"
+  },
+  {
+    "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
+    "unified": "1F4E9",
+    "docomo": "E6CF",
+    "au": "EB62",
+    "softbank": "E103",
+    "google": "FE52B"
+  },
+  {
+    "name": "CLOSED MAILBOX WITH LOWERED FLAG",
+    "unified": "1F4EA",
+    "docomo": "E665",
+    "au": "E51B",
+    "google": "FE52C"
+  },
+  {
+    "name": "CLOSED MAILBOX WITH RAISED FLAG",
+    "unified": "1F4EB",
+    "docomo": "E665",
+    "au": "EB0A",
+    "softbank": "E101",
+    "google": "FE52D"
+  },
+  {
+    "name": "OPEN MAILBOX WITH RAISED FLAG",
+    "unified": "1F4EC"
+  },
+  {
+    "name": "OPEN MAILBOX WITH LOWERED FLAG",
+    "unified": "1F4ED"
+  },
+  {
+    "name": "POSTBOX",
+    "unified": "1F4EE",
+    "docomo": "E665",
+    "au": "E51B",
+    "softbank": "E102",
+    "google": "FE52E"
+  },
+  {
+    "name": "POSTAL HORN",
+    "unified": "1F4EF"
+  },
+  {
+    "name": "NEWSPAPER",
+    "unified": "1F4F0",
+    "au": "E58B",
+    "google": "FE822"
+  },
+  {
+    "name": "MOBILE PHONE",
+    "unified": "1F4F1",
+    "docomo": "E688",
+    "au": "E588",
+    "softbank": "E00A",
+    "google": "FE525"
+  },
+  {
+    "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
+    "unified": "1F4F2",
+    "docomo": "E6CE",
+    "au": "EB08",
+    "softbank": "E104",
+    "google": "FE526"
+  },
+  {
+    "name": "VIBRATION MODE",
+    "unified": "1F4F3",
+    "au": "EA90",
+    "softbank": "E250",
+    "google": "FE839"
+  },
+  {
+    "name": "MOBILE PHONE OFF",
+    "unified": "1F4F4",
+    "au": "EA91",
+    "softbank": "E251",
+    "google": "FE83A"
+  },
+  {
+    "name": "NO MOBILE PHONES",
+    "unified": "1F4F5"
+  },
+  {
+    "name": "ANTENNA WITH BARS",
+    "unified": "1F4F6",
+    "au": "EA84",
+    "softbank": "E20B",
+    "google": "FE838"
+  },
+  {
+    "name": "CAMERA",
+    "unified": "1F4F7",
+    "docomo": "E681",
+    "au": "E515",
+    "softbank": "E008",
+    "google": "FE4EF"
+  },
+  {
+    "name": "CAMERA WITH FLASH",
+    "unified": "1F4F8"
+  },
+  {
+    "name": "VIDEO CAMERA",
+    "unified": "1F4F9",
+    "docomo": "E677",
+    "au": "E57E",
+    "google": "FE4F9"
+  },
+  {
+    "name": "TELEVISION",
+    "unified": "1F4FA",
+    "docomo": "E68A",
+    "au": "E502",
+    "softbank": "E12A",
+    "google": "FE81C"
+  },
+  {
+    "name": "RADIO",
+    "unified": "1F4FB",
+    "au": "E5B9",
+    "softbank": "E128",
+    "google": "FE81F"
+  },
+  {
+    "name": "VIDEOCASSETTE",
+    "unified": "1F4FC",
+    "au": "E580",
+    "softbank": "E129",
+    "google": "FE820"
+  },
+  {
+    "unified": "1F4FD-FE0F"
+  },
+  {
+    "name": "PRAYER BEADS",
+    "unified": "1F4FF"
+  },
+  {
+    "name": "TWISTED RIGHTWARDS ARROWS",
+    "unified": "1F500"
+  },
+  {
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F501"
+  },
+  {
+    "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
+    "unified": "1F502"
+  },
+  {
+    "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F503",
+    "docomo": "E735",
+    "au": "EB0D",
+    "google": "FEB91"
+  },
+  {
+    "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+    "unified": "1F504"
+  },
+  {
+    "name": "LOW BRIGHTNESS SYMBOL",
+    "unified": "1F505"
+  },
+  {
+    "name": "HIGH BRIGHTNESS SYMBOL",
+    "unified": "1F506"
+  },
+  {
+    "name": "SPEAKER WITH CANCELLATION STROKE",
+    "unified": "1F507"
+  },
+  {
+    "name": "SPEAKER",
+    "unified": "1F508"
+  },
+  {
+    "name": "SPEAKER WITH ONE SOUND WAVE",
+    "unified": "1F509"
+  },
+  {
+    "name": "SPEAKER WITH THREE SOUND WAVES",
+    "unified": "1F50A",
+    "au": "E511",
+    "softbank": "E141",
+    "google": "FE821"
+  },
+  {
+    "name": "BATTERY",
+    "unified": "1F50B",
+    "au": "E584",
+    "google": "FE4FC"
+  },
+  {
+    "name": "ELECTRIC PLUG",
+    "unified": "1F50C",
+    "au": "E589",
+    "google": "FE4FE"
+  },
+  {
+    "name": "LEFT-POINTING MAGNIFYING GLASS",
+    "unified": "1F50D",
+    "docomo": "E6DC",
+    "au": "E518",
+    "softbank": "E114",
+    "google": "FEB85"
+  },
+  {
+    "name": "RIGHT-POINTING MAGNIFYING GLASS",
+    "unified": "1F50E",
+    "docomo": "E6DC",
+    "au": "EB05",
+    "google": "FEB8D"
+  },
+  {
+    "name": "LOCK WITH INK PEN",
+    "unified": "1F50F",
+    "docomo": "E6D9",
+    "au": "EB0C",
+    "google": "FEB90"
+  },
+  {
+    "name": "CLOSED LOCK WITH KEY",
+    "unified": "1F510",
+    "docomo": "E6D9",
+    "au": "EAFC",
+    "google": "FEB8A"
+  },
+  {
+    "name": "KEY",
+    "unified": "1F511",
+    "docomo": "E6D9",
+    "au": "E519",
+    "softbank": "E03F",
+    "google": "FEB82"
+  },
+  {
+    "name": "LOCK",
+    "unified": "1F512",
+    "docomo": "E6D9",
+    "au": "E51C",
+    "softbank": "E144",
+    "google": "FEB86"
+  },
+  {
+    "name": "OPEN LOCK",
+    "unified": "1F513",
+    "docomo": "E6D9",
+    "au": "E51C",
+    "softbank": "E145",
+    "google": "FEB87"
+  },
+  {
+    "name": "BELL",
+    "unified": "1F514",
+    "docomo": "E713",
+    "au": "E512",
+    "softbank": "E325",
+    "google": "FE4F2"
+  },
+  {
+    "name": "BELL WITH CANCELLATION STROKE",
+    "unified": "1F515"
+  },
+  {
+    "name": "BOOKMARK",
+    "unified": "1F516",
+    "au": "EB07",
+    "google": "FEB8F"
+  },
+  {
+    "name": "LINK SYMBOL",
+    "unified": "1F517",
+    "au": "E58A",
+    "google": "FEB4B"
+  },
+  {
+    "name": "RADIO BUTTON",
+    "unified": "1F518",
+    "au": "EB04",
+    "google": "FEB8C"
+  },
+  {
+    "name": "BACK WITH LEFTWARDS ARROW ABOVE",
+    "unified": "1F519",
+    "au": "EB06",
+    "google": "FEB8E"
+  },
+  {
+    "name": "END WITH LEFTWARDS ARROW ABOVE",
+    "unified": "1F51A",
+    "docomo": "E6B9",
+    "google": "FE01A"
+  },
+  {
+    "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
+    "unified": "1F51B",
+    "docomo": "E6B8",
+    "google": "FE019"
+  },
+  {
+    "name": "SOON WITH RIGHTWARDS ARROW ABOVE",
+    "unified": "1F51C",
+    "docomo": "E6B7",
+    "google": "FE018"
+  },
+  {
+    "name": "TOP WITH UPWARDS ARROW ABOVE",
+    "unified": "1F51D",
+    "softbank": "E24C",
+    "google": "FEB42"
+  },
+  {
+    "name": "NO ONE UNDER EIGHTEEN SYMBOL",
+    "unified": "1F51E",
+    "au": "EA83",
+    "softbank": "E207",
+    "google": "FEB25"
+  },
+  {
+    "name": "KEYCAP TEN",
+    "unified": "1F51F",
+    "au": "E52B",
+    "google": "FE83B"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
+    "unified": "1F520",
+    "au": "EAFD",
+    "google": "FEB7C"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
+    "unified": "1F521",
+    "au": "EAFE",
+    "google": "FEB7D"
+  },
+  {
+    "name": "INPUT SYMBOL FOR NUMBERS",
+    "unified": "1F522",
+    "au": "EAFF",
+    "google": "FEB7E"
+  },
+  {
+    "name": "INPUT SYMBOL FOR SYMBOLS",
+    "unified": "1F523",
+    "au": "EB00",
+    "google": "FEB7F"
+  },
+  {
+    "name": "INPUT SYMBOL FOR LATIN LETTERS",
+    "unified": "1F524",
+    "au": "EB55",
+    "google": "FEB80"
+  },
+  {
+    "name": "FIRE",
+    "unified": "1F525",
+    "au": "E47B",
+    "softbank": "E11D",
+    "google": "FE4F6"
+  },
+  {
+    "name": "ELECTRIC TORCH",
+    "unified": "1F526",
+    "docomo": "E6FB",
+    "au": "E583",
+    "google": "FE4FB"
+  },
+  {
+    "name": "WRENCH",
+    "unified": "1F527",
+    "docomo": "E718",
+    "au": "E587",
+    "google": "FE4C9"
+  },
+  {
+    "name": "HAMMER",
+    "unified": "1F528",
+    "au": "E5CB",
+    "softbank": "E116",
+    "google": "FE4CA"
+  },
+  {
+    "name": "NUT AND BOLT",
+    "unified": "1F529",
+    "au": "E581",
+    "google": "FE4CB"
+  },
+  {
+    "name": "HOCHO",
+    "unified": "1F52A",
+    "au": "E57F",
+    "google": "FE4FA"
+  },
+  {
+    "name": "PISTOL",
+    "unified": "1F52B",
+    "au": "E50A",
+    "softbank": "E113",
+    "google": "FE4F5"
+  },
+  {
+    "name": "MICROSCOPE",
+    "unified": "1F52C"
+  },
+  {
+    "name": "TELESCOPE",
+    "unified": "1F52D"
+  },
+  {
+    "name": "CRYSTAL BALL",
+    "unified": "1F52E",
+    "au": "EA8F",
+    "google": "FE4F7"
+  },
+  {
+    "name": "SIX POINTED STAR WITH MIDDLE DOT",
+    "unified": "1F52F",
+    "au": "EA8F",
+    "softbank": "E23E",
+    "google": "FE4F8"
+  },
+  {
+    "name": "JAPANESE SYMBOL FOR BEGINNER",
+    "unified": "1F530",
+    "au": "E480",
+    "softbank": "E209",
+    "google": "FE044"
+  },
+  {
+    "name": "TRIDENT EMBLEM",
+    "unified": "1F531",
+    "docomo": "E71A",
+    "au": "E5C9",
+    "softbank": "E031",
+    "google": "FE4D2"
+  },
+  {
+    "name": "BLACK SQUARE BUTTON",
+    "unified": "1F532",
+    "docomo": "E69C",
+    "au": "E54B",
+    "softbank": "E21A",
+    "google": "FEB64"
+  },
+  {
+    "name": "WHITE SQUARE BUTTON",
+    "unified": "1F533",
+    "docomo": "E69C",
+    "au": "E54B",
+    "softbank": "E21B",
+    "google": "FEB67"
+  },
+  {
+    "name": "LARGE RED CIRCLE",
+    "unified": "1F534",
+    "docomo": "E69C",
+    "au": "E54A",
+    "softbank": "E219",
+    "google": "FEB63"
+  },
+  {
+    "name": "LARGE BLUE CIRCLE",
+    "unified": "1F535",
+    "docomo": "E69C",
+    "au": "E54B",
+    "google": "FEB64"
+  },
+  {
+    "name": "LARGE ORANGE DIAMOND",
+    "unified": "1F536",
+    "au": "E546",
+    "google": "FEB73"
+  },
+  {
+    "name": "LARGE BLUE DIAMOND",
+    "unified": "1F537",
+    "au": "E547",
+    "google": "FEB74"
+  },
+  {
+    "name": "SMALL ORANGE DIAMOND",
+    "unified": "1F538",
+    "au": "E536",
+    "google": "FEB75"
+  },
+  {
+    "name": "SMALL BLUE DIAMOND",
+    "unified": "1F539",
+    "au": "E537",
+    "google": "FEB76"
+  },
+  {
+    "name": "UP-POINTING RED TRIANGLE",
+    "unified": "1F53A",
+    "au": "E55A",
+    "google": "FEB78"
+  },
+  {
+    "name": "DOWN-POINTING RED TRIANGLE",
+    "unified": "1F53B",
+    "au": "E55B",
+    "google": "FEB79"
+  },
+  {
+    "name": "UP-POINTING SMALL RED TRIANGLE",
+    "unified": "1F53C",
+    "au": "E543",
+    "google": "FEB01"
+  },
+  {
+    "name": "DOWN-POINTING SMALL RED TRIANGLE",
+    "unified": "1F53D",
+    "au": "E542",
+    "google": "FEB00"
+  },
+  {
+    "unified": "1F549-FE0F"
+  },
+  {
+    "unified": "1F54A-FE0F"
+  },
+  {
+    "name": "KAABA",
+    "unified": "1F54B"
+  },
+  {
+    "name": "MOSQUE",
+    "unified": "1F54C"
+  },
+  {
+    "name": "SYNAGOGUE",
+    "unified": "1F54D"
+  },
+  {
+    "name": "MENORAH WITH NINE BRANCHES",
+    "unified": "1F54E"
+  },
+  {
+    "name": "CLOCK FACE ONE OCLOCK",
+    "unified": "1F550",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E024",
+    "google": "FE01E"
+  },
+  {
+    "name": "CLOCK FACE TWO OCLOCK",
+    "unified": "1F551",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E025",
+    "google": "FE01F"
+  },
+  {
+    "name": "CLOCK FACE THREE OCLOCK",
+    "unified": "1F552",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E026",
+    "google": "FE020"
+  },
+  {
+    "name": "CLOCK FACE FOUR OCLOCK",
+    "unified": "1F553",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E027",
+    "google": "FE021"
+  },
+  {
+    "name": "CLOCK FACE FIVE OCLOCK",
+    "unified": "1F554",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E028",
+    "google": "FE022"
+  },
+  {
+    "name": "CLOCK FACE SIX OCLOCK",
+    "unified": "1F555",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E029",
+    "google": "FE023"
+  },
+  {
+    "name": "CLOCK FACE SEVEN OCLOCK",
+    "unified": "1F556",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02A",
+    "google": "FE024"
+  },
+  {
+    "name": "CLOCK FACE EIGHT OCLOCK",
+    "unified": "1F557",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02B",
+    "google": "FE025"
+  },
+  {
+    "name": "CLOCK FACE NINE OCLOCK",
+    "unified": "1F558",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02C",
+    "google": "FE026"
+  },
+  {
+    "name": "CLOCK FACE TEN OCLOCK",
+    "unified": "1F559",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02D",
+    "google": "FE027"
+  },
+  {
+    "name": "CLOCK FACE ELEVEN OCLOCK",
+    "unified": "1F55A",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02E",
+    "google": "FE028"
+  },
+  {
+    "name": "CLOCK FACE TWELVE OCLOCK",
+    "unified": "1F55B",
+    "docomo": "E6BA",
+    "au": "E594",
+    "softbank": "E02F",
+    "google": "FE029"
+  },
+  {
+    "name": "CLOCK FACE ONE-THIRTY",
+    "unified": "1F55C"
+  },
+  {
+    "name": "CLOCK FACE TWO-THIRTY",
+    "unified": "1F55D"
+  },
+  {
+    "name": "CLOCK FACE THREE-THIRTY",
+    "unified": "1F55E"
+  },
+  {
+    "name": "CLOCK FACE FOUR-THIRTY",
+    "unified": "1F55F"
+  },
+  {
+    "name": "CLOCK FACE FIVE-THIRTY",
+    "unified": "1F560"
+  },
+  {
+    "name": "CLOCK FACE SIX-THIRTY",
+    "unified": "1F561"
+  },
+  {
+    "name": "CLOCK FACE SEVEN-THIRTY",
+    "unified": "1F562"
+  },
+  {
+    "name": "CLOCK FACE EIGHT-THIRTY",
+    "unified": "1F563"
+  },
+  {
+    "name": "CLOCK FACE NINE-THIRTY",
+    "unified": "1F564"
+  },
+  {
+    "name": "CLOCK FACE TEN-THIRTY",
+    "unified": "1F565"
+  },
+  {
+    "name": "CLOCK FACE ELEVEN-THIRTY",
+    "unified": "1F566"
+  },
+  {
+    "name": "CLOCK FACE TWELVE-THIRTY",
+    "unified": "1F567"
+  },
+  {
+    "unified": "1F56F-FE0F"
+  },
+  {
+    "unified": "1F570-FE0F"
+  },
+  {
+    "unified": "1F573-FE0F"
+  },
+  {
+    "unified": "1F574-FE0F"
+  },
+  {
+    "unified": "1F575-FE0F-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F575-FE0F-200D-2642-FE0F"
+  },
+  {
+    "unified": "1F575-FE0F"
+  },
+  {
+    "unified": "1F576-FE0F"
+  },
+  {
+    "unified": "1F577-FE0F"
+  },
+  {
+    "unified": "1F578-FE0F"
+  },
+  {
+    "unified": "1F579-FE0F"
+  },
+  {
+    "name": "MAN DANCING",
+    "unified": "1F57A"
+  },
+  {
+    "unified": "1F587-FE0F"
+  },
+  {
+    "unified": "1F58A-FE0F"
+  },
+  {
+    "unified": "1F58B-FE0F"
+  },
+  {
+    "unified": "1F58C-FE0F"
+  },
+  {
+    "unified": "1F58D-FE0F"
+  },
+  {
+    "unified": "1F590-FE0F"
+  },
+  {
+    "name": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
+    "unified": "1F595"
+  },
+  {
+    "name": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
+    "unified": "1F596"
+  },
+  {
+    "name": "BLACK HEART",
+    "unified": "1F5A4"
+  },
+  {
+    "unified": "1F5A5-FE0F"
+  },
+  {
+    "unified": "1F5A8-FE0F"
+  },
+  {
+    "unified": "1F5B1-FE0F"
+  },
+  {
+    "unified": "1F5B2-FE0F"
+  },
+  {
+    "unified": "1F5BC-FE0F"
+  },
+  {
+    "unified": "1F5C2-FE0F"
+  },
+  {
+    "unified": "1F5C3-FE0F"
+  },
+  {
+    "unified": "1F5C4-FE0F"
+  },
+  {
+    "unified": "1F5D1-FE0F"
+  },
+  {
+    "unified": "1F5D2-FE0F"
+  },
+  {
+    "unified": "1F5D3-FE0F"
+  },
+  {
+    "unified": "1F5DC-FE0F"
+  },
+  {
+    "unified": "1F5DD-FE0F"
+  },
+  {
+    "unified": "1F5DE-FE0F"
+  },
+  {
+    "unified": "1F5E1-FE0F"
+  },
+  {
+    "unified": "1F5E3-FE0F"
+  },
+  {
+    "unified": "1F5E8-FE0F"
+  },
+  {
+    "unified": "1F5EF-FE0F"
+  },
+  {
+    "unified": "1F5F3-FE0F"
+  },
+  {
+    "unified": "1F5FA-FE0F"
+  },
+  {
+    "name": "MOUNT FUJI",
+    "unified": "1F5FB",
+    "docomo": "E740",
+    "au": "E5BD",
+    "softbank": "E03B",
+    "google": "FE4C3"
+  },
+  {
+    "name": "TOKYO TOWER",
+    "unified": "1F5FC",
+    "au": "E4C0",
+    "softbank": "E509",
+    "google": "FE4C4"
+  },
+  {
+    "name": "STATUE OF LIBERTY",
+    "unified": "1F5FD",
+    "softbank": "E51D",
+    "google": "FE4C6"
+  },
+  {
+    "name": "SILHOUETTE OF JAPAN",
+    "unified": "1F5FE",
+    "au": "E572",
+    "google": "FE4C7"
+  },
+  {
+    "name": "MOYAI",
+    "unified": "1F5FF",
+    "au": "EB6C",
+    "google": "FE4C8"
+  },
+  {
+    "name": "GRINNING FACE",
+    "unified": "1F600"
+  },
+  {
+    "name": "GRINNING FACE WITH SMILING EYES",
+    "unified": "1F601",
+    "docomo": "E753",
+    "au": "EB80",
+    "softbank": "E404",
+    "google": "FE333"
+  },
+  {
+    "name": "FACE WITH TEARS OF JOY",
+    "unified": "1F602",
+    "docomo": "E72A",
+    "au": "EB64",
+    "softbank": "E412",
+    "google": "FE334"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH",
+    "unified": "1F603",
+    "docomo": "E6F0",
+    "au": "E471",
+    "softbank": "E057",
+    "google": "FE330"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "unified": "1F604",
+    "docomo": "E6F0",
+    "au": "E471",
+    "softbank": "E415",
+    "google": "FE338"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "unified": "1F605",
+    "docomo": "E722",
+    "au": "E471-E5B1",
+    "google": "FE331"
+  },
+  {
+    "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "unified": "1F606",
+    "docomo": "E72A",
+    "au": "EAC5",
+    "google": "FE332"
+  },
+  {
+    "name": "SMILING FACE WITH HALO",
+    "unified": "1F607"
+  },
+  {
+    "name": "SMILING FACE WITH HORNS",
+    "unified": "1F608"
+  },
+  {
+    "name": "WINKING FACE",
+    "unified": "1F609",
+    "docomo": "E729",
+    "au": "E5C3",
+    "softbank": "E405",
+    "google": "FE347"
+  },
+  {
+    "name": "SMILING FACE WITH SMILING EYES",
+    "unified": "1F60A",
+    "docomo": "E6F0",
+    "au": "EACD",
+    "softbank": "E056",
+    "google": "FE335"
+  },
+  {
+    "name": "FACE SAVOURING DELICIOUS FOOD",
+    "unified": "1F60B",
+    "docomo": "E752",
+    "au": "EACD",
+    "google": "FE32B"
+  },
+  {
+    "name": "RELIEVED FACE",
+    "unified": "1F60C",
+    "docomo": "E721",
+    "au": "EAC5",
+    "softbank": "E40A",
+    "google": "FE33E"
+  },
+  {
+    "name": "SMILING FACE WITH HEART-SHAPED EYES",
+    "unified": "1F60D",
+    "docomo": "E726",
+    "au": "E5C4",
+    "softbank": "E106",
+    "google": "FE327"
+  },
+  {
+    "name": "SMILING FACE WITH SUNGLASSES",
+    "unified": "1F60E"
+  },
+  {
+    "name": "SMIRKING FACE",
+    "unified": "1F60F",
+    "docomo": "E72C",
+    "au": "EABF",
+    "softbank": "E402",
+    "google": "FE343"
+  },
+  {
+    "name": "NEUTRAL FACE",
+    "unified": "1F610"
+  },
+  {
+    "name": "EXPRESSIONLESS FACE",
+    "unified": "1F611"
+  },
+  {
+    "name": "UNAMUSED FACE",
+    "unified": "1F612",
+    "docomo": "E725",
+    "au": "EAC9",
+    "softbank": "E40E",
+    "google": "FE326"
+  },
+  {
+    "name": "FACE WITH COLD SWEAT",
+    "unified": "1F613",
+    "docomo": "E723",
+    "au": "E5C6",
+    "softbank": "E108",
+    "google": "FE344"
+  },
+  {
+    "name": "PENSIVE FACE",
+    "unified": "1F614",
+    "docomo": "E720",
+    "au": "EAC0",
+    "softbank": "E403",
+    "google": "FE340"
+  },
+  {
+    "name": "CONFUSED FACE",
+    "unified": "1F615"
+  },
+  {
+    "name": "CONFOUNDED FACE",
+    "unified": "1F616",
+    "docomo": "E6F3",
+    "au": "EAC3",
+    "softbank": "E407",
+    "google": "FE33F"
+  },
+  {
+    "name": "KISSING FACE",
+    "unified": "1F617"
+  },
+  {
+    "name": "FACE THROWING A KISS",
+    "unified": "1F618",
+    "docomo": "E726",
+    "au": "EACF",
+    "softbank": "E418",
+    "google": "FE32C"
+  },
+  {
+    "name": "KISSING FACE WITH SMILING EYES",
+    "unified": "1F619"
+  },
+  {
+    "name": "KISSING FACE WITH CLOSED EYES",
+    "unified": "1F61A",
+    "docomo": "E726",
+    "au": "EACE",
+    "softbank": "E417",
+    "google": "FE32D"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE",
+    "unified": "1F61B"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "unified": "1F61C",
+    "docomo": "E728",
+    "au": "E4E7",
+    "softbank": "E105",
+    "google": "FE329"
+  },
+  {
+    "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "unified": "1F61D",
+    "docomo": "E728",
+    "au": "E4E7",
+    "softbank": "E409",
+    "google": "FE32A"
+  },
+  {
+    "name": "DISAPPOINTED FACE",
+    "unified": "1F61E",
+    "docomo": "E6F2",
+    "au": "EAC0",
+    "softbank": "E058",
+    "google": "FE323"
+  },
+  {
+    "name": "WORRIED FACE",
+    "unified": "1F61F"
+  },
+  {
+    "name": "ANGRY FACE",
+    "unified": "1F620",
+    "docomo": "E6F1",
+    "au": "E472",
+    "softbank": "E059",
+    "google": "FE320"
+  },
+  {
+    "name": "POUTING FACE",
+    "unified": "1F621",
+    "docomo": "E724",
+    "au": "EB5D",
+    "softbank": "E416",
+    "google": "FE33D"
+  },
+  {
+    "name": "CRYING FACE",
+    "unified": "1F622",
+    "docomo": "E72E",
+    "au": "EB69",
+    "softbank": "E413",
+    "google": "FE339"
+  },
+  {
+    "name": "PERSEVERING FACE",
+    "unified": "1F623",
+    "docomo": "E72B",
+    "au": "EAC2",
+    "softbank": "E406",
+    "google": "FE33C"
+  },
+  {
+    "name": "FACE WITH LOOK OF TRIUMPH",
+    "unified": "1F624",
+    "docomo": "E753",
+    "au": "EAC1",
+    "google": "FE328"
+  },
+  {
+    "name": "DISAPPOINTED BUT RELIEVED FACE",
+    "unified": "1F625",
+    "docomo": "E723",
+    "au": "E5C6",
+    "softbank": "E401",
+    "google": "FE345"
+  },
+  {
+    "name": "FROWNING FACE WITH OPEN MOUTH",
+    "unified": "1F626"
+  },
+  {
+    "name": "ANGUISHED FACE",
+    "unified": "1F627"
+  },
+  {
+    "name": "FEARFUL FACE",
+    "unified": "1F628",
+    "docomo": "E757",
+    "au": "EAC6",
+    "softbank": "E40B",
+    "google": "FE33B"
+  },
+  {
+    "name": "WEARY FACE",
+    "unified": "1F629",
+    "docomo": "E6F3",
+    "au": "EB67",
+    "google": "FE321"
+  },
+  {
+    "name": "SLEEPY FACE",
+    "unified": "1F62A",
+    "docomo": "E701",
+    "au": "EAC4",
+    "softbank": "E408",
+    "google": "FE342"
+  },
+  {
+    "name": "TIRED FACE",
+    "unified": "1F62B",
+    "docomo": "E72B",
+    "au": "E474",
+    "google": "FE346"
+  },
+  {
+    "name": "GRIMACING FACE",
+    "unified": "1F62C"
+  },
+  {
+    "name": "LOUDLY CRYING FACE",
+    "unified": "1F62D",
+    "docomo": "E72D",
+    "au": "E473",
+    "softbank": "E411",
+    "google": "FE33A"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH",
+    "unified": "1F62E"
+  },
+  {
+    "name": "HUSHED FACE",
+    "unified": "1F62F"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "unified": "1F630",
+    "docomo": "E723",
+    "au": "EACB",
+    "softbank": "E40F",
+    "google": "FE325"
+  },
+  {
+    "name": "FACE SCREAMING IN FEAR",
+    "unified": "1F631",
+    "docomo": "E757",
+    "au": "E5C5",
+    "softbank": "E107",
+    "google": "FE341"
+  },
+  {
+    "name": "ASTONISHED FACE",
+    "unified": "1F632",
+    "docomo": "E6F4",
+    "au": "EACA",
+    "softbank": "E410",
+    "google": "FE322"
+  },
+  {
+    "name": "FLUSHED FACE",
+    "unified": "1F633",
+    "docomo": "E72A",
+    "au": "EAC8",
+    "softbank": "E40D",
+    "google": "FE32F"
+  },
+  {
+    "name": "SLEEPING FACE",
+    "unified": "1F634"
+  },
+  {
+    "name": "DIZZY FACE",
+    "unified": "1F635",
+    "docomo": "E6F4",
+    "au": "E5AE",
+    "google": "FE324"
+  },
+  {
+    "name": "FACE WITHOUT MOUTH",
+    "unified": "1F636"
+  },
+  {
+    "name": "FACE WITH MEDICAL MASK",
+    "unified": "1F637",
+    "au": "EAC7",
+    "softbank": "E40C",
+    "google": "FE32E"
+  },
+  {
+    "name": "GRINNING CAT FACE WITH SMILING EYES",
+    "unified": "1F638",
+    "docomo": "E753",
+    "au": "EB7F",
+    "google": "FE349"
+  },
+  {
+    "name": "CAT FACE WITH TEARS OF JOY",
+    "unified": "1F639",
+    "docomo": "E72A",
+    "au": "EB63",
+    "google": "FE34A"
+  },
+  {
+    "name": "SMILING CAT FACE WITH OPEN MOUTH",
+    "unified": "1F63A",
+    "docomo": "E6F0",
+    "au": "EB61",
+    "google": "FE348"
+  },
+  {
+    "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+    "unified": "1F63B",
+    "docomo": "E726",
+    "au": "EB65",
+    "google": "FE34C"
+  },
+  {
+    "name": "CAT FACE WITH WRY SMILE",
+    "unified": "1F63C",
+    "docomo": "E753",
+    "au": "EB6A",
+    "google": "FE34F"
+  },
+  {
+    "name": "KISSING CAT FACE WITH CLOSED EYES",
+    "unified": "1F63D",
+    "docomo": "E726",
+    "au": "EB60",
+    "google": "FE34B"
+  },
+  {
+    "name": "POUTING CAT FACE",
+    "unified": "1F63E",
+    "docomo": "E724",
+    "au": "EB5E",
+    "google": "FE34E"
+  },
+  {
+    "name": "CRYING CAT FACE",
+    "unified": "1F63F",
+    "docomo": "E72E",
+    "au": "EB68",
+    "google": "FE34D"
+  },
+  {
+    "name": "WEARY CAT FACE",
+    "unified": "1F640",
+    "docomo": "E6F3",
+    "au": "EB66",
+    "google": "FE350"
+  },
+  {
+    "name": "SLIGHTLY FROWNING FACE",
+    "unified": "1F641"
+  },
+  {
+    "name": "SLIGHTLY SMILING FACE",
+    "unified": "1F642"
+  },
+  {
+    "name": "UPSIDE-DOWN FACE",
+    "unified": "1F643"
+  },
+  {
+    "name": "FACE WITH ROLLING EYES",
+    "unified": "1F644"
+  },
+  {
+    "unified": "1F645-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F645-200D-2642-FE0F"
+  },
+  {
+    "name": "FACE WITH NO GOOD GESTURE",
+    "unified": "1F645",
+    "docomo": "E72F",
+    "au": "EAD7",
+    "softbank": "E423",
+    "google": "FE351"
+  },
+  {
+    "unified": "1F646-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F646-200D-2642-FE0F"
+  },
+  {
+    "name": "FACE WITH OK GESTURE",
+    "unified": "1F646",
+    "docomo": "E70B",
+    "au": "EAD8",
+    "softbank": "E424",
+    "google": "FE352"
+  },
+  {
+    "unified": "1F647-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F647-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON BOWING DEEPLY",
+    "unified": "1F647",
+    "au": "EAD9",
+    "softbank": "E426",
+    "google": "FE353"
+  },
+  {
+    "name": "SEE-NO-EVIL MONKEY",
+    "unified": "1F648",
+    "au": "EB50",
+    "google": "FE354"
+  },
+  {
+    "name": "HEAR-NO-EVIL MONKEY",
+    "unified": "1F649",
+    "au": "EB52",
+    "google": "FE356"
+  },
+  {
+    "name": "SPEAK-NO-EVIL MONKEY",
+    "unified": "1F64A",
+    "au": "EB51",
+    "google": "FE355"
+  },
+  {
+    "unified": "1F64B-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F64B-200D-2642-FE0F"
+  },
+  {
+    "name": "HAPPY PERSON RAISING ONE HAND",
+    "unified": "1F64B",
+    "au": "EB85",
+    "google": "FE357"
+  },
+  {
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+    "unified": "1F64C",
+    "au": "EB86",
+    "softbank": "E427",
+    "google": "FE358"
+  },
+  {
+    "unified": "1F64D-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F64D-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON FROWNING",
+    "unified": "1F64D",
+    "docomo": "E6F3",
+    "au": "EB87",
+    "google": "FE359"
+  },
+  {
+    "unified": "1F64E-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F64E-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON WITH POUTING FACE",
+    "unified": "1F64E",
+    "docomo": "E6F1",
+    "au": "EB88",
+    "google": "FE35A"
+  },
+  {
+    "name": "PERSON WITH FOLDED HANDS",
+    "unified": "1F64F",
+    "au": "EAD2",
+    "softbank": "E41D",
+    "google": "FE35B"
+  },
+  {
+    "name": "ROCKET",
+    "unified": "1F680",
+    "au": "E5C8",
+    "softbank": "E10D",
+    "google": "FE7ED"
+  },
+  {
+    "name": "HELICOPTER",
+    "unified": "1F681"
+  },
+  {
+    "name": "STEAM LOCOMOTIVE",
+    "unified": "1F682"
+  },
+  {
+    "name": "RAILWAY CAR",
+    "unified": "1F683",
+    "docomo": "E65B",
+    "au": "E4B5",
+    "softbank": "E01E",
+    "google": "FE7DF"
+  },
+  {
+    "name": "HIGH-SPEED TRAIN",
+    "unified": "1F684",
+    "docomo": "E65D",
+    "au": "E4B0",
+    "softbank": "E435",
+    "google": "FE7E2"
+  },
+  {
+    "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
+    "unified": "1F685",
+    "docomo": "E65D",
+    "au": "E4B0",
+    "softbank": "E01F",
+    "google": "FE7E3"
+  },
+  {
+    "name": "TRAIN",
+    "unified": "1F686"
+  },
+  {
+    "name": "METRO",
+    "unified": "1F687",
+    "docomo": "E65C",
+    "au": "E5BC",
+    "softbank": "E434",
+    "google": "FE7E0"
+  },
+  {
+    "name": "LIGHT RAIL",
+    "unified": "1F688"
+  },
+  {
+    "name": "STATION",
+    "unified": "1F689",
+    "au": "EB6D",
+    "softbank": "E039",
+    "google": "FE7EC"
+  },
+  {
+    "name": "TRAM",
+    "unified": "1F68A"
+  },
+  {
+    "name": "TRAM CAR",
+    "unified": "1F68B"
+  },
+  {
+    "name": "BUS",
+    "unified": "1F68C",
+    "docomo": "E660",
+    "au": "E4AF",
+    "softbank": "E159",
+    "google": "FE7E6"
+  },
+  {
+    "name": "ONCOMING BUS",
+    "unified": "1F68D"
+  },
+  {
+    "name": "TROLLEYBUS",
+    "unified": "1F68E"
+  },
+  {
+    "name": "BUS STOP",
+    "unified": "1F68F",
+    "au": "E4A7",
+    "softbank": "E150",
+    "google": "FE7E7"
+  },
+  {
+    "name": "MINIBUS",
+    "unified": "1F690"
+  },
+  {
+    "name": "AMBULANCE",
+    "unified": "1F691",
+    "au": "EAE0",
+    "softbank": "E431",
+    "google": "FE7F3"
+  },
+  {
+    "name": "FIRE ENGINE",
+    "unified": "1F692",
+    "au": "EADF",
+    "softbank": "E430",
+    "google": "FE7F2"
+  },
+  {
+    "name": "POLICE CAR",
+    "unified": "1F693",
+    "au": "EAE1",
+    "softbank": "E432",
+    "google": "FE7F4"
+  },
+  {
+    "name": "ONCOMING POLICE CAR",
+    "unified": "1F694"
+  },
+  {
+    "name": "TAXI",
+    "unified": "1F695",
+    "docomo": "E65E",
+    "au": "E4B1",
+    "softbank": "E15A",
+    "google": "FE7EF"
+  },
+  {
+    "name": "ONCOMING TAXI",
+    "unified": "1F696"
+  },
+  {
+    "name": "AUTOMOBILE",
+    "unified": "1F697",
+    "docomo": "E65E",
+    "au": "E4B1",
+    "softbank": "E01B",
+    "google": "FE7E4"
+  },
+  {
+    "name": "ONCOMING AUTOMOBILE",
+    "unified": "1F698"
+  },
+  {
+    "name": "RECREATIONAL VEHICLE",
+    "unified": "1F699",
+    "docomo": "E65F",
+    "au": "E4B1",
+    "softbank": "E42E",
+    "google": "FE7E5"
+  },
+  {
+    "name": "DELIVERY TRUCK",
+    "unified": "1F69A",
+    "au": "E4B2",
+    "softbank": "E42F",
+    "google": "FE7F1"
+  },
+  {
+    "name": "ARTICULATED LORRY",
+    "unified": "1F69B"
+  },
+  {
+    "name": "TRACTOR",
+    "unified": "1F69C"
+  },
+  {
+    "name": "MONORAIL",
+    "unified": "1F69D"
+  },
+  {
+    "name": "MOUNTAIN RAILWAY",
+    "unified": "1F69E"
+  },
+  {
+    "name": "SUSPENSION RAILWAY",
+    "unified": "1F69F"
+  },
+  {
+    "name": "MOUNTAIN CABLEWAY",
+    "unified": "1F6A0"
+  },
+  {
+    "name": "AERIAL TRAMWAY",
+    "unified": "1F6A1"
+  },
+  {
+    "name": "SHIP",
+    "unified": "1F6A2",
+    "docomo": "E661",
+    "au": "EA82",
+    "softbank": "E202",
+    "google": "FE7E8"
+  },
+  {
+    "unified": "1F6A3-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F6A3-200D-2642-FE0F"
+  },
+  {
+    "name": "ROWBOAT",
+    "unified": "1F6A3"
+  },
+  {
+    "name": "SPEEDBOAT",
+    "unified": "1F6A4",
+    "docomo": "E6A3",
+    "au": "E4B4",
+    "softbank": "E135",
+    "google": "FE7EE"
+  },
+  {
+    "name": "HORIZONTAL TRAFFIC LIGHT",
+    "unified": "1F6A5",
+    "docomo": "E66D",
+    "au": "E46A",
+    "softbank": "E14E",
+    "google": "FE7F7"
+  },
+  {
+    "name": "VERTICAL TRAFFIC LIGHT",
+    "unified": "1F6A6"
+  },
+  {
+    "name": "CONSTRUCTION SIGN",
+    "unified": "1F6A7",
+    "au": "E5D7",
+    "softbank": "E137",
+    "google": "FE7F8"
+  },
+  {
+    "name": "POLICE CARS REVOLVING LIGHT",
+    "unified": "1F6A8",
+    "au": "EB73",
+    "google": "FE7F9"
+  },
+  {
+    "name": "TRIANGULAR FLAG ON POST",
+    "unified": "1F6A9",
+    "docomo": "E6DE",
+    "au": "EB2C",
+    "google": "FEB22"
+  },
+  {
+    "name": "DOOR",
+    "unified": "1F6AA",
+    "docomo": "E714",
+    "google": "FE4F3"
+  },
+  {
+    "name": "NO ENTRY SIGN",
+    "unified": "1F6AB",
+    "docomo": "E738",
+    "au": "E541",
+    "google": "FEB48"
+  },
+  {
+    "name": "SMOKING SYMBOL",
+    "unified": "1F6AC",
+    "docomo": "E67F",
+    "au": "E47D",
+    "softbank": "E30E",
+    "google": "FEB1E"
+  },
+  {
+    "name": "NO SMOKING SYMBOL",
+    "unified": "1F6AD",
+    "docomo": "E680",
+    "au": "E47E",
+    "softbank": "E208",
+    "google": "FEB1F"
+  },
+  {
+    "name": "PUT LITTER IN ITS PLACE SYMBOL",
+    "unified": "1F6AE"
+  },
+  {
+    "name": "DO NOT LITTER SYMBOL",
+    "unified": "1F6AF"
+  },
+  {
+    "name": "POTABLE WATER SYMBOL",
+    "unified": "1F6B0"
+  },
+  {
+    "name": "NON-POTABLE WATER SYMBOL",
+    "unified": "1F6B1"
+  },
+  {
+    "name": "BICYCLE",
+    "unified": "1F6B2",
+    "docomo": "E71D",
+    "au": "E4AE",
+    "softbank": "E136",
+    "google": "FE7EB"
+  },
+  {
+    "name": "NO BICYCLES",
+    "unified": "1F6B3"
+  },
+  {
+    "unified": "1F6B4-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F6B4-200D-2642-FE0F"
+  },
+  {
+    "name": "BICYCLIST",
+    "unified": "1F6B4"
+  },
+  {
+    "unified": "1F6B5-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F6B5-200D-2642-FE0F"
+  },
+  {
+    "name": "MOUNTAIN BICYCLIST",
+    "unified": "1F6B5"
+  },
+  {
+    "unified": "1F6B6-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F6B6-200D-2642-FE0F"
+  },
+  {
+    "name": "PEDESTRIAN",
+    "unified": "1F6B6",
+    "docomo": "E733",
+    "au": "EB72",
+    "softbank": "E201",
+    "google": "FE7F0"
+  },
+  {
+    "name": "NO PEDESTRIANS",
+    "unified": "1F6B7"
+  },
+  {
+    "name": "CHILDREN CROSSING",
+    "unified": "1F6B8"
+  },
+  {
+    "name": "MENS SYMBOL",
+    "unified": "1F6B9",
+    "softbank": "E138",
+    "google": "FEB33"
+  },
+  {
+    "name": "WOMENS SYMBOL",
+    "unified": "1F6BA",
+    "softbank": "E139",
+    "google": "FEB34"
+  },
+  {
+    "name": "RESTROOM",
+    "unified": "1F6BB",
+    "docomo": "E66E",
+    "au": "E4A5",
+    "softbank": "E151",
+    "google": "FE506"
+  },
+  {
+    "name": "BABY SYMBOL",
+    "unified": "1F6BC",
+    "au": "EB18",
+    "softbank": "E13A",
+    "google": "FEB35"
+  },
+  {
+    "name": "TOILET",
+    "unified": "1F6BD",
+    "docomo": "E66E",
+    "au": "E4A5",
+    "softbank": "E140",
+    "google": "FE507"
+  },
+  {
+    "name": "WATER CLOSET",
+    "unified": "1F6BE",
+    "docomo": "E66E",
+    "au": "E4A5",
+    "softbank": "E309",
+    "google": "FE508"
+  },
+  {
+    "name": "SHOWER",
+    "unified": "1F6BF"
+  },
+  {
+    "name": "BATH",
+    "unified": "1F6C0",
+    "docomo": "E6F7",
+    "au": "E5D8",
+    "softbank": "E13F",
+    "google": "FE505"
+  },
+  {
+    "name": "BATHTUB",
+    "unified": "1F6C1"
+  },
+  {
+    "name": "PASSPORT CONTROL",
+    "unified": "1F6C2"
+  },
+  {
+    "name": "CUSTOMS",
+    "unified": "1F6C3"
+  },
+  {
+    "name": "BAGGAGE CLAIM",
+    "unified": "1F6C4"
+  },
+  {
+    "name": "LEFT LUGGAGE",
+    "unified": "1F6C5"
+  },
+  {
+    "unified": "1F6CB-FE0F"
+  },
+  {
+    "name": "SLEEPING ACCOMMODATION",
+    "unified": "1F6CC"
+  },
+  {
+    "unified": "1F6CD-FE0F"
+  },
+  {
+    "unified": "1F6CE-FE0F"
+  },
+  {
+    "unified": "1F6CF-FE0F"
+  },
+  {
+    "name": "PLACE OF WORSHIP",
+    "unified": "1F6D0"
+  },
+  {
+    "name": "OCTAGONAL SIGN",
+    "unified": "1F6D1"
+  },
+  {
+    "name": "SHOPPING TROLLEY",
+    "unified": "1F6D2"
+  },
+  {
+    "unified": "1F6E0-FE0F"
+  },
+  {
+    "unified": "1F6E1-FE0F"
+  },
+  {
+    "unified": "1F6E2-FE0F"
+  },
+  {
+    "unified": "1F6E3-FE0F"
+  },
+  {
+    "unified": "1F6E4-FE0F"
+  },
+  {
+    "unified": "1F6E5-FE0F"
+  },
+  {
+    "unified": "1F6E9-FE0F"
+  },
+  {
+    "name": "AIRPLANE DEPARTURE",
+    "unified": "1F6EB"
+  },
+  {
+    "name": "AIRPLANE ARRIVING",
+    "unified": "1F6EC"
+  },
+  {
+    "unified": "1F6F0-FE0F"
+  },
+  {
+    "unified": "1F6F3-FE0F"
+  },
+  {
+    "name": "SCOOTER",
+    "unified": "1F6F4"
+  },
+  {
+    "name": "MOTOR SCOOTER",
+    "unified": "1F6F5"
+  },
+  {
+    "name": "CANOE",
+    "unified": "1F6F6"
+  },
+  {
+    "name": "SLED",
+    "unified": "1F6F7"
+  },
+  {
+    "name": "FLYING SAUCER",
+    "unified": "1F6F8"
+  },
+  {
+    "name": "SKATEBOARD",
+    "unified": "1F6F9"
+  },
+  {
+    "name": "ZIPPER-MOUTH FACE",
+    "unified": "1F910"
+  },
+  {
+    "name": "MONEY-MOUTH FACE",
+    "unified": "1F911"
+  },
+  {
+    "name": "FACE WITH THERMOMETER",
+    "unified": "1F912"
+  },
+  {
+    "name": "NERD FACE",
+    "unified": "1F913"
+  },
+  {
+    "name": "THINKING FACE",
+    "unified": "1F914"
+  },
+  {
+    "name": "FACE WITH HEAD-BANDAGE",
+    "unified": "1F915"
+  },
+  {
+    "name": "ROBOT FACE",
+    "unified": "1F916"
+  },
+  {
+    "name": "HUGGING FACE",
+    "unified": "1F917"
+  },
+  {
+    "name": "SIGN OF THE HORNS",
+    "unified": "1F918"
+  },
+  {
+    "name": "CALL ME HAND",
+    "unified": "1F919"
+  },
+  {
+    "name": "RAISED BACK OF HAND",
+    "unified": "1F91A"
+  },
+  {
+    "name": "LEFT-FACING FIST",
+    "unified": "1F91B"
+  },
+  {
+    "name": "RIGHT-FACING FIST",
+    "unified": "1F91C"
+  },
+  {
+    "name": "HANDSHAKE",
+    "unified": "1F91D"
+  },
+  {
+    "name": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+    "unified": "1F91E"
+  },
+  {
+    "name": "I LOVE YOU HAND SIGN",
+    "unified": "1F91F"
+  },
+  {
+    "name": "FACE WITH COWBOY HAT",
+    "unified": "1F920"
+  },
+  {
+    "name": "CLOWN FACE",
+    "unified": "1F921"
+  },
+  {
+    "name": "NAUSEATED FACE",
+    "unified": "1F922"
+  },
+  {
+    "name": "ROLLING ON THE FLOOR LAUGHING",
+    "unified": "1F923"
+  },
+  {
+    "name": "DROOLING FACE",
+    "unified": "1F924"
+  },
+  {
+    "name": "LYING FACE",
+    "unified": "1F925"
+  },
+  {
+    "unified": "1F926-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F926-200D-2642-FE0F"
+  },
+  {
+    "name": "FACE PALM",
+    "unified": "1F926"
+  },
+  {
+    "name": "SNEEZING FACE",
+    "unified": "1F927"
+  },
+  {
+    "name": "FACE WITH ONE EYEBROW RAISED",
+    "unified": "1F928"
+  },
+  {
+    "name": "GRINNING FACE WITH STAR EYES",
+    "unified": "1F929"
+  },
+  {
+    "name": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
+    "unified": "1F92A"
+  },
+  {
+    "name": "FACE WITH FINGER COVERING CLOSED LIPS",
+    "unified": "1F92B"
+  },
+  {
+    "name": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
+    "unified": "1F92C"
+  },
+  {
+    "name": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
+    "unified": "1F92D"
+  },
+  {
+    "name": "FACE WITH OPEN MOUTH VOMITING",
+    "unified": "1F92E"
+  },
+  {
+    "name": "SHOCKED FACE WITH EXPLODING HEAD",
+    "unified": "1F92F"
+  },
+  {
+    "name": "PREGNANT WOMAN",
+    "unified": "1F930"
+  },
+  {
+    "name": "BREAST-FEEDING",
+    "unified": "1F931"
+  },
+  {
+    "name": "PALMS UP TOGETHER",
+    "unified": "1F932"
+  },
+  {
+    "name": "SELFIE",
+    "unified": "1F933"
+  },
+  {
+    "name": "PRINCE",
+    "unified": "1F934"
+  },
+  {
+    "name": "MAN IN TUXEDO",
+    "unified": "1F935"
+  },
+  {
+    "name": "MOTHER CHRISTMAS",
+    "unified": "1F936"
+  },
+  {
+    "unified": "1F937-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F937-200D-2642-FE0F"
+  },
+  {
+    "name": "SHRUG",
+    "unified": "1F937"
+  },
+  {
+    "unified": "1F938-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F938-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON DOING CARTWHEEL",
+    "unified": "1F938"
+  },
+  {
+    "unified": "1F939-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F939-200D-2642-FE0F"
+  },
+  {
+    "name": "JUGGLING",
+    "unified": "1F939"
+  },
+  {
+    "name": "FENCER",
+    "unified": "1F93A"
+  },
+  {
+    "unified": "1F93C-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F93C-200D-2642-FE0F"
+  },
+  {
+    "name": "WRESTLERS",
+    "unified": "1F93C"
+  },
+  {
+    "unified": "1F93D-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F93D-200D-2642-FE0F"
+  },
+  {
+    "name": "WATER POLO",
+    "unified": "1F93D"
+  },
+  {
+    "unified": "1F93E-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F93E-200D-2642-FE0F"
+  },
+  {
+    "name": "HANDBALL",
+    "unified": "1F93E"
+  },
+  {
+    "name": "WILTED FLOWER",
+    "unified": "1F940"
+  },
+  {
+    "name": "DRUM WITH DRUMSTICKS",
+    "unified": "1F941"
+  },
+  {
+    "name": "CLINKING GLASSES",
+    "unified": "1F942"
+  },
+  {
+    "name": "TUMBLER GLASS",
+    "unified": "1F943"
+  },
+  {
+    "name": "SPOON",
+    "unified": "1F944"
+  },
+  {
+    "name": "GOAL NET",
+    "unified": "1F945"
+  },
+  {
+    "name": "FIRST PLACE MEDAL",
+    "unified": "1F947"
+  },
+  {
+    "name": "SECOND PLACE MEDAL",
+    "unified": "1F948"
+  },
+  {
+    "name": "THIRD PLACE MEDAL",
+    "unified": "1F949"
+  },
+  {
+    "name": "BOXING GLOVE",
+    "unified": "1F94A"
+  },
+  {
+    "name": "MARTIAL ARTS UNIFORM",
+    "unified": "1F94B"
+  },
+  {
+    "name": "CURLING STONE",
+    "unified": "1F94C"
+  },
+  {
+    "name": "LACROSSE STICK AND BALL",
+    "unified": "1F94D"
+  },
+  {
+    "name": "SOFTBALL",
+    "unified": "1F94E"
+  },
+  {
+    "name": "FLYING DISC",
+    "unified": "1F94F"
+  },
+  {
+    "name": "CROISSANT",
+    "unified": "1F950"
+  },
+  {
+    "name": "AVOCADO",
+    "unified": "1F951"
+  },
+  {
+    "name": "CUCUMBER",
+    "unified": "1F952"
+  },
+  {
+    "name": "BACON",
+    "unified": "1F953"
+  },
+  {
+    "name": "POTATO",
+    "unified": "1F954"
+  },
+  {
+    "name": "CARROT",
+    "unified": "1F955"
+  },
+  {
+    "name": "BAGUETTE BREAD",
+    "unified": "1F956"
+  },
+  {
+    "name": "GREEN SALAD",
+    "unified": "1F957"
+  },
+  {
+    "name": "SHALLOW PAN OF FOOD",
+    "unified": "1F958"
+  },
+  {
+    "name": "STUFFED FLATBREAD",
+    "unified": "1F959"
+  },
+  {
+    "name": "EGG",
+    "unified": "1F95A"
+  },
+  {
+    "name": "GLASS OF MILK",
+    "unified": "1F95B"
+  },
+  {
+    "name": "PEANUTS",
+    "unified": "1F95C"
+  },
+  {
+    "name": "KIWIFRUIT",
+    "unified": "1F95D"
+  },
+  {
+    "name": "PANCAKES",
+    "unified": "1F95E"
+  },
+  {
+    "name": "DUMPLING",
+    "unified": "1F95F"
+  },
+  {
+    "name": "FORTUNE COOKIE",
+    "unified": "1F960"
+  },
+  {
+    "name": "TAKEOUT BOX",
+    "unified": "1F961"
+  },
+  {
+    "name": "CHOPSTICKS",
+    "unified": "1F962"
+  },
+  {
+    "name": "BOWL WITH SPOON",
+    "unified": "1F963"
+  },
+  {
+    "name": "CUP WITH STRAW",
+    "unified": "1F964"
+  },
+  {
+    "name": "COCONUT",
+    "unified": "1F965"
+  },
+  {
+    "name": "BROCCOLI",
+    "unified": "1F966"
+  },
+  {
+    "name": "PIE",
+    "unified": "1F967"
+  },
+  {
+    "name": "PRETZEL",
+    "unified": "1F968"
+  },
+  {
+    "name": "CUT OF MEAT",
+    "unified": "1F969"
+  },
+  {
+    "name": "SANDWICH",
+    "unified": "1F96A"
+  },
+  {
+    "name": "CANNED FOOD",
+    "unified": "1F96B"
+  },
+  {
+    "name": "LEAFY GREEN",
+    "unified": "1F96C"
+  },
+  {
+    "name": "MANGO",
+    "unified": "1F96D"
+  },
+  {
+    "name": "MOON CAKE",
+    "unified": "1F96E"
+  },
+  {
+    "name": "BAGEL",
+    "unified": "1F96F"
+  },
+  {
+    "name": "SMILING FACE WITH SMILING EYES AND THREE HEARTS",
+    "unified": "1F970"
+  },
+  {
+    "name": "FACE WITH PARTY HORN AND PARTY HAT",
+    "unified": "1F973"
+  },
+  {
+    "name": "FACE WITH UNEVEN EYES AND WAVY MOUTH",
+    "unified": "1F974"
+  },
+  {
+    "name": "OVERHEATED FACE",
+    "unified": "1F975"
+  },
+  {
+    "name": "FREEZING FACE",
+    "unified": "1F976"
+  },
+  {
+    "name": "FACE WITH PLEADING EYES",
+    "unified": "1F97A"
+  },
+  {
+    "name": "LAB COAT",
+    "unified": "1F97C"
+  },
+  {
+    "name": "GOGGLES",
+    "unified": "1F97D"
+  },
+  {
+    "name": "HIKING BOOT",
+    "unified": "1F97E"
+  },
+  {
+    "name": "FLAT SHOE",
+    "unified": "1F97F"
+  },
+  {
+    "name": "CRAB",
+    "unified": "1F980"
+  },
+  {
+    "name": "LION FACE",
+    "unified": "1F981"
+  },
+  {
+    "name": "SCORPION",
+    "unified": "1F982"
+  },
+  {
+    "name": "TURKEY",
+    "unified": "1F983"
+  },
+  {
+    "name": "UNICORN FACE",
+    "unified": "1F984"
+  },
+  {
+    "name": "EAGLE",
+    "unified": "1F985"
+  },
+  {
+    "name": "DUCK",
+    "unified": "1F986"
+  },
+  {
+    "name": "BAT",
+    "unified": "1F987"
+  },
+  {
+    "name": "SHARK",
+    "unified": "1F988"
+  },
+  {
+    "name": "OWL",
+    "unified": "1F989"
+  },
+  {
+    "name": "FOX FACE",
+    "unified": "1F98A"
+  },
+  {
+    "name": "BUTTERFLY",
+    "unified": "1F98B"
+  },
+  {
+    "name": "DEER",
+    "unified": "1F98C"
+  },
+  {
+    "name": "GORILLA",
+    "unified": "1F98D"
+  },
+  {
+    "name": "LIZARD",
+    "unified": "1F98E"
+  },
+  {
+    "name": "RHINOCEROS",
+    "unified": "1F98F"
+  },
+  {
+    "name": "SHRIMP",
+    "unified": "1F990"
+  },
+  {
+    "name": "SQUID",
+    "unified": "1F991"
+  },
+  {
+    "name": "GIRAFFE FACE",
+    "unified": "1F992"
+  },
+  {
+    "name": "ZEBRA FACE",
+    "unified": "1F993"
+  },
+  {
+    "name": "HEDGEHOG",
+    "unified": "1F994"
+  },
+  {
+    "name": "SAUROPOD",
+    "unified": "1F995"
+  },
+  {
+    "name": "T-REX",
+    "unified": "1F996"
+  },
+  {
+    "name": "CRICKET",
+    "unified": "1F997"
+  },
+  {
+    "name": "KANGAROO",
+    "unified": "1F998"
+  },
+  {
+    "name": "LLAMA",
+    "unified": "1F999"
+  },
+  {
+    "name": "PEACOCK",
+    "unified": "1F99A"
+  },
+  {
+    "name": "HIPPOPOTAMUS",
+    "unified": "1F99B"
+  },
+  {
+    "name": "PARROT",
+    "unified": "1F99C"
+  },
+  {
+    "name": "RACCOON",
+    "unified": "1F99D"
+  },
+  {
+    "name": "LOBSTER",
+    "unified": "1F99E"
+  },
+  {
+    "name": "MOSQUITO",
+    "unified": "1F99F"
+  },
+  {
+    "name": "MICROBE",
+    "unified": "1F9A0"
+  },
+  {
+    "name": "BADGER",
+    "unified": "1F9A1"
+  },
+  {
+    "name": "SWAN",
+    "unified": "1F9A2"
+  },
+  {
+    "name": "BONE",
+    "unified": "1F9B4"
+  },
+  {
+    "name": "LEG",
+    "unified": "1F9B5"
+  },
+  {
+    "name": "FOOT",
+    "unified": "1F9B6"
+  },
+  {
+    "name": "TOOTH",
+    "unified": "1F9B7"
+  },
+  {
+    "unified": "1F9B8-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9B8-200D-2642-FE0F"
+  },
+  {
+    "unified": "1F9B9-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9B9-200D-2642-FE0F"
+  },
+  {
+    "name": "CHEESE WEDGE",
+    "unified": "1F9C0"
+  },
+  {
+    "name": "CUPCAKE",
+    "unified": "1F9C1"
+  },
+  {
+    "name": "SALT SHAKER",
+    "unified": "1F9C2"
+  },
+  {
+    "name": "FACE WITH MONOCLE",
+    "unified": "1F9D0"
+  },
+  {
+    "name": "ADULT",
+    "unified": "1F9D1"
+  },
+  {
+    "name": "CHILD",
+    "unified": "1F9D2"
+  },
+  {
+    "name": "OLDER ADULT",
+    "unified": "1F9D3"
+  },
+  {
+    "name": "BEARDED PERSON",
+    "unified": "1F9D4"
+  },
+  {
+    "name": "PERSON WITH HEADSCARF",
+    "unified": "1F9D5"
+  },
+  {
+    "unified": "1F9D6-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9D6-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON IN STEAMY ROOM",
+    "unified": "1F9D6"
+  },
+  {
+    "unified": "1F9D7-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9D7-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON CLIMBING",
+    "unified": "1F9D7"
+  },
+  {
+    "unified": "1F9D8-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9D8-200D-2642-FE0F"
+  },
+  {
+    "name": "PERSON IN LOTUS POSITION",
+    "unified": "1F9D8"
+  },
+  {
+    "unified": "1F9D9-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9D9-200D-2642-FE0F"
+  },
+  {
+    "name": "MAGE",
+    "unified": "1F9D9"
+  },
+  {
+    "unified": "1F9DA-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DA-200D-2642-FE0F"
+  },
+  {
+    "name": "FAIRY",
+    "unified": "1F9DA"
+  },
+  {
+    "unified": "1F9DB-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DB-200D-2642-FE0F"
+  },
+  {
+    "name": "VAMPIRE",
+    "unified": "1F9DB"
+  },
+  {
+    "unified": "1F9DC-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DC-200D-2642-FE0F"
+  },
+  {
+    "name": "MERPERSON",
+    "unified": "1F9DC"
+  },
+  {
+    "unified": "1F9DD-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DD-200D-2642-FE0F"
+  },
+  {
+    "name": "ELF",
+    "unified": "1F9DD"
+  },
+  {
+    "unified": "1F9DE-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DE-200D-2642-FE0F"
+  },
+  {
+    "name": "GENIE",
+    "unified": "1F9DE"
+  },
+  {
+    "unified": "1F9DF-200D-2640-FE0F"
+  },
+  {
+    "unified": "1F9DF-200D-2642-FE0F"
+  },
+  {
+    "name": "ZOMBIE",
+    "unified": "1F9DF"
+  },
+  {
+    "name": "BRAIN",
+    "unified": "1F9E0"
+  },
+  {
+    "name": "ORANGE HEART",
+    "unified": "1F9E1"
+  },
+  {
+    "name": "BILLED CAP",
+    "unified": "1F9E2"
+  },
+  {
+    "name": "SCARF",
+    "unified": "1F9E3"
+  },
+  {
+    "name": "GLOVES",
+    "unified": "1F9E4"
+  },
+  {
+    "name": "COAT",
+    "unified": "1F9E5"
+  },
+  {
+    "name": "SOCKS",
+    "unified": "1F9E6"
+  },
+  {
+    "name": "RED GIFT ENVELOPE",
+    "unified": "1F9E7"
+  },
+  {
+    "name": "FIRECRACKER",
+    "unified": "1F9E8"
+  },
+  {
+    "name": "JIGSAW PUZZLE PIECE",
+    "unified": "1F9E9"
+  },
+  {
+    "name": "TEST TUBE",
+    "unified": "1F9EA"
+  },
+  {
+    "name": "PETRI DISH",
+    "unified": "1F9EB"
+  },
+  {
+    "name": "DNA DOUBLE HELIX",
+    "unified": "1F9EC"
+  },
+  {
+    "name": "COMPASS",
+    "unified": "1F9ED"
+  },
+  {
+    "name": "ABACUS",
+    "unified": "1F9EE"
+  },
+  {
+    "name": "FIRE EXTINGUISHER",
+    "unified": "1F9EF"
+  },
+  {
+    "name": "TOOLBOX",
+    "unified": "1F9F0"
+  },
+  {
+    "name": "BRICK",
+    "unified": "1F9F1"
+  },
+  {
+    "name": "MAGNET",
+    "unified": "1F9F2"
+  },
+  {
+    "name": "LUGGAGE",
+    "unified": "1F9F3"
+  },
+  {
+    "name": "LOTION BOTTLE",
+    "unified": "1F9F4"
+  },
+  {
+    "name": "SPOOL OF THREAD",
+    "unified": "1F9F5"
+  },
+  {
+    "name": "BALL OF YARN",
+    "unified": "1F9F6"
+  },
+  {
+    "name": "SAFETY PIN",
+    "unified": "1F9F7"
+  },
+  {
+    "name": "TEDDY BEAR",
+    "unified": "1F9F8"
+  },
+  {
+    "name": "BROOM",
+    "unified": "1F9F9"
+  },
+  {
+    "name": "BASKET",
+    "unified": "1F9FA"
+  },
+  {
+    "name": "ROLL OF PAPER",
+    "unified": "1F9FB"
+  },
+  {
+    "name": "BAR OF SOAP",
+    "unified": "1F9FC"
+  },
+  {
+    "name": "SPONGE",
+    "unified": "1F9FD"
+  },
+  {
+    "name": "RECEIPT",
+    "unified": "1F9FE"
+  },
+  {
+    "name": "NAZAR AMULET",
+    "unified": "1F9FF"
+  },
+  {
+    "name": "DOUBLE EXCLAMATION MARK",
+    "unified": "203C-FE0F",
+    "docomo": "E704",
+    "au": "EB30",
+    "google": "FEB06"
+  },
+  {
+    "name": "EXCLAMATION QUESTION MARK",
+    "unified": "2049-FE0F",
+    "docomo": "E703",
+    "au": "EB2F",
+    "google": "FEB05"
+  },
+  {
+    "name": "TRADE MARK SIGN",
+    "unified": "2122-FE0F",
+    "docomo": "E732",
+    "au": "E54E",
+    "softbank": "E537",
+    "google": "FEB2A"
+  },
+  {
+    "name": "INFORMATION SOURCE",
+    "unified": "2139-FE0F",
+    "au": "E533",
+    "google": "FEB47"
+  },
+  {
+    "name": "LEFT RIGHT ARROW",
+    "unified": "2194-FE0F",
+    "docomo": "E73C",
+    "au": "EB7A",
+    "google": "FEAF6"
+  },
+  {
+    "name": "UP DOWN ARROW",
+    "unified": "2195-FE0F",
+    "docomo": "E73D",
+    "au": "EB7B",
+    "google": "FEAF7"
+  },
+  {
+    "name": "NORTH WEST ARROW",
+    "unified": "2196-FE0F",
+    "docomo": "E697",
+    "au": "E54C",
+    "softbank": "E237",
+    "google": "FEAF2"
+  },
+  {
+    "name": "NORTH EAST ARROW",
+    "unified": "2197-FE0F",
+    "docomo": "E678",
+    "au": "E555",
+    "softbank": "E236",
+    "google": "FEAF0"
+  },
+  {
+    "name": "SOUTH EAST ARROW",
+    "unified": "2198-FE0F",
+    "docomo": "E696",
+    "au": "E54D",
+    "softbank": "E238",
+    "google": "FEAF1"
+  },
+  {
+    "name": "SOUTH WEST ARROW",
+    "unified": "2199-FE0F",
+    "docomo": "E6A5",
+    "au": "E556",
+    "softbank": "E239",
+    "google": "FEAF3"
+  },
+  {
+    "name": "LEFTWARDS ARROW WITH HOOK",
+    "unified": "21A9-FE0F",
+    "docomo": "E6DA",
+    "au": "E55D",
+    "google": "FEB83"
+  },
+  {
+    "name": "RIGHTWARDS ARROW WITH HOOK",
+    "unified": "21AA-FE0F",
+    "au": "E55C",
+    "google": "FEB88"
+  },
+  {
+    "name": "WATCH",
+    "unified": "231A",
+    "docomo": "E71F",
+    "au": "E57A",
+    "google": "FE01D"
+  },
+  {
+    "name": "HOURGLASS",
+    "unified": "231B",
+    "docomo": "E71C",
+    "au": "E57B",
+    "google": "FE01C"
+  },
+  {
+    "unified": "2328-FE0F"
+  },
+  {
+    "unified": "23CF-FE0F"
+  },
+  {
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+    "unified": "23E9",
+    "au": "E530",
+    "softbank": "E23C",
+    "google": "FEAFE"
+  },
+  {
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+    "unified": "23EA",
+    "au": "E52F",
+    "softbank": "E23D",
+    "google": "FEAFF"
+  },
+  {
+    "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
+    "unified": "23EB",
+    "au": "E545",
+    "google": "FEB03"
+  },
+  {
+    "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+    "unified": "23EC",
+    "au": "E544",
+    "google": "FEB02"
+  },
+  {
+    "unified": "23ED-FE0F"
+  },
+  {
+    "unified": "23EE-FE0F"
+  },
+  {
+    "unified": "23EF-FE0F"
+  },
+  {
+    "name": "ALARM CLOCK",
+    "unified": "23F0",
+    "docomo": "E6BA",
+    "au": "E594",
+    "google": "FE02A"
+  },
+  {
+    "unified": "23F1-FE0F"
+  },
+  {
+    "unified": "23F2-FE0F"
+  },
+  {
+    "name": "HOURGLASS WITH FLOWING SAND",
+    "unified": "23F3",
+    "docomo": "E71C",
+    "au": "E47C",
+    "google": "FE01B"
+  },
+  {
+    "unified": "23F8-FE0F"
+  },
+  {
+    "unified": "23F9-FE0F"
+  },
+  {
+    "unified": "23FA-FE0F"
+  },
+  {
+    "name": "CIRCLED LATIN CAPITAL LETTER M",
+    "unified": "24C2-FE0F",
+    "docomo": "E65C",
+    "au": "E5BC",
+    "google": "FE7E1"
+  },
+  {
+    "name": "BLACK SMALL SQUARE",
+    "unified": "25AA-FE0F",
+    "au": "E532",
+    "google": "FEB6E"
+  },
+  {
+    "name": "WHITE SMALL SQUARE",
+    "unified": "25AB-FE0F",
+    "au": "E531",
+    "google": "FEB6D"
+  },
+  {
+    "name": "BLACK RIGHT-POINTING TRIANGLE",
+    "unified": "25B6-FE0F",
+    "au": "E52E",
+    "softbank": "E23A",
+    "google": "FEAFC"
+  },
+  {
+    "name": "BLACK LEFT-POINTING TRIANGLE",
+    "unified": "25C0-FE0F",
+    "au": "E52D",
+    "softbank": "E23B",
+    "google": "FEAFD"
+  },
+  {
+    "name": "WHITE MEDIUM SQUARE",
+    "unified": "25FB-FE0F",
+    "au": "E538",
+    "google": "FEB71"
+  },
+  {
+    "name": "BLACK MEDIUM SQUARE",
+    "unified": "25FC-FE0F",
+    "au": "E539",
+    "google": "FEB72"
+  },
+  {
+    "name": "WHITE MEDIUM SMALL SQUARE",
+    "unified": "25FD",
+    "au": "E534",
+    "google": "FEB6F"
+  },
+  {
+    "name": "BLACK MEDIUM SMALL SQUARE",
+    "unified": "25FE",
+    "au": "E535",
+    "google": "FEB70"
+  },
+  {
+    "name": "BLACK SUN WITH RAYS",
+    "unified": "2600-FE0F",
+    "docomo": "E63E",
+    "au": "E488",
+    "softbank": "E04A",
+    "google": "FE000"
+  },
+  {
+    "name": "CLOUD",
+    "unified": "2601-FE0F",
+    "docomo": "E63F",
+    "au": "E48D",
+    "softbank": "E049",
+    "google": "FE001"
+  },
+  {
+    "unified": "2602-FE0F"
+  },
+  {
+    "unified": "2603-FE0F"
+  },
+  {
+    "unified": "2604-FE0F"
+  },
+  {
+    "name": "BLACK TELEPHONE",
+    "unified": "260E-FE0F",
+    "docomo": "E687",
+    "au": "E596",
+    "softbank": "E009",
+    "google": "FE523"
+  },
+  {
+    "name": "BALLOT BOX WITH CHECK",
+    "unified": "2611-FE0F",
+    "au": "EB02",
+    "google": "FEB8B"
+  },
+  {
+    "name": "UMBRELLA WITH RAIN DROPS",
+    "unified": "2614",
+    "docomo": "E640",
+    "au": "E48C",
+    "softbank": "E04B",
+    "google": "FE002"
+  },
+  {
+    "name": "HOT BEVERAGE",
+    "unified": "2615",
+    "docomo": "E670",
+    "au": "E597",
+    "softbank": "E045",
+    "google": "FE981"
+  },
+  {
+    "unified": "2618-FE0F"
+  },
+  {
+    "name": "WHITE UP POINTING INDEX",
+    "unified": "261D-FE0F",
+    "au": "E4F6",
+    "softbank": "E00F",
+    "google": "FEB98"
+  },
+  {
+    "unified": "2620-FE0F"
+  },
+  {
+    "unified": "2622-FE0F"
+  },
+  {
+    "unified": "2623-FE0F"
+  },
+  {
+    "unified": "2626-FE0F"
+  },
+  {
+    "unified": "262A-FE0F"
+  },
+  {
+    "unified": "262E-FE0F"
+  },
+  {
+    "unified": "262F-FE0F"
+  },
+  {
+    "unified": "2638-FE0F"
+  },
+  {
+    "unified": "2639-FE0F"
+  },
+  {
+    "name": "WHITE SMILING FACE",
+    "unified": "263A-FE0F",
+    "docomo": "E6F0",
+    "au": "E4FB",
+    "softbank": "E414",
+    "google": "FE336"
+  },
+  {
+    "unified": "2640-FE0F"
+  },
+  {
+    "unified": "2642-FE0F"
+  },
+  {
+    "name": "ARIES",
+    "unified": "2648",
+    "docomo": "E646",
+    "au": "E48F",
+    "softbank": "E23F",
+    "google": "FE02B"
+  },
+  {
+    "name": "TAURUS",
+    "unified": "2649",
+    "docomo": "E647",
+    "au": "E490",
+    "softbank": "E240",
+    "google": "FE02C"
+  },
+  {
+    "name": "GEMINI",
+    "unified": "264A",
+    "docomo": "E648",
+    "au": "E491",
+    "softbank": "E241",
+    "google": "FE02D"
+  },
+  {
+    "name": "CANCER",
+    "unified": "264B",
+    "docomo": "E649",
+    "au": "E492",
+    "softbank": "E242",
+    "google": "FE02E"
+  },
+  {
+    "name": "LEO",
+    "unified": "264C",
+    "docomo": "E64A",
+    "au": "E493",
+    "softbank": "E243",
+    "google": "FE02F"
+  },
+  {
+    "name": "VIRGO",
+    "unified": "264D",
+    "docomo": "E64B",
+    "au": "E494",
+    "softbank": "E244",
+    "google": "FE030"
+  },
+  {
+    "name": "LIBRA",
+    "unified": "264E",
+    "docomo": "E64C",
+    "au": "E495",
+    "softbank": "E245",
+    "google": "FE031"
+  },
+  {
+    "name": "SCORPIUS",
+    "unified": "264F",
+    "docomo": "E64D",
+    "au": "E496",
+    "softbank": "E246",
+    "google": "FE032"
+  },
+  {
+    "name": "SAGITTARIUS",
+    "unified": "2650",
+    "docomo": "E64E",
+    "au": "E497",
+    "softbank": "E247",
+    "google": "FE033"
+  },
+  {
+    "name": "CAPRICORN",
+    "unified": "2651",
+    "docomo": "E64F",
+    "au": "E498",
+    "softbank": "E248",
+    "google": "FE034"
+  },
+  {
+    "name": "AQUARIUS",
+    "unified": "2652",
+    "docomo": "E650",
+    "au": "E499",
+    "softbank": "E249",
+    "google": "FE035"
+  },
+  {
+    "name": "PISCES",
+    "unified": "2653",
+    "docomo": "E651",
+    "au": "E49A",
+    "softbank": "E24A",
+    "google": "FE036"
+  },
+  {
+    "unified": "265F-FE0F"
+  },
+  {
+    "name": "BLACK SPADE SUIT",
+    "unified": "2660-FE0F",
+    "docomo": "E68E",
+    "au": "E5A1",
+    "softbank": "E20E",
+    "google": "FEB1B"
+  },
+  {
+    "name": "BLACK CLUB SUIT",
+    "unified": "2663-FE0F",
+    "docomo": "E690",
+    "au": "E5A3",
+    "softbank": "E20F",
+    "google": "FEB1D"
+  },
+  {
+    "name": "BLACK HEART SUIT",
+    "unified": "2665-FE0F",
+    "docomo": "E68D",
+    "au": "EAA5",
+    "softbank": "E20C",
+    "google": "FEB1A"
+  },
+  {
+    "name": "BLACK DIAMOND SUIT",
+    "unified": "2666-FE0F",
+    "docomo": "E68F",
+    "au": "E5A2",
+    "softbank": "E20D",
+    "google": "FEB1C"
+  },
+  {
+    "name": "HOT SPRINGS",
+    "unified": "2668-FE0F",
+    "docomo": "E6F7",
+    "au": "E4BC",
+    "softbank": "E123",
+    "google": "FE7FA"
+  },
+  {
+    "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
+    "unified": "267B-FE0F",
+    "docomo": "E735",
+    "au": "EB79",
+    "google": "FEB2C"
+  },
+  {
+    "unified": "267E-FE0F"
+  },
+  {
+    "name": "WHEELCHAIR SYMBOL",
+    "unified": "267F",
+    "docomo": "E69B",
+    "au": "E47F",
+    "softbank": "E20A",
+    "google": "FEB20"
+  },
+  {
+    "unified": "2692-FE0F"
+  },
+  {
+    "name": "ANCHOR",
+    "unified": "2693",
+    "docomo": "E661",
+    "au": "E4A9",
+    "google": "FE4C1"
+  },
+  {
+    "unified": "2694-FE0F"
+  },
+  {
+    "unified": "2695-FE0F"
+  },
+  {
+    "unified": "2696-FE0F"
+  },
+  {
+    "unified": "2697-FE0F"
+  },
+  {
+    "unified": "2699-FE0F"
+  },
+  {
+    "unified": "269B-FE0F"
+  },
+  {
+    "unified": "269C-FE0F"
+  },
+  {
+    "name": "WARNING SIGN",
+    "unified": "26A0-FE0F",
+    "docomo": "E737",
+    "au": "E481",
+    "softbank": "E252",
+    "google": "FEB23"
+  },
+  {
+    "name": "HIGH VOLTAGE SIGN",
+    "unified": "26A1",
+    "docomo": "E642",
+    "au": "E487",
+    "softbank": "E13D",
+    "google": "FE004"
+  },
+  {
+    "name": "MEDIUM WHITE CIRCLE",
+    "unified": "26AA",
+    "docomo": "E69C",
+    "au": "E53A",
+    "google": "FEB65"
+  },
+  {
+    "name": "MEDIUM BLACK CIRCLE",
+    "unified": "26AB",
+    "docomo": "E69C",
+    "au": "E53B",
+    "google": "FEB66"
+  },
+  {
+    "unified": "26B0-FE0F"
+  },
+  {
+    "unified": "26B1-FE0F"
+  },
+  {
+    "name": "SOCCER BALL",
+    "unified": "26BD",
+    "docomo": "E656",
+    "au": "E4B6",
+    "softbank": "E018",
+    "google": "FE7D4"
+  },
+  {
+    "name": "BASEBALL",
+    "unified": "26BE",
+    "docomo": "E653",
+    "au": "E4BA",
+    "softbank": "E016",
+    "google": "FE7D1"
+  },
+  {
+    "name": "SNOWMAN WITHOUT SNOW",
+    "unified": "26C4",
+    "docomo": "E641",
+    "au": "E485",
+    "softbank": "E048",
+    "google": "FE003"
+  },
+  {
+    "name": "SUN BEHIND CLOUD",
+    "unified": "26C5",
+    "docomo": "E63E-E63F",
+    "au": "E48E",
+    "google": "FE00F"
+  },
+  {
+    "unified": "26C8-FE0F"
+  },
+  {
+    "name": "OPHIUCHUS",
+    "unified": "26CE",
+    "au": "E49B",
+    "softbank": "E24B",
+    "google": "FE037"
+  },
+  {
+    "unified": "26CF-FE0F"
+  },
+  {
+    "unified": "26D1-FE0F"
+  },
+  {
+    "unified": "26D3-FE0F"
+  },
+  {
+    "name": "NO ENTRY",
+    "unified": "26D4",
+    "docomo": "E72F",
+    "au": "E484",
+    "google": "FEB26"
+  },
+  {
+    "unified": "26E9-FE0F"
+  },
+  {
+    "name": "CHURCH",
+    "unified": "26EA",
+    "au": "E5BB",
+    "softbank": "E037",
+    "google": "FE4BB"
+  },
+  {
+    "unified": "26F0-FE0F"
+  },
+  {
+    "unified": "26F1-FE0F"
+  },
+  {
+    "name": "FOUNTAIN",
+    "unified": "26F2",
+    "au": "E5CF",
+    "softbank": "E121",
+    "google": "FE4BC"
+  },
+  {
+    "name": "FLAG IN HOLE",
+    "unified": "26F3",
+    "docomo": "E654",
+    "au": "E599",
+    "softbank": "E014",
+    "google": "FE7D2"
+  },
+  {
+    "unified": "26F4-FE0F"
+  },
+  {
+    "name": "SAILBOAT",
+    "unified": "26F5",
+    "docomo": "E6A3",
+    "au": "E4B4",
+    "softbank": "E01C",
+    "google": "FE7EA"
+  },
+  {
+    "unified": "26F7-FE0F"
+  },
+  {
+    "unified": "26F8-FE0F"
+  },
+  {
+    "unified": "26F9-FE0F-200D-2640-FE0F"
+  },
+  {
+    "unified": "26F9-FE0F-200D-2642-FE0F"
+  },
+  {
+    "unified": "26F9-FE0F"
+  },
+  {
+    "name": "TENT",
+    "unified": "26FA",
+    "au": "E5D0",
+    "softbank": "E122",
+    "google": "FE7FB"
+  },
+  {
+    "name": "FUEL PUMP",
+    "unified": "26FD",
+    "docomo": "E66B",
+    "au": "E571",
+    "softbank": "E03A",
+    "google": "FE7F5"
+  },
+  {
+    "name": "BLACK SCISSORS",
+    "unified": "2702-FE0F",
+    "docomo": "E675",
+    "au": "E516",
+    "softbank": "E313",
+    "google": "FE53E"
+  },
+  {
+    "name": "WHITE HEAVY CHECK MARK",
+    "unified": "2705",
+    "au": "E55E",
+    "google": "FEB4A"
+  },
+  {
+    "name": "AIRPLANE",
+    "unified": "2708-FE0F",
+    "docomo": "E662",
+    "au": "E4B3",
+    "softbank": "E01D",
+    "google": "FE7E9"
+  },
+  {
+    "name": "ENVELOPE",
+    "unified": "2709-FE0F",
+    "docomo": "E6D3",
+    "au": "E521",
+    "google": "FE529"
+  },
+  {
+    "name": "RAISED FIST",
+    "unified": "270A",
+    "docomo": "E693",
+    "au": "EB83",
+    "softbank": "E010",
+    "google": "FEB93"
+  },
+  {
+    "name": "RAISED HAND",
+    "unified": "270B",
+    "docomo": "E695",
+    "au": "E5A7",
+    "softbank": "E012",
+    "google": "FEB95"
+  },
+  {
+    "name": "VICTORY HAND",
+    "unified": "270C-FE0F",
+    "docomo": "E694",
+    "au": "E5A6",
+    "softbank": "E011",
+    "google": "FEB94"
+  },
+  {
+    "unified": "270D-FE0F"
+  },
+  {
+    "name": "PENCIL",
+    "unified": "270F-FE0F",
+    "docomo": "E719",
+    "au": "E4A1",
+    "google": "FE539"
+  },
+  {
+    "name": "BLACK NIB",
+    "unified": "2712-FE0F",
+    "docomo": "E6AE",
+    "au": "EB03",
+    "google": "FE536"
+  },
+  {
+    "name": "HEAVY CHECK MARK",
+    "unified": "2714-FE0F",
+    "au": "E557",
+    "google": "FEB49"
+  },
+  {
+    "name": "HEAVY MULTIPLICATION X",
+    "unified": "2716-FE0F",
+    "au": "E54F",
+    "google": "FEB53"
+  },
+  {
+    "unified": "271D-FE0F"
+  },
+  {
+    "unified": "2721-FE0F"
+  },
+  {
+    "name": "SPARKLES",
+    "unified": "2728",
+    "docomo": "E6FA",
+    "au": "EAAB",
+    "softbank": "E32E",
+    "google": "FEB60"
+  },
+  {
+    "name": "EIGHT SPOKED ASTERISK",
+    "unified": "2733-FE0F",
+    "docomo": "E6F8",
+    "au": "E53E",
+    "softbank": "E206",
+    "google": "FEB62"
+  },
+  {
+    "name": "EIGHT POINTED BLACK STAR",
+    "unified": "2734-FE0F",
+    "docomo": "E6F8",
+    "au": "E479",
+    "softbank": "E205",
+    "google": "FEB61"
+  },
+  {
+    "name": "SNOWFLAKE",
+    "unified": "2744-FE0F",
+    "au": "E48A",
+    "google": "FE00E"
+  },
+  {
+    "name": "SPARKLE",
+    "unified": "2747-FE0F",
+    "docomo": "E6FA",
+    "au": "E46C",
+    "google": "FEB77"
+  },
+  {
+    "name": "CROSS MARK",
+    "unified": "274C",
+    "au": "E550",
+    "softbank": "E333",
+    "google": "FEB45"
+  },
+  {
+    "name": "NEGATIVE SQUARED CROSS MARK",
+    "unified": "274E",
+    "au": "E551",
+    "google": "FEB46"
+  },
+  {
+    "name": "BLACK QUESTION MARK ORNAMENT",
+    "unified": "2753",
+    "au": "E483",
+    "softbank": "E020",
+    "google": "FEB09"
+  },
+  {
+    "name": "WHITE QUESTION MARK ORNAMENT",
+    "unified": "2754",
+    "au": "E483",
+    "softbank": "E336",
+    "google": "FEB0A"
+  },
+  {
+    "name": "WHITE EXCLAMATION MARK ORNAMENT",
+    "unified": "2755",
+    "docomo": "E702",
+    "au": "E482",
+    "softbank": "E337",
+    "google": "FEB0B"
+  },
+  {
+    "name": "HEAVY EXCLAMATION MARK SYMBOL",
+    "unified": "2757",
+    "docomo": "E702",
+    "au": "E482",
+    "softbank": "E021",
+    "google": "FEB04"
+  },
+  {
+    "unified": "2763-FE0F"
+  },
+  {
+    "name": "HEAVY BLACK HEART",
+    "unified": "2764-FE0F",
+    "docomo": "E6EC",
+    "au": "E595",
+    "softbank": "E022",
+    "google": "FEB0C"
+  },
+  {
+    "name": "HEAVY PLUS SIGN",
+    "unified": "2795",
+    "au": "E53C",
+    "google": "FEB51"
+  },
+  {
+    "name": "HEAVY MINUS SIGN",
+    "unified": "2796",
+    "au": "E53D",
+    "google": "FEB52"
+  },
+  {
+    "name": "HEAVY DIVISION SIGN",
+    "unified": "2797",
+    "au": "E554",
+    "google": "FEB54"
+  },
+  {
+    "name": "BLACK RIGHTWARDS ARROW",
+    "unified": "27A1-FE0F",
+    "au": "E552",
+    "softbank": "E234",
+    "google": "FEAFA"
+  },
+  {
+    "name": "CURLY LOOP",
+    "unified": "27B0",
+    "docomo": "E70A",
+    "au": "EB31",
+    "google": "FEB08"
+  },
+  {
+    "name": "DOUBLE CURLY LOOP",
+    "unified": "27BF",
+    "docomo": "E6DF",
+    "softbank": "E211",
+    "google": "FE82B"
+  },
+  {
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
+    "unified": "2934-FE0F",
+    "docomo": "E6F5",
+    "au": "EB2D",
+    "google": "FEAF4"
+  },
+  {
+    "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
+    "unified": "2935-FE0F",
+    "docomo": "E700",
+    "au": "EB2E",
+    "google": "FEAF5"
+  },
+  {
+    "name": "LEFTWARDS BLACK ARROW",
+    "unified": "2B05-FE0F",
+    "au": "E553",
+    "softbank": "E235",
+    "google": "FEAFB"
+  },
+  {
+    "name": "UPWARDS BLACK ARROW",
+    "unified": "2B06-FE0F",
+    "au": "E53F",
+    "softbank": "E232",
+    "google": "FEAF8"
+  },
+  {
+    "name": "DOWNWARDS BLACK ARROW",
+    "unified": "2B07-FE0F",
+    "au": "E540",
+    "softbank": "E233",
+    "google": "FEAF9"
+  },
+  {
+    "name": "BLACK LARGE SQUARE",
+    "unified": "2B1B",
+    "au": "E549",
+    "google": "FEB6C"
+  },
+  {
+    "name": "WHITE LARGE SQUARE",
+    "unified": "2B1C",
+    "au": "E548",
+    "google": "FEB6B"
+  },
+  {
+    "name": "WHITE MEDIUM STAR",
+    "unified": "2B50",
+    "au": "E48B",
+    "softbank": "E32F",
+    "google": "FEB68"
+  },
+  {
+    "name": "HEAVY LARGE CIRCLE",
+    "unified": "2B55",
+    "docomo": "E6A0",
+    "au": "EAAD",
+    "softbank": "E332",
+    "google": "FEB44"
+  },
+  {
+    "name": "WAVY DASH",
+    "unified": "3030-FE0F",
+    "docomo": "E709",
+    "google": "FEB07"
+  },
+  {
+    "name": "PART ALTERNATION MARK",
+    "unified": "303D-FE0F",
+    "softbank": "E12C",
+    "google": "FE81B"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH CONGRATULATION",
+    "unified": "3297-FE0F",
+    "au": "EA99",
+    "softbank": "E30D",
+    "google": "FEB43"
+  },
+  {
+    "name": "CIRCLED IDEOGRAPH SECRET",
+    "unified": "3299-FE0F",
+    "docomo": "E734",
+    "au": "E4F1",
+    "softbank": "E315",
+    "google": "FEB2B"
+  }
+]
