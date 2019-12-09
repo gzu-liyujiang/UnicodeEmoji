@@ -67,6 +67,20 @@ https://github.com/google/emoji4unicode/blob/master/data/emoji4unicode.xml
   "E153": "0001F3E3",
 ...省略...
 }
+
+## [SoftBank版本编码与标准Unicode编码对应关系](/softbank_unicode.json)
+```text
+{
+    "E150": "\\uD83D\\uDE8F",
+    "E030": "\\uD83C\\uDF38",
+    "E151": "\\uD83D\\uDEBB",
+    "E152": "\\uD83D\\uDC6E",
+    "E031": "\\uD83D\\uDD31",
+    "E032": "\\uD83C\\uDF39",
+    "E153": "\\uD83C\\uDFE3",
+...省略...
+}
+
 ```
 ## [SoftBank版本编码与标准的Emoji表情的对应关系](/softbank_decode.json)
 ```text
