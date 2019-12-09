@@ -158,11 +158,7 @@ class Main {
             }
         }
         mapBuilder.append("    }\n");
-        mapBuilder.append("    String ret = SB_UNICODE.get(softbank);\n");
-        mapBuilder.append("    if (ret == null) {\n");
-        mapBuilder.append("        ret = softbank;\n");
-        mapBuilder.append("    }\n");
-        mapBuilder.append("    return ret;\n");
+        mapBuilder.append("    return SB_UNICODE.get(softbank)\n");
         mapBuilder.append("}\n");
         IOUtils.writeStringThrown(asCharacterFile.getAbsolutePath(), new Gson().toJson(characterMap), "utf-8");
         System.out.println("mapped as character: " + asCharacterFile);

@@ -533,11 +533,7 @@ public class UnicodeUtils {
             SB_UNICODE.put("E30D", "\u3297\uFE0F");
             SB_UNICODE.put("E315", "\u3299\uFE0F");
         }
-        String ret = SB_UNICODE.get(softbank);
-        if (ret == null) {
-            ret = softbank;
-        }
-        return ret;
+        return SB_UNICODE.get(softbank);
     }
 
     public static String toUnicodeFormal(String str) {
@@ -590,16 +586,18 @@ public class UnicodeUtils {
     }
 
     private static String toUnicodeFormal(char aChar) {
-        StringBuilder stringBuilder = new StringBuilder();
-        stringBuilder.append("\\u");
         String unicode = Integer.toHexString(aChar);
         if (unicode.length() <= 2) {
-            stringBuilder.append("00");
+            unicode = "00" + unicode;
         }
         String str = unicode.toUpperCase();
-        str = obtainUnicodeBySoftBank(str);
-        stringBuilder.append(str);
-        return stringBuilder.toString();
+        String sbStr = obtainUnicodeBySoftBank(str);
+        if (sbStr == null || sbStr.length() == 0) {
+            unicode = "\\u" + str;
+        } else {
+            unicode = sbStr;
+        }
+        return unicode;
     }
 
     private static boolean hasMultiCharacter(String str, boolean containsCJK, boolean containEmoji) {

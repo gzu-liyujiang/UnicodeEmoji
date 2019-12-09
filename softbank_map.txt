@@ -473,9 +473,5 @@ public static String obtainUnicodeBySoftBank(String softbank) {
         SB_UNICODE.put("E30D", "\u3297\uFE0F");
         SB_UNICODE.put("E315", "\u3299\uFE0F");
     }
-    String ret = SB_UNICODE.get(softbank);
-    if (ret == null) {
-        ret = softbank;
-    }
-    return ret;
+    return SB_UNICODE.get(softbank)
 }
