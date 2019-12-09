@@ -40,7 +40,7 @@ Emoji表情有很多种版本，其中包括Unified、DoCoMo、KDDI、SoftBank�
 2、Unified版本，如😂为1F602；
 3、自定义表情版本，如[捂脸]。
 
-😂(喜极而泣)的各种编码如下：
+举个例子，😂(喜极而泣)的各种编码如下：
 SoftBank：0000E412
 Unified：0001F602（U+1F602）
 DoCoMo：0000E72A
@@ -55,6 +55,41 @@ UTF-32LE：FFFE000002F60100
 Emoji表情代码表参阅：
 http://punchdrunker.github.io/iOSEmoji/table_html/index.html
 </pre>
+
+## [Unified、DoCoMo、KDDI、SoftBank和Google等个版本之间的编码对应关系](/emoji.json)
+
+```text
+[
+  {
+    "name": "HASH KEY",
+    "unified": "0023-FE0F-20E3",
+    "docomo": "E6E0",
+    "au": "EB84",
+    "softbank": "E210",
+    "google": "FE82C"
+  },
+  {
+    "unified": "002A-FE0F-20E3"
+  },
+  {
+    "name": "KEYCAP 0",
+    "unified": "0030-FE0F-20E3",
+    "docomo": "E6EB",
+    "au": "E5AC",
+    "softbank": "E225",
+    "google": "FE837"
+  },
+  {
+    "name": "KEYCAP 1",
+    "unified": "0031-FE0F-20E3",
+    "docomo": "E6E2",
+    "au": "E522",
+    "softbank": "E21C",
+    "google": "FE82E"
+  },
+...省略...
+]
+```
 
 ## [SoftBank版本编码与Unified版本编码对应关系](/softbank_unified.json)
 
@@ -75,18 +110,18 @@ http://punchdrunker.github.io/iOSEmoji/table_html/index.html
 
 ```text
 {
-    "E150": "\\uD83D\\uDE8F",
-    "E030": "\\uD83C\\uDF38",
-    "E151": "\\uD83D\\uDEBB",
-    "E152": "\\uD83D\\uDC6E",
-    "E031": "\\uD83D\\uDD31",
-    "E032": "\\uD83C\\uDF39",
-    "E153": "\\uD83C\\uDFE3",
+    "E150": "\uD83D\uDE8F",
+    "E030": "\uD83C\uDF38",
+    "E151": "\uD83D\uDEBB",
+    "E152": "\uD83D\uDC6E",
+    "E031": "\uD83D\uDD31",
+    "E032": "\uD83C\uDF39",
+    "E153": "\uD83C\uDFE3",
 ...省略...
 }
 ```
 
-## [SoftBank版本编码与标准的Emoji表情的对应关系](/softbank_decode.json)
+## [SoftBank版本编码与标准的Emoji字符表情的对应关系](/softbank_decode.json)
 
 ```text
 {
