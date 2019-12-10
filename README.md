@@ -3,34 +3,30 @@
 含Emoji表情处理、中日韩字符判断、Unicode格式化表示等，可用于解决微信登录Emoji表情昵称乱码问题。
 
 ```text
-str = UnicodeUtils.emojiEncode(false, str);
+        String url = String.format("https://api.weixin.qq.com/sns/userinfo?" +
+                "access_token=%s&openid=%s", wxToken.getAccess_token(), wxToken.getOpenid());
+        HttpClient.get(url, new TextCallback() {
+            @Override
+            public void onSuccess(Map<String, List<String>> headers, String result) {
+                Logger.debug("获取微信用户信息-Emoji编码前:" + result);
+                result = UnicodeUtils.emojiEncode(false, result);
+                Logger.debug("获取微信用户信息-Emoji编码后:" + result);
+                WXUserInfo wxUserInfo = new Gson().fromJson(result, WXUserInfo.class);
+                WXAuthCallback callback = WeChatSDK.getAuthCallback();
+                if (callback != null) {
+                    callback.onUserInfoReceived(wxUserInfo);
+                }
+            }
+
+            @Override
+            public void onError(int code, Throwable throwable) {
+                if (callback != null) {
+                    callback.onTokenCheckFailed("微信用户信息获取出错: " + code);
+                }
+            }
+        });
 ```
-微信昵称Emoji表情解码前：
-```json
-{
-    "nickname": "@测试。。",
-    "sex": 1,
-    "language": "zh_CN",
-    "city": "",
-    "province": "",
-    "country": "AD",
-    "headimgurl": "http://thirdwx.qlogo.cn/mmopen/vi_32/LX7aSR1brjexPRicvmib0jumlFsDt1gLuGS43rzmialiaqfGJyxIaHgVr0xIFQbfGiaChZGZmvu8ZA5fjmciciaoFnMbg/132",
-    "privilege": []
-}
-```
-微信昵称Emoji表情解码后：
-```json
-{
-    "city": "",
-    "country": "AD",
-    "headimgurl": "http://thirdwx.qlogo.cn/mmopen/vi_32/LX7aSR1brjexPRicvmib0jumlFsDt1gLuGS43rzmialiaqfGJyxIaHgVr0xIFQbfGiaChZGZmvu8ZA5fjmciciaoFnMbg/132",
-    "language": "zh_CN",
-    "nickname": "@测试。。😂",
-    "privilege": [],
-    "province": "",
-    "sex": 1
-}
-```
+![](/wechat_nick_emoji.jpg)
 
 Emoji表情有很多种版本，其中包括Unified、DoCoMo、KDDI、SoftBank和Google，不同版本的Unicode代码并不一定相同。
 
