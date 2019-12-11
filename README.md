@@ -2,15 +2,19 @@
 
 含Emoji表情处理、中日韩字符判断、Unicode格式化表示等，可用于解决微信登录Emoji表情昵称乱码问题。
 
-```text
+微信原始昵称含三种Emoji表情：![](/screenshot/wechat_nick_original.jpg)   
+微信授权昵称未处理Emoji表情：![](/screenshot/wechat_nick_normal.jpg)   
+微信授权昵称已处理Emoji表情：![](/screenshot/wechat_nick_handler.jpg)   
+
+```java
         String url = String.format("https://api.weixin.qq.com/sns/userinfo?" +
                 "access_token=%s&openid=%s", wxToken.getAccess_token(), wxToken.getOpenid());
         HttpClient.get(url, new TextCallback() {
             @Override
             public void onSuccess(Map<String, List<String>> headers, String result) {
-                Logger.debug("获取微信用户信息-Emoji编码前:" + result);
+                Logger.debug("获取微信用户信息UTF8-Emoji编码前:" + result);
                 result = UnicodeUtils.emojiEncode(false, result);
-                Logger.debug("获取微信用户信息-Emoji编码后:" + result);
+                Logger.debug("获取微信用户信息UTF8-Emoji编码后:" + result);
                 WXUserInfo wxUserInfo = new Gson().fromJson(result, WXUserInfo.class);
                 WXAuthCallback callback = WeChatSDK.getAuthCallback();
                 if (callback != null) {
@@ -26,7 +30,7 @@
             }
         });
 ```
-![](/wechat_nick_emoji.jpg)
+![](/screenshot/wechat_nick_compare.jpg)
 
 Emoji表情有很多种版本，其中包括Unified、DoCoMo、KDDI、SoftBank和Google，不同版本的Unicode代码并不一定相同。
 
