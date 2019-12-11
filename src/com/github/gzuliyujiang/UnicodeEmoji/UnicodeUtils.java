@@ -36,6 +36,7 @@ public class UnicodeUtils {
      * UTF-32LE：FFFE000002F60100
      * Emoji表情代码表参阅：
      * http://punchdrunker.github.io/iOSEmoji/table_html/index.html
+     * http://www.oicqzone.com/tool/emoji
      * https://github.com/iamcal/emoji-data/blob/master/emoji.json
      * https://github.com/google/emoji4unicode/blob/master/data/emoji4unicode.xml
      * </pre>
